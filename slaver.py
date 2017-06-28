@@ -15,12 +15,12 @@ def crawl_tianMao(IP):
 	#goods_url="https://detail.tmall.com/item.htm?spm=a230r.1.14.6.4bRmel&id=537441459334&cm_id=140105335569ed55e27b&abbucket=10"
 	r=Redis()
 	print(r.keys('*'))
-	if r.exists('goods_urls')==False:
+	if r.exists('goods_urls') == False:
 			print("over!")
 			exit(0)
 	goods_url=r.lpop('goods_urls')
 	try:
-		text=requests.get(url=goods_url,headers=headers,proxies={"http": "http://"+IP}).text
+		text = requests.get(url=goods_url,headers=headers,proxies={"http": "http://"+IP}).text
 		#print("到了")
 		#text=unicode(text,'GBK').encode('UTF-8')
 		#print("这里可以啊")
@@ -29,44 +29,44 @@ def crawl_tianMao(IP):
 			print("over!")
 			exit(0)
 		else:
-			IP=r.lpop('IPs')
-	Ids=re.findall(r'w.g_config={(.*?)}',text)[0]
-	itemId=re.findall(r'itemId:"(.*?)"',Ids)[0]
-	sellerId=re.findall(r'sellerId:"(.*?)"',Ids)[0]
+			IP = r.lpop('IPs')
+	Ids = re.findall(r'w.g_config={(.*?)}',text)[0]
+	itemId = re.findall(r'itemId:"(.*?)"',Ids)[0]
+	sellerId = re.findall(r'sellerId:"(.*?)"',Ids)[0]
 
-	errorTime=0
-	NUM=int(r['NUM'])
-	output=open(str(NUM)+".txt",'w')
-	r['NUM']=NUM+1
+	errorTime = 0
+	NUM = int(r['NUM'])
+	output = open(str(NUM)+".txt",'w')
+	r['NUM'] = NUM + 1
 	
 	for currentPage in range(1,200):
 		try:
 			rateUrl="https://rate.tmall.com/list_detail_rate.htm?itemId="+itemId+"&sellerId="+sellerId+"&currentPage="+(str)(currentPage)
 			print(rateUrl)
 			try:
-				myweb=requests.get(url=rateUrl,headers=headers,proxies={"http": "http://"+IP})
+				myweb = requests.get(url=rateUrl,headers=headers,proxies={"http": "http://"+IP})
 			except Exception as e:
-				IP=r.lpop('IPs')
+				IP = r.lpop('IPs')
 				continue
-			rates=re.findall(r'"rateContent":"(.*?)"',myweb.text)
-			if len(rates)==0:
+			rates = re.findall(r'"rateContent":"(.*?)"',myweb.text)
+			if len(rates) == 0:
 				print("NO Content")
-				errorTime+=1
+				errorTime += 1
 			for rate in rates:
 				print(rate)
 				output.write(rate)
 				output.write('\n')
 			try:
-				if(currentPage==int(re.findall(r'"lastPage":(.*?),',myweb.text)[0])):
+				if(currentPage == int(re.findall(r'"lastPage":(.*?),',myweb.text)[0])):
 					print("到达评论最后一页")
 					break
 			except Exception as e:
 				continue
 		except Exception as e:
 			print(e)
-			errorTime+=1
+			errorTime += 1
 			continue
-		if errorTime==MaxErrorTimes:
+		if errorTime == MaxErrorTimes:
 			break
 	output.close()
 	crawl_tianMao(IP)

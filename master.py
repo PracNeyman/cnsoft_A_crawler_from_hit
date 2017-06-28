@@ -15,27 +15,27 @@ def get_goods_url(goods):
 	r['NUM']=1
 	IP="163.125.223.124"		#这是一个有效的的IP，默认就用这个好了
 	print(r.keys('*'))
-	searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all"
-	search_text=requests.get(url=searchUrl,headers=headers).text
-	totalPage=int(re.findall(r'"totalPage":(.*?),',search_text)[0])
+	searchUrl = "https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all"
+	search_text = requests.get(url=searchUrl,headers=headers).text
+	totalPage = int(re.findall(r'"totalPage":(.*?),',search_text)[0])
 	for currentPage in range(0,totalPage):
-		searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&s="+str(currentPage*44)+"&cd=false&tab=all"
+		searchUrl = "https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&s="+str(currentPage*44)+"&cd=false&tab=all"
 		try:
-			search_text=requests.get(url=searchUrl,headers=headers,proxies={"http": "http://"+IP}).text
+			search_text = requests.get(url=searchUrl,headers=headers,proxies={"http": "http://"+IP}).text
 		except Exception as e:
 			print("Not OK")
 			IP=r.lpop('IPs')
 			continue
-		raw_urls=re.findall(r'//detail.tmall.com/item.htm?(.*?),"view_price":',search_text)
-		flag=1
+		raw_urls = re.findall(r'//detail.tmall.com/item.htm?(.*?),"view_price":',search_text)
+		flag = 1
 		for raw_url in raw_urls:
-			id=re.findall(r'id\\u003d(.*?)\\u',raw_url)[0]
-			ns=re.findall(r'\\u0026ns\\u003d(.*?)\\u',raw_url)[0]
-			abbucket=re.findall(r'\\u0026abbucket\\u003d(.*?)"',raw_url)[0]
-			goods_url="https://detail.tmall.com/item.htm?&id="+id+"&ns="+ns+"&abbucket="+str(10)
+			id = re.findall(r'id\\u003d(.*?)\\u',raw_url)[0]
+			ns = re.findall(r'\\u0026ns\\u003d(.*?)\\u',raw_url)[0]
+			abbucket = re.findall(r'\\u0026abbucket\\u003d(.*?)"',raw_url)[0]
+			goods_url = "https://detail.tmall.com/item.htm?&id="+id+"&ns="+ns+"&abbucket="+str(10)
 			print(goods_url)
-			if flag%2==1:
-				flag+=1
+			if flag % 2 == 1:
+				flag += 1
 				r.rpush('goods_urls',goods_url)
 			
 

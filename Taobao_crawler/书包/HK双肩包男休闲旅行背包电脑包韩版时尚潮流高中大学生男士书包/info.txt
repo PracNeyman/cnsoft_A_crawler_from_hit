@@ -1,0 +1,5 @@
+goodName HK双肩包男休闲旅行背包电脑包韩版时尚潮流高中大学生男士书包
+defaultPrice 188.00
+place 广东广州
+shopName hk箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=544508665238&ns=1&abbucket=10

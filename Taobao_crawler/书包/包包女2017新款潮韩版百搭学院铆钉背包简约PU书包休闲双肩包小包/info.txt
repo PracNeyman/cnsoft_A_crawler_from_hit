@@ -1,0 +1,5 @@
+goodName 包包女2017新款潮韩版百搭学院铆钉背包简约PU书包休闲双肩包小包
+defaultPrice 99.00
+place 上海
+shopName 朵泽旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=545039640308&ns=1&abbucket=10

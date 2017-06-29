@@ -1,0 +1,5 @@
+goodName 瑞戈瑞士军刀旅行双肩包瑞士休闲初中生书包女15.6英寸电脑背包男
+defaultPrice 289.00
+place 广东广州
+shopName 瑞戈箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=526962202492&ns=1&abbucket=10

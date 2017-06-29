@@ -1,0 +1,5 @@
+goodName 海贼充电双肩包书包男时尚潮流日韩版初中学生高中大帆布校园背包
+defaultPrice 299.00
+place 广东广州
+shopName 吉田箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=544313422460&ns=1&abbucket=10

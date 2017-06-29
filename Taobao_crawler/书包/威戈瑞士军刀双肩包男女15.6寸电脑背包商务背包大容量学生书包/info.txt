@@ -1,0 +1,5 @@
+goodName 威戈瑞士军刀双肩包男女15.6寸电脑背包商务背包大容量学生书包
+defaultPrice 588.00
+place 江苏苏州
+shopName 威戈官方旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=26455152637&ns=1&abbucket=10

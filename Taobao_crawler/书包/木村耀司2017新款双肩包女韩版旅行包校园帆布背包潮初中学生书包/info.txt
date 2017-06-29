@@ -1,0 +1,5 @@
+goodName 木村耀司2017新款双肩包女韩版旅行包校园帆布背包潮初中学生书包
+defaultPrice 69.00
+place 上海
+shopName 木村耀司创申专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=542339594703&ns=1&abbucket=10

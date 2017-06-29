@@ -1,0 +1,5 @@
+goodName 北包包学院风韩版书包中学生背包可爱百搭校园双肩包女包旅行潮包
+defaultPrice 59.90
+place 河北保定
+shopName 北包包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=546467568660&ns=1&abbucket=10

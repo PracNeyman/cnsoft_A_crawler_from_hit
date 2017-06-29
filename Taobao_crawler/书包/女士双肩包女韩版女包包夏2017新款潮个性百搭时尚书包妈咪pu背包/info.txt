@@ -1,0 +1,5 @@
+goodName 女士双肩包女韩版女包包夏2017新款潮个性百搭时尚书包妈咪pu背包
+defaultPrice 99.80
+place 北京
+shopName 莱媚旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=539863918103&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 双肩包女韩版学院风高中学生背包男初中生校园休闲帆布中学生书包
+defaultPrice 139.00
+place 广东广州
+shopName jiaybl家易佰乐箱包旗舰
+goodUrl https://detail.tmall.com/item.htm?&id=540904881986&ns=1&abbucket=10

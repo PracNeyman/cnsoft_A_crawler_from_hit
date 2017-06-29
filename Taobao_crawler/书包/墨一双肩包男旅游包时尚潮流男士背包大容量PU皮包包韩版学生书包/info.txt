@@ -1,0 +1,5 @@
+goodName 墨一双肩包男旅游包时尚潮流男士背包大容量PU皮包包韩版学生书包
+defaultPrice 258.00
+place 广东广州
+shopName 墨一旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=541409054234&ns=1&abbucket=10

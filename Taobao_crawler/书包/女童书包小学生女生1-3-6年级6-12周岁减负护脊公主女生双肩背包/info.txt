@@ -1,0 +1,5 @@
+goodName 女童书包小学生女生1-3-6年级6-12周岁减负护脊公主女生双肩背包
+defaultPrice 298.00 - 428.00
+place 广东广州
+shopName 彩虹女孩旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=538704688481&ns=1&abbucket=10

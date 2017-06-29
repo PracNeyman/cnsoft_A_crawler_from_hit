@@ -1,0 +1,5 @@
+goodName 正品旺豪书包小学生男女初中生1-34-6年级儿童书包耐磨防水双肩包
+defaultPrice 128.00
+place 湖南邵阳
+shopName 旺豪旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=39812455748&ns=1&abbucket=10

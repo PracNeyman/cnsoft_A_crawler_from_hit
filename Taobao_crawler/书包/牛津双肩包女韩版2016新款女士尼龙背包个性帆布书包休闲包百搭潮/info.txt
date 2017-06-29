@@ -1,0 +1,5 @@
+goodName 牛津双肩包女韩版2016新款女士尼龙背包个性帆布书包休闲包百搭潮
+defaultPrice 216.00
+place 浙江杭州
+shopName goodsee古奢旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=530477055857&ns=1&abbucket=10

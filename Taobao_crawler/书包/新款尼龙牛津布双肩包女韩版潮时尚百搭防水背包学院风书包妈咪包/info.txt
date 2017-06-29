@@ -1,0 +1,5 @@
+goodName 新款尼龙牛津布双肩包女韩版潮时尚百搭防水背包学院风书包妈咪包
+defaultPrice 218.00
+place 广东广州
+shopName 佐木旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=545263165728&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 牧之逸双肩包男士韩版休闲帆布背包旅行包高中学生书包男时尚潮流
+defaultPrice 148.00 - 168.00
+place 广东广州
+shopName 牧之逸旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=531629394059&ns=1&abbucket=10

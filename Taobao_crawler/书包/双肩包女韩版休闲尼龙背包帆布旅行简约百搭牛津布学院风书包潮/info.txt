@@ -1,0 +1,5 @@
+goodName 双肩包女韩版休闲尼龙背包帆布旅行简约百搭牛津布学院风书包潮
+defaultPrice 168.00
+place 广东广州
+shopName 佐木旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=543123249741&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 儿童书包韩版可爱宝宝幼儿园书包 男女童女孩1-3-6岁小孩婴儿书包
+defaultPrice 78.00
+place 福建福州
+shopName 咔米嗒楚航专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=528671864334&ns=1&abbucket=10

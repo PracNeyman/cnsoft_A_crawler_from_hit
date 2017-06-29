@@ -1,0 +1,5 @@
+goodName 双肩包男背包韩版时尚潮流手提大高初中学生书包旅行休闲商务电脑
+defaultPrice 398.00
+place 广东广州
+shopName mikedisegnsmcystmj店
+goodUrl https://detail.tmall.com/item.htm?&id=547314977117&ns=1&abbucket=10

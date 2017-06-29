@@ -1,0 +1,5 @@
+goodName 游牧人小学生书包1-3-6年级男女生儿童减负双肩书包1002
+defaultPrice 55.00 - 65.00
+place 福建泉州
+shopName 游牧人旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=44297749375&ns=1&abbucket=10

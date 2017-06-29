@@ -1,0 +1,5 @@
+goodName 迪士尼书包小学生男童3-5年级四五六4-6女童米奇双肩韩版儿童书包
+defaultPrice 188.00
+place 福建福州
+shopName 你和我母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=39151194215&ns=1&abbucket=10

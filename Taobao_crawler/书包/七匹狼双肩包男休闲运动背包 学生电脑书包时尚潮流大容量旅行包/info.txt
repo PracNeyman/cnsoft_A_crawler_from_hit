@@ -1,0 +1,5 @@
+goodName 七匹狼双肩包男休闲运动背包 学生电脑书包时尚潮流大容量旅行包
+defaultPrice 339.00
+place 上海
+shopName septwolves诚信达专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=520994134302&ns=1&abbucket=10

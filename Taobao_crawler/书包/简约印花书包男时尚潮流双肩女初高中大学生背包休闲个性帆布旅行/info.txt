@@ -1,0 +1,5 @@
+goodName 简约印花书包男时尚潮流双肩女初高中大学生背包休闲个性帆布旅行
+defaultPrice 108.00 - 118.00
+place 广东广州
+shopName 游棉铭展专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=535440414330&ns=1&abbucket=10

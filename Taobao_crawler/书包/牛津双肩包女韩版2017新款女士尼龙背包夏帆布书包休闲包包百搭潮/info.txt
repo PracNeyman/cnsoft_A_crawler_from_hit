@@ -1,0 +1,5 @@
+goodName 牛津双肩包女韩版2017新款女士尼龙背包夏帆布书包休闲包包百搭潮
+defaultPrice 228.00 - 238.00
+place 广东广州
+shopName 佐迪旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=530222429315&ns=1&abbucket=10

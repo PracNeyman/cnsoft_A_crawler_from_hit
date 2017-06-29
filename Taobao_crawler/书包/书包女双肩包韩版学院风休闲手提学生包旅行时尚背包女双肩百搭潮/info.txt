@@ -1,0 +1,5 @@
+goodName 书包女双肩包韩版学院风休闲手提学生包旅行时尚背包女双肩百搭潮
+defaultPrice 76.00
+place 广东广州
+shopName 金宏箱包专营店
+goodUrl https://detail.tmall.com/item.htm?&id=541874986296&ns=1&abbucket=10

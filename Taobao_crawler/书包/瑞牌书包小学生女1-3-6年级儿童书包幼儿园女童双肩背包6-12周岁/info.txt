@@ -1,0 +1,5 @@
+goodName 瑞牌书包小学生女1-3-6年级儿童书包幼儿园女童双肩背包6-12周岁
+defaultPrice 128.00
+place 广东广州
+shopName ruipai亿鸿专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=39365532375&ns=1&abbucket=10

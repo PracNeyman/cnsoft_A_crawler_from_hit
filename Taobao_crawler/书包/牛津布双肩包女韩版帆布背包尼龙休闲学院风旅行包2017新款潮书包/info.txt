@@ -1,0 +1,5 @@
+goodName 牛津布双肩包女韩版帆布背包尼龙休闲学院风旅行包2017新款潮书包
+defaultPrice 81.66
+place 广东广州
+shopName 黑白蓝旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=537718356224&ns=1&abbucket=10

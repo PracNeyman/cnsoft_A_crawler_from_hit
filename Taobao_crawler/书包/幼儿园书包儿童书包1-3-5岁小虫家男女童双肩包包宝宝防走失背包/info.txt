@@ -1,0 +1,5 @@
+goodName 幼儿园书包儿童书包1-3-5岁小虫家男女童双肩包包宝宝防走失背包
+defaultPrice 80.00
+place 山东青岛
+shopName 小虫家旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=536423277545&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 儿童书包小学生书包男女1-3-5-6年级护脊减负双肩防水背包6-14岁
+defaultPrice 119.00
+place 湖南邵阳
+shopName 醇龙旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=538301052128&ns=1&abbucket=10

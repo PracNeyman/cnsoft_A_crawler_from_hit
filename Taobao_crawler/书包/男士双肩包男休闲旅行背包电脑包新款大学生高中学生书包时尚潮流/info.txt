@@ -1,0 +1,5 @@
+goodName 男士双肩包男休闲旅行背包电脑包新款大学生高中学生书包时尚潮流
+defaultPrice 299.00
+place 广东广州
+shopName 蔻妃旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=546746779847&ns=1&abbucket=10

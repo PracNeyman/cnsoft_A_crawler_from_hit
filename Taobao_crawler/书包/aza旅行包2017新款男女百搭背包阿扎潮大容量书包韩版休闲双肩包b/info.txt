@@ -1,0 +1,5 @@
+goodName aza旅行包2017新款男女百搭背包阿扎潮大容量书包韩版休闲双肩包b
+defaultPrice 245.00
+place 上海
+shopName aza旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=544140425072&ns=1&abbucket=10

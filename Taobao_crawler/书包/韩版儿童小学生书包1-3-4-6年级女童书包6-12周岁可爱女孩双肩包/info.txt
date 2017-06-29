@@ -1,0 +1,5 @@
+goodName 韩版儿童小学生书包1-3-4-6年级女童书包6-12周岁可爱女孩双肩包
+defaultPrice 258.00 - 388.00
+place 湖南邵阳
+shopName 酷儿宝贝卡豆专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=44712680693&ns=1&abbucket=10

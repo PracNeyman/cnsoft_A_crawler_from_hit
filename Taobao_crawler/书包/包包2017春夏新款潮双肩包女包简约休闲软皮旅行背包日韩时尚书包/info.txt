@@ -1,0 +1,5 @@
+goodName 包包2017春夏新款潮双肩包女包简约休闲软皮旅行背包日韩时尚书包
+defaultPrice 168.00
+place 广东广州
+shopName 奈雯旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=540619626499&ns=1&abbucket=10

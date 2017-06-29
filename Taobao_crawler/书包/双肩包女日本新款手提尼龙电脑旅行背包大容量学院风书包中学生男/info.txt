@@ -1,0 +1,5 @@
+goodName 双肩包女日本新款手提尼龙电脑旅行背包大容量学院风书包中学生男
+defaultPrice 128.00 - 176.00
+place 广东广州
+shopName fhkx旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=526411770478&ns=1&abbucket=10

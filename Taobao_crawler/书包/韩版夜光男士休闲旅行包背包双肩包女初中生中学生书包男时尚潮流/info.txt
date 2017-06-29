@@ -1,0 +1,5 @@
+goodName 韩版夜光男士休闲旅行包背包双肩包女初中生中学生书包男时尚潮流
+defaultPrice 75.00 - 156.00
+place 广东广州
+shopName 山奇品一箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=45702867572&ns=1&abbucket=10

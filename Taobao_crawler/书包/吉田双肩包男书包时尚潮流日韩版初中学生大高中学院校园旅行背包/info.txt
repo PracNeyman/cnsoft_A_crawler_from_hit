@@ -1,0 +1,5 @@
+goodName 吉田双肩包男书包时尚潮流日韩版初中学生大高中学院校园旅行背包
+defaultPrice 118.00 - 158.00
+place 广东广州
+shopName 吉田箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=547335245125&ns=1&abbucket=10

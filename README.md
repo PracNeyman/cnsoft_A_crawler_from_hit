@@ -31,22 +31,185 @@
 
 ###实现方式说明
 
-我们利用 redis 实现了 master + slaver 的分布式爬虫思想。
+我们利用 Redis 实现了 master + slaver 的分布式爬虫思想。
 
 主要策略如下图：
 ![pic 1](https://ooo.0o0.ooo/2017/06/28/595397f34e61e.jpg)
 
-我们设置了一个 master.py 文件用于管理 request ，发送给 slaver.py 需要爬取的页面请求，由 slaver.py 完成页面信息的提取，中间对于 url 的处理我们使用 redis 进行管理，以便于处理多线程之间的通信。
+#### 关于Redis
 
-[武德浩补充]
+在爬取天猫商品的项目中，我们利用了Redis作为了数据库，存放待爬取的商品链接池和可用代理池，如下图所示，IPs表示可用的代理池，由一个简单的爬虫从“快代理”这一网站爬取免费的高匿IP。经测试后存放在Redis数据库中，NUM表示当前商品编号，goods_urls表示待爬取的商品链接池。
+
+![](https://ooo.0o0.ooo/2017/06/29/5954e10a7032c.png)
+
+
+
+## 步骤
+
+### 一、获取代理
+
+getIP.py 文件的作用主要是用于实现 IP 池的管理，我们通过从一个专门的代理网站("快代理")去爬取足够多的当下可用的高匿 IP ，进行测试后保留到代理池中，爬取过程中实时 更换 IP 去进行爬取，以防止单一 IP 遭到淘宝的反爬虫策略的封禁。
+
+![pic 2](https://ooo.0o0.ooo/2017/06/28/5953997a8ff47.png)
+
+
+
+### 二、获取商品链接和店铺信息
+
+我们设置了一个 master.py 文件用于管理 request ，发送给 slaver.py 需要爬取的页面请求，由 slaver.py 完成页面信息的提取，中间对于 url 的处理我们使用 redis 进行管理，以便于处理多线程之间的通信。
 
 master.py文件从用户输入中得到一个待搜索的商品关键字，创建同名文件夹，利用代理池中的IP，从淘宝搜索页面爬取总页数，确定可取页面范围，之后在该范围内爬取商店名称和商品链接。中间如果遇到IP被封禁，就尝试使用其他IP。将商品名称和出现次数记录在一个TXT文件内供后续处理，将商品链接存入redis数据库中的待爬取池，供slaver.py后续使用。
 
+```python
+def get_goods_url(goods):
+	print(("爬取的商品为"+goods).decode('utf-8'))
+	shops=[]
+	if not os.path.exists(goods.decode('utf-8')):
+		os.mkdir("./"+goods.decode('utf-8'))
+	r=Redis()
+	r['NUM']=int(0)
+	r.delete('goods_urls')
+	IP="163.125.223.124"		#这是一个有效的的IP，默认就用这个好了
+	searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all&sort=sale-desc"
+	search_text=requests.get(url=searchUrl,headers=headers).text
+	totalPage=int(re.findall(r'"totalPage":(.*?),',search_text)[0])
+	for currentPage in range(0,totalPage):
+		#print("totalPage"+str(totalPage))
+		searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&s="+str(currentPage*44)+"&cd=false&tab=all&sort=sale-desc"
+		try:
+			search_text=requests.get(url=searchUrl,headers=headers,proxies={"http": "http://"+IP}).text
+		except Exception as e:
+			print("Not OK")
+			IP=r.lpop('IPs')
+			continue
+		tmpShops=(re.findall(r'"nick":"(.*?)","shopcard"',search_text))
+		for shop in tmpShops:
+			shops.append(shop)
+		raw_urls=re.findall(r'//detail.tmall.com/item.htm?(.*?),"view_price":',search_text)
+		#flag=1
+		before_url=''
+		for raw_url in raw_urls:
+			id=re.findall(r'id\\u003d(.*?)\\u',raw_url)[0]
+			ns=re.findall(r'\\u0026ns\\u003d(.*?)\\u',raw_url)[0]
+			abbucket=re.findall(r'\\u0026abbucket\\u003d(.*?)"',raw_url)[0]
+			goods_url="https://detail.tmall.com/item.htm?&id="+id+"&ns="+ns+"&abbucket="+str(10)
+			if before_url!=goods_url:
+				print(goods_url)
+				before_url=goods_url
+				r.rpush('goods_urls',goods_url)
+	shopsFile=open("./"+goods.decode('utf-8')+"/shops.txt",'a')
+	for shop in shops:
+		shopsFile.write(shop+" "+str(shops.count(shop))+'\n')
+		shops.remove(shop)	
+```
+
+
+
+### 三、爬取每一个商品信息
+
 批处理运行多个slaver.py，实现分布式爬虫。爬取利用的IP由代理池中取出。爬取的源网址来自于redis中的待爬取池，每次从中取出使用，保证同一时刻多个不同线程爬取的网址不一样，且每一个网址只被爬取一次。直至待爬取池为空。爬取过程中如果遇到IP被封禁，就换用下一个IP。这样也可以保证无效代理最多只被使用一次。
 
-另外介绍一下我们的 getIP.py 文件，此文件的作用主要是用于实现 IP 池的管理，我们通过从一个专门的代理网站去爬取足够多的当下可用的高匿 IP ，进行测试后保留到代理池中，爬取过程中实时 更换 IP 去进行爬取，以防止单一 IP 遭到淘宝的反爬虫策略的封禁。
+```python
+headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' }
 
-![pic 2](https://ooo.0o0.ooo/2017/06/28/5953997a8ff47.png)
+
+goods="书包"
+
+MaxErrorTimes=5
+IP="211.140.151.220"
+
+def wordCloud(Path):
+	#读取要生成词云的文件
+	text_from_file_with_apath = open(Path+"/rate.txt").read()
+
+	wordlist_after_jieba = jieba.cut(text_from_file_with_apath, cut_all = True)
+	wl_space_split = " ".join(wordlist_after_jieba)
+	my_wordcloud = WordCloud(background_color='white',font_path='C:\Windows\Fonts\simkai.ttf').generate(wl_space_split)
+
+	# 以下代码显示图片
+	plt.figure(figsize = (10,8),dpi = 600)
+	plt.imshow(my_wordcloud)
+	plt.axis("off")
+	plt.savefig(Path+"/wordCloud.png",dpi = 600)
+
+
+def crawl_tianMao(IP):
+	r=Redis()
+	if r.exists('goods_urls')==False:
+		print("over!")
+		exit(0)
+	good_url=r.lpop('goods_urls')
+	print(good_url)
+	try:
+		text=requests.get(url=good_url,headers=headers,proxies={"http": "http://"+IP}).text
+	except Exception as e:
+		if r.exists('goods_urls')==False:
+			print("over!")
+			exit(0)
+		else:
+			IP=r.lpop('IPs')
+	shopName=re.findall(r'<input type="hidden" name="seller_nickname" value="(.*?)" />',text)[0]
+	goodName=re.findall(r'<input type="hidden" name="title" value="(.*?)" />',text)[0]
+	defaultPrice=re.findall(r'"defaultItemPrice":"(.*?)"',text)[0]
+	place=re.findall(r'<input type="hidden" name="region" value="(.*?)" />',text)[0]
+	r['NUM']=int(r['NUM'])+1
+	try:
+		os.mkdir("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
+
+	except:
+		print("ok")
+		exit(0)
+	infoText=open("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')+"/"+"info.txt",'w')
+	infoText.write("goodName "+goodName+"\n")
+	infoText.write("defaultPrice "+defaultPrice+'\n')
+	infoText.write("place "+place+'\n')
+	infoText.write("shopName "+shopName+'\n')
+	infoText.write("goodUrl "+good_url+'\n')
+	infoText.close()
+	Ids=re.findall(r'w.g_config={(.*?)}',text)[0]
+	itemId=re.findall(r'itemId:"(.*?)"',Ids)[0]
+	sellerId=re.findall(r'sellerId:"(.*?)"',Ids)[0]
+
+	errorTime=0
+	output=open("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')+"/rate.txt",'w')
+	
+	for currentPage in range(1,200):
+		try:
+			rateUrl="https://rate.tmall.com/list_detail_rate.htm?itemId="+itemId+"&sellerId="+sellerId+"&currentPage="+(str)(currentPage)
+			print(rateUrl)
+			try:
+				myweb=requests.get(url=rateUrl,headers=headers,proxies={"http": "http://"+IP})
+			except Exception as e:
+				IP=r.lpop('IPs')
+				continue
+			rates=re.findall(r'"rateContent":"(.*?)"',myweb.text)
+			if len(rates)==0:
+				print("NO Content")
+				errorTime+=1
+			for rate in rates:
+				print(rate)
+				output.write(rate)
+				output.write('\n')
+			#wordCloud("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
+			try:
+				if(currentPage==int(re.findall(r'"lastPage":(.*?),',myweb.text)[0])):
+					print("到达评论最后一页")
+					break
+			except Exception as e:
+				continue
+		except Exception as e:
+			print(e)
+			errorTime+=1
+			continue
+		if errorTime==MaxErrorTimes:
+			break
+	output.close()
+	crawl_tianMao(IP)
+```
+
+
+
+
 
 ###爬虫的运行与测试
 

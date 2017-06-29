@@ -1,0 +1,5 @@
+goodName 双肩包女韩版学院风 包包2017新款旅行包背包女时尚休闲书包女包
+defaultPrice 299.00
+place 广东广州
+shopName 卡诺蒂兰旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=533111222076&ns=1&abbucket=10

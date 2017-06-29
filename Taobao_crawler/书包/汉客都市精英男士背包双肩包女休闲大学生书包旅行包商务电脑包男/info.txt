@@ -1,0 +1,5 @@
+goodName 汉客都市精英男士背包双肩包女休闲大学生书包旅行包商务电脑包男
+defaultPrice 368.00 - 398.00
+place 广东广州
+shopName 汉客旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=531106442577&ns=1&abbucket=10

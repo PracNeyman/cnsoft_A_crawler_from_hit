@@ -1,0 +1,5 @@
+goodName 2017新款女士双肩包女韩版时尚个性百搭迷你小包包潮书包背包女包
+defaultPrice 88.00
+place 湖南长沙
+shopName 牧霖枫旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=553043508407&ns=1&abbucket=10

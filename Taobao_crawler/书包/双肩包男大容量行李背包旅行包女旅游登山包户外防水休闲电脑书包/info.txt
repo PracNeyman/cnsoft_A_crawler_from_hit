@@ -1,0 +1,5 @@
+goodName 双肩包男大容量行李背包旅行包女旅游登山包户外防水休闲电脑书包
+defaultPrice 136.00
+place 上海
+shopName 海曙方慈箱包专营店
+goodUrl https://detail.tmall.com/item.htm?&id=35800539696&ns=1&abbucket=10

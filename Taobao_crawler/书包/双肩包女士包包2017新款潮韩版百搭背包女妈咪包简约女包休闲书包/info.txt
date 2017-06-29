@@ -1,0 +1,5 @@
+goodName 双肩包女士包包2017新款潮韩版百搭背包女妈咪包简约女包休闲书包
+defaultPrice 120.00
+place 浙江杭州
+shopName 欧牟罗旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=540188461871&ns=1&abbucket=10

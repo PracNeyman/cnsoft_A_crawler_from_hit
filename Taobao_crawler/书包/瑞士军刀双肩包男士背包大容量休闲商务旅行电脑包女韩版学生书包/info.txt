@@ -1,0 +1,5 @@
+goodName 瑞士军刀双肩包男士背包大容量休闲商务旅行电脑包女韩版学生书包
+defaultPrice 558.00 - 569.00
+place 浙江杭州
+shopName svvisssvver箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=39913070223&ns=1&abbucket=10

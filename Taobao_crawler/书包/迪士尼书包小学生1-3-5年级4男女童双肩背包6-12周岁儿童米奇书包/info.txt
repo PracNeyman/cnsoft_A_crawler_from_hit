@@ -1,0 +1,5 @@
+goodName 迪士尼书包小学生1-3-5年级4男女童双肩背包6-12周岁儿童米奇书包
+defaultPrice 178.00
+place 广东东莞
+shopName 蕙心母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=552405294957&ns=1&abbucket=10

@@ -1,4 +1,4 @@
-#! python3
+#! python2
 #coding=utf-8
 import requests
 import re
@@ -13,15 +13,14 @@ headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, 
 #https://detail.tmall.com/item.htm?&id=537441459334&ns=1&abbucket=10
 
 def get_goods_url(goods):
+	print(("爬取的商品为"+goods).decode('utf-8'))
 	shops=[]
-	print(goods)
-	if not os.path.exists("./"+goods.decode('utf-8')):
+	if not os.path.exists(goods.decode('utf-8')):
 		os.mkdir("./"+goods.decode('utf-8'))
 	r=Redis()
 	r['NUM']=int(0)
 	r.delete('goods_urls')
 	IP="163.125.223.124"		#这是一个有效的的IP，默认就用这个好了
-	print(r.keys('*'))
 	searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all&sort=sale-desc"
 	search_text=requests.get(url=searchUrl,headers=headers).text
 	totalPage=int(re.findall(r'"totalPage":(.*?),',search_text)[0])
@@ -55,7 +54,8 @@ def get_goods_url(goods):
 		shops.remove(shop)		
 
 if __name__ == '__main__':
-	#get_goods_url(sys.argv[1])
-	get_goods_url("水杯")
+	print("master获取商品链接及店铺信息".decode('utf-8'))
+	get_goods_url("书包")
+	#get_goods_url("水杯")
 	#requests.get(url="https://detail.tmall.com/item.htm?&id=551106135353&ns=1&abbucket=10",headers=headers,proxies={"http": "http://172.20.139.246",})
 	print("ok")

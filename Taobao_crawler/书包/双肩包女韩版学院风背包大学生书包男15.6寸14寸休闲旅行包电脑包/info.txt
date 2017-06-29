@@ -1,0 +1,5 @@
+goodName 双肩包女韩版学院风背包大学生书包男15.6寸14寸休闲旅行包电脑包
+defaultPrice 188.00
+place 广东广州
+shopName 慧派旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=540066324001&ns=1&abbucket=10

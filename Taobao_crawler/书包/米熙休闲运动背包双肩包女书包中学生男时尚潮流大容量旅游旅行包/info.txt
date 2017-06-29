@@ -1,0 +1,5 @@
+goodName 米熙休闲运动背包双肩包女书包中学生男时尚潮流大容量旅游旅行包
+defaultPrice 338.00 - 378.00
+place 广东广州
+shopName 米熙箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=22350512442&ns=1&abbucket=10

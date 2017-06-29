@@ -1,0 +1,5 @@
+goodName 日韩铆钉双肩包2017新款韩版pu旅行背包简约时尚学院风女学生书包
+defaultPrice 98.00
+place 广东广州
+shopName 米格莱思旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=540503669815&ns=1&abbucket=10

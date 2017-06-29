@@ -1,0 +1,5 @@
+goodName Dickies爆款双肩包男女简约潮流学生包小背包书包字母印花包C020
+defaultPrice 539.00
+place 广东广州
+shopName dickies鼎骏专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=538223274148&ns=1&abbucket=10

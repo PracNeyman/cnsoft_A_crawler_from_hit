@@ -1,0 +1,5 @@
+goodName 铠甲勇士儿童书包小学生1-3-5年级男6-12周岁双肩减负幼儿背包女
+defaultPrice 128.00 - 148.00
+place 广东广州
+shopName 途尚母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=526564918184&ns=1&abbucket=10

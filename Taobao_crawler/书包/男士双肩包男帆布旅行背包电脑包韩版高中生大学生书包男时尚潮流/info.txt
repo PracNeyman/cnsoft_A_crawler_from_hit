@@ -1,0 +1,5 @@
+goodName 男士双肩包男帆布旅行背包电脑包韩版高中生大学生书包男时尚潮流
+defaultPrice 198.00
+place 广东广州
+shopName 淘斯卡箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=544780740519&ns=1&abbucket=10

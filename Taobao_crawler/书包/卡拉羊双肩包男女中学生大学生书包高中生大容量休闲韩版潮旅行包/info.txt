@@ -1,0 +1,5 @@
+goodName 卡拉羊双肩包男女中学生大学生书包高中生大容量休闲韩版潮旅行包
+defaultPrice 378.00
+place 广东惠州
+shopName 卡拉羊维德邦尼专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=38333262834&ns=1&abbucket=10

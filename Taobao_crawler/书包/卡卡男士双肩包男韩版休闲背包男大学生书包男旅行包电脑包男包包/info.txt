@@ -1,0 +1,5 @@
+goodName 卡卡男士双肩包男韩版休闲背包男大学生书包男旅行包电脑包男包包
+defaultPrice 135.00
+place 广东广州
+shopName kaka卡卡旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=545703057168&ns=1&abbucket=10

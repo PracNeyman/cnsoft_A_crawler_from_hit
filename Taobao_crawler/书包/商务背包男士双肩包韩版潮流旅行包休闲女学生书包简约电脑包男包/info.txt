@@ -1,0 +1,5 @@
+goodName 商务背包男士双肩包韩版潮流旅行包休闲女学生书包简约电脑包男包
+defaultPrice 210.00
+place 广东广州
+shopName wolfhorse箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=546658059107&ns=1&abbucket=10

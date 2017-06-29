@@ -1,0 +1,5 @@
+goodName 小学生书包男童1-3-6牛津大学儿童包包女6-12周岁双肩护脊背包5
+defaultPrice 399.00
+place 福建福州
+shopName universityofoxford旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=38922791907&ns=1&abbucket=10

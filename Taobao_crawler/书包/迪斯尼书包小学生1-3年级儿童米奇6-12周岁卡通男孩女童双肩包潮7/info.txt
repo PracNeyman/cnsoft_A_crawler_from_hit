@@ -1,0 +1,5 @@
+goodName 迪斯尼书包小学生1-3年级儿童米奇6-12周岁卡通男孩女童双肩包潮7
+defaultPrice 71.00 - 88.00
+place 福建福州
+shopName 哈伊娃母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=548125456649&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 七匹狼商务双肩包男 书包中学生女双肩电脑包 旅行男士背包大容量
+defaultPrice 319.00 - 359.00
+place 浙江杭州
+shopName septwolves七匹狼旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=520096638930&ns=1&abbucket=10

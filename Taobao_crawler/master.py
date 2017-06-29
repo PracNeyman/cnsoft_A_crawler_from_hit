@@ -1,4 +1,4 @@
-#! python2
+﻿#! python2
 #coding=utf-8
 import requests
 import re
@@ -55,7 +55,7 @@ def get_goods_url(goods):
 
 if __name__ == '__main__':
 	print("master获取商品链接及店铺信息".decode('utf-8'))
-	get_goods_url("书包")
+	get_goods_url("手表")
 	#get_goods_url("水杯")
 	#requests.get(url="https://detail.tmall.com/item.htm?&id=551106135353&ns=1&abbucket=10",headers=headers,proxies={"http": "http://172.20.139.246",})
 	print("ok")

@@ -3,7 +3,7 @@
 import csv
 import codecs
 import os
-goods="书包"
+goods="手表"
 out = open(goods+r'/'+goods+r'.csv', "w", newline="")
 myWriter = csv.writer(out, dialect = "excel")
 mylist =["商品名", "价格", "产地", "商店名","链接", "同店同种商品数"]

@@ -23,9 +23,9 @@
 
 ###前提环境、架构
 
-开发语言：Python 3.6
+开发语言：Python 2.7
 
-开发环境: Windows 10、8G内存，Core I5 处理器
+开发环境: Windows 10、4G内存，Core I5 处理器
 
 数据库：Redis
 
@@ -36,6 +36,19 @@
 主要策略如下图：
 ![pic 1](https://ooo.0o0.ooo/2017/06/28/595397f34e61e.jpg)
 
+## 概述
+
+> 1. 使用Redis存储待爬取的商品链接池和可用代理池
+> 2. 利用一个简易爬虫从一个网站爬取IP并进行测试，将可用IP存放入代理池
+> 3. 利用代理池中的IP爬取得到商品链接
+> 4. 利用批处理，实现分布式爬虫，利用代理池中的IP和待爬取的商品链接池进行商品信息的爬取
+> 5. 对数据进行整理
+> 6. 以上所有操作均由BAT文件控制时序关系与线程管理
+
+
+
+## 详述
+
 #### 关于Redis
 
 在爬取天猫商品的项目中，我们利用了Redis作为了数据库，存放待爬取的商品链接池和可用代理池，如下图所示，IPs表示可用的代理池，由一个简单的爬虫从“快代理”这一网站爬取免费的高匿IP。经测试后存放在Redis数据库中，NUM表示当前商品编号，goods_urls表示待爬取的商品链接池。
@@ -44,21 +57,25 @@
 
 
 
-## 步骤
+### 步骤
 
-### 一、获取代理
+#### 一、获取代理
 
 getIP.py 文件的作用主要是用于实现 IP 池的管理，我们通过从一个专门的代理网站("快代理")去爬取足够多的当下可用的高匿 IP ，进行测试后保留到代理池中，爬取过程中实时 更换 IP 去进行爬取，以防止单一 IP 遭到淘宝的反爬虫策略的封禁。
 
 ![pic 2](https://ooo.0o0.ooo/2017/06/28/5953997a8ff47.png)
 
+![](https://ooo.0o0.ooo/2017/06/29/5954e6d4d0301.png)
 
 
-### 二、获取商品链接和店铺信息
+
+#### 二、获取商品链接和店铺信息
 
 我们设置了一个 master.py 文件用于管理 request ，发送给 slaver.py 需要爬取的页面请求，由 slaver.py 完成页面信息的提取，中间对于 url 的处理我们使用 redis 进行管理，以便于处理多线程之间的通信。
 
 master.py文件从用户输入中得到一个待搜索的商品关键字，创建同名文件夹，利用代理池中的IP，从淘宝搜索页面爬取总页数，确定可取页面范围，之后在该范围内爬取商店名称和商品链接。中间如果遇到IP被封禁，就尝试使用其他IP。将商品名称和出现次数记录在一个TXT文件内供后续处理，将商品链接存入redis数据库中的待爬取池，供slaver.py后续使用。
+
+代码如下：
 
 ```python
 def get_goods_url(goods):
@@ -69,7 +86,7 @@ def get_goods_url(goods):
 	r=Redis()
 	r['NUM']=int(0)
 	r.delete('goods_urls')
-	IP="163.125.223.124"		#这是一个有效的的IP，默认就用这个好了
+	IP="163.125.223.124"		#默认就用这个IP，当不可用时从代理池中取出其他IP
 	searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all&sort=sale-desc"
 	search_text=requests.get(url=searchUrl,headers=headers).text
 	totalPage=int(re.findall(r'"totalPage":(.*?),',search_text)[0])
@@ -105,18 +122,15 @@ def get_goods_url(goods):
 
 
 
-### 三、爬取每一个商品信息
+#### 三、爬取每一个商品信息
 
 批处理运行多个slaver.py，实现分布式爬虫。爬取利用的IP由代理池中取出。爬取的源网址来自于redis中的待爬取池，每次从中取出使用，保证同一时刻多个不同线程爬取的网址不一样，且每一个网址只被爬取一次。直至待爬取池为空。爬取过程中如果遇到IP被封禁，就换用下一个IP。这样也可以保证无效代理最多只被使用一次。
 
 ```python
 headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' }
-
-
 goods="书包"
-
 MaxErrorTimes=5
-IP="211.140.151.220"
+IP="211.140.151.220"			#默认使用这个IP，当不可用时从代理池中取出其他IP使用
 
 def wordCloud(Path):
 	#读取要生成词云的文件
@@ -212,6 +226,56 @@ def crawl_tianMao(IP):
 
 
 ###爬虫的运行与测试
+
+打开BAT.bat文件进行处理，内部结构为
+
+![](https://ooo.0o0.ooo/2017/06/29/5954ea88a6214.png)
+
+机器自动执行getIP.py，获取代理，执行效果如图
+
+![](https://ooo.0o0.ooo/2017/06/29/5954eaf979b74.png)
+
+代理获取完成后，自动存入Redis数据库中，此时Redis中代理池即为可用IP
+
+![](https://ooo.0o0.ooo/2017/06/29/5954ec3b448bc.png)
+
+之后在BAT.bat页面下，按任意键继续，执行master.py，效果如图
+
+![](https://ooo.0o0.ooo/2017/06/29/5954e920d605f.png)
+
+此时商品链接已经被全部存入数据库的待爬取商品链接池中，查看待爬取商品链接池状态如下
+
+![](https://ooo.0o0.ooo/2017/06/29/5954ecaa4953b.png)
+
+完成后在BAT.bat页面下，按任意键继续，执行slaver.py，会弹出16个窗口（默认16个线程，可更改），如图
+
+![](https://ooo.0o0.ooo/2017/06/29/5954f66650274.png)
+
+爬取完成后，数据存放在以商品名命名的文件夹下，如图
+
+![](https://ooo.0o0.ooo/2017/06/29/5954f6ed670db.png)
+
+在每一个文件夹下，有三个文件，info.txt对应商品信息，rate.txt对应商品评论，wordcloud.png为根据评论所生成的词云图片，分别如图
+
+![](https://ooo.0o0.ooo/2017/06/29/5954f7966b450.png)
+
+![](https://ooo.0o0.ooo/2017/06/29/5954f80881515.png)
+
+![](https://ooo.0o0.ooo/2017/06/29/5954fa724c965.png)
+
+全部爬取完成后，按下任意键继续，处理数据，生成CSV文件
+
+![](https://ooo.0o0.ooo/2017/06/29/5954faa374a2a.png)
+
+CSV文件如下图
+
+![](https://ooo.0o0.ooo/2017/06/29/5954fc4d68b6b.png)
+
+自此，完成对天猫商品的爬取和处理。
+
+下面是对于CSDN博客文章的爬取。
+
+
 
 ##基于scrapy + mongodb实现的CSDN博客文章爬取
 

@@ -8,7 +8,7 @@ import numpy as np
 from PIL import Image
 
 #读入背景图片
-abel_mask = np.array(Image.open('color.jpg'))
+#abel_mask = np.array(Image.open('color.jpg'))
 
 #读取要生成词云的文件
 text_from_file_with_apath = open('alice.txt').read()

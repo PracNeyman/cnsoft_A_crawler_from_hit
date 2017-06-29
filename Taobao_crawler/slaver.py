@@ -1,4 +1,4 @@
-#! python2
+﻿#! python3
 # -*- coding: utf-8 -*-
 import requests
 import re
@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud,ImageColorGenerator,STOPWORDS
 import jieba
 import numpy as np
+import chardet
 from PIL import Image
 import sys
 reload(sys)
@@ -18,7 +19,7 @@ headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, 
 
 
 #goods=sys.argv[1]
-goods="书包"
+goods="手表"
 
 MaxErrorTimes=5
 IP="211.140.151.220"
@@ -48,9 +49,6 @@ def crawl_tianMao(IP):
 	print(good_url)
 	try:
 		text=requests.get(url=good_url,headers=headers,proxies={"http": "http://"+IP}).text
-		#print("到了")
-		#text=unicode(text,'GBK').encode('UTF-8')
-		#print("这里可以啊")
 	except Exception as e:
 		if r.exists('goods_urls')==False:
 			print("over!")
@@ -62,9 +60,10 @@ def crawl_tianMao(IP):
 	defaultPrice=re.findall(r'"defaultItemPrice":"(.*?)"',text)[0]
 	place=re.findall(r'<input type="hidden" name="region" value="(.*?)" />',text)[0]
 	r['NUM']=int(r['NUM'])+1
+	print(goodName.decode('utf-8'))
 	try:
-		os.mkdir("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
-
+		what="./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')
+		os.mkdir(what)
 	except:
 		print("ok")
 		exit(0)

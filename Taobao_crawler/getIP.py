@@ -1,4 +1,4 @@
-#! python 2
+﻿#! python 2
 #! coding=utf-8
 import requests
 import re
@@ -10,7 +10,7 @@ r=Redis()
 IPsrcBasic="http://www.kuaidaili.com/free/inha/"			
 r.delete('IPs')
 print("获取代理IP".decode('utf-8'))
-for i in range(1,3):
+for i in range(1,5):
 	IPsrc=IPsrcBasic+str(i)+"/"
 	myweb=requests.get(url=IPsrc,headers=headers)
 	IPs=re.findall("<td data-title=\"IP\">(.*?)</td>",myweb.text)

@@ -1,0 +1,5 @@
+goodName 米森双肩包男士背包大容量高中学生书包商务休闲电脑旅行包韩版女
+defaultPrice 279.00 - 309.00
+place 广东广州
+shopName 米森箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=521292251613&ns=1&abbucket=10

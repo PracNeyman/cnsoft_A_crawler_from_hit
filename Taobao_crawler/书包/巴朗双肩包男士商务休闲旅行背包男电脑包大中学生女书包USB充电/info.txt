@@ -1,0 +1,5 @@
+goodName 巴朗双肩包男士商务休闲旅行背包男电脑包大中学生女书包USB充电
+defaultPrice 178.00 - 198.00
+place 广东广州
+shopName 巴朗成都专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=15780966639&ns=1&abbucket=10

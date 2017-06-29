@@ -1,0 +1,5 @@
+goodName 双肩包男韩版高中大学生书包时尚潮流休闲青年大容量旅行背包男
+defaultPrice 169.00
+place 广东广州
+shopName 骆佰斯旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=545463001133&ns=1&abbucket=10

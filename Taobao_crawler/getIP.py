@@ -1,5 +1,5 @@
-#! python 3
-
+#! python 2
+#! coding=utf-8
 import requests
 import re
 from redis import Redis
@@ -8,8 +8,9 @@ headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, 
 r=Redis()
 
 IPsrcBasic="http://www.kuaidaili.com/free/inha/"			
-
-for i in range(1,10):
+r.delete('IPs')
+print("获取代理IP".decode('utf-8'))
+for i in range(1,3):
 	IPsrc=IPsrcBasic+str(i)+"/"
 	myweb=requests.get(url=IPsrc,headers=headers)
 	IPs=re.findall("<td data-title=\"IP\">(.*?)</td>",myweb.text)
@@ -23,4 +24,5 @@ for i in range(1,10):
 			r.rpush('IPs',IP)
 		except:
 			continue
+print("获取完毕，有效IP如下".decode('utf-8'))
 print(usefulIP)

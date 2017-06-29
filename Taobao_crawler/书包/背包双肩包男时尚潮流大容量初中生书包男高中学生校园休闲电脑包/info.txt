@@ -1,0 +1,5 @@
+goodName 背包双肩包男时尚潮流大容量初中生书包男高中学生校园休闲电脑包
+defaultPrice 128.00 - 148.00
+place 福建泉州
+shopName lm步琪专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=540357700148&ns=1&abbucket=10

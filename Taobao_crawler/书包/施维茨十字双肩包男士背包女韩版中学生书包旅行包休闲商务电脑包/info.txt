@@ -1,0 +1,5 @@
+goodName 施维茨十字双肩包男士背包女韩版中学生书包旅行包休闲商务电脑包
+defaultPrice 498.00 - 598.00
+place 广东广州
+shopName 施维茨十字广州专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=39647557346&ns=1&abbucket=10

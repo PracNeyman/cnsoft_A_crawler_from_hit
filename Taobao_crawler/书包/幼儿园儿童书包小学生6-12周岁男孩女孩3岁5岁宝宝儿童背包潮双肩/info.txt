@@ -1,0 +1,5 @@
+goodName 幼儿园儿童书包小学生6-12周岁男孩女孩3岁5岁宝宝儿童背包潮双肩
+defaultPrice 215.00 - 249.00
+place 广东广州
+shopName 熊之族旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=525828075183&ns=1&abbucket=10

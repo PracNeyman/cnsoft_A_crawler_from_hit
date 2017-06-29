@@ -1,0 +1,5 @@
+goodName 迪士尼小学生书包男孩1-3-5年级美国队长男童双肩包儿童6-12周岁4
+defaultPrice 248.00 - 258.00
+place 上海
+shopName 黛爵母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=544491872676&ns=1&abbucket=10

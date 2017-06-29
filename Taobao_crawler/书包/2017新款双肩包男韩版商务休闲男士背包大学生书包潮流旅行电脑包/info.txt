@@ -1,0 +1,5 @@
+goodName 2017新款双肩包男韩版商务休闲男士背包大学生书包潮流旅行电脑包
+defaultPrice 128.00 - 138.00
+place 上海
+shopName 希卡旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=549727666570&ns=1&abbucket=10

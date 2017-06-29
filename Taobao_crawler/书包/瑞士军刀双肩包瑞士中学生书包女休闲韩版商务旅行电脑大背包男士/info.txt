@@ -1,0 +1,5 @@
+goodName 瑞士军刀双肩包瑞士中学生书包女休闲韩版商务旅行电脑大背包男士
+defaultPrice 668.00
+place 广东广州
+shopName 鑫运箱包专营店
+goodUrl https://detail.tmall.com/item.htm?&id=530894196576&ns=1&abbucket=10

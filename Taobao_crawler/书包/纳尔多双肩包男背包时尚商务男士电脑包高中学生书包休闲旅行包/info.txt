@@ -1,0 +1,5 @@
+goodName 纳尔多双肩包男背包时尚商务男士电脑包高中学生书包休闲旅行包
+defaultPrice 166.00 - 196.00
+place 广东广州
+shopName 纳尔多箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=541405136887&ns=1&abbucket=10

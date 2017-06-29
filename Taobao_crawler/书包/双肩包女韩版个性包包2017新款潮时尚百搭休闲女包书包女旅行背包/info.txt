@@ -1,0 +1,5 @@
+goodName 双肩包女韩版个性包包2017新款潮时尚百搭休闲女包书包女旅行背包
+defaultPrice 128.00
+place 河北保定
+shopName jushion聚尚旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=542329029629&ns=1&abbucket=10

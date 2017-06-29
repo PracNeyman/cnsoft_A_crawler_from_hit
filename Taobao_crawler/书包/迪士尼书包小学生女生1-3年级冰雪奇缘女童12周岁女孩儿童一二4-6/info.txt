@@ -1,0 +1,5 @@
+goodName 迪士尼书包小学生女生1-3年级冰雪奇缘女童12周岁女孩儿童一二4-6
+defaultPrice 208.00 - 238.00
+place 广东广州
+shopName 诺旗母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=520148990489&ns=1&abbucket=10

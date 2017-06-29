@@ -1,0 +1,5 @@
+goodName 双肩包男新款韩版休闲时尚大容量高初中学生书包潮流学院风背包男
+defaultPrice 399.00
+place 广东广州
+shopName 沃曼威斯旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=522642263415&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 防水双肩包女韩版背包女包旅行包2017新款书包牛津布帆布妈咪包包
+defaultPrice 39.80 - 49.80
+place 天津
+shopName hkz旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=550066646758&ns=1&abbucket=10

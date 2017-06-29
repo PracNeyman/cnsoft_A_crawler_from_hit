@@ -1,0 +1,5 @@
+goodName 米熙双肩包男士多功能防盗背包 商务电脑包大学生书包女双肩背包
+defaultPrice 418.00 - 658.00
+place 广东广州
+shopName 米熙箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=538967869548&ns=1&abbucket=10

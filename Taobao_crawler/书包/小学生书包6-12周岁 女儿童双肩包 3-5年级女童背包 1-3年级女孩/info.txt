@@ -1,0 +1,5 @@
+goodName 小学生书包6-12周岁 女儿童双肩包 3-5年级女童背包 1-3年级女孩
+defaultPrice 168.00
+place 北京
+shopName 启梦缘母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=544301284197&ns=1&abbucket=10

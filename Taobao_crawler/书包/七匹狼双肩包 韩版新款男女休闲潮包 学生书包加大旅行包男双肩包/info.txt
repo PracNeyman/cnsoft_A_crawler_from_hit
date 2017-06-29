@@ -1,0 +1,5 @@
+goodName 七匹狼双肩包 韩版新款男女休闲潮包 学生书包加大旅行包男双肩包
+defaultPrice 319.00 - 359.00
+place 上海
+shopName 七匹狼开地专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=538099596026&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 梵瑞恩男士双肩包男青年时尚旅行包韩版休闲电脑背包学生简约书包
+defaultPrice 156.00 - 186.00
+place 广东广州
+shopName 梵瑞恩箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=549261504806&ns=1&abbucket=10

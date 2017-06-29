@@ -1,0 +1,5 @@
+goodName 韩版休闲双肩包男大学生书包中学生商务电脑包大容量旅行女背包潮
+defaultPrice 368.00
+place 广东广州
+shopName 喜利威鲨旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=532938141215&ns=1&abbucket=10

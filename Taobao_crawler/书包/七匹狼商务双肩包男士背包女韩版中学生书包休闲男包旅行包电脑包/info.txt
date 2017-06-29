@@ -1,0 +1,5 @@
+goodName 七匹狼商务双肩包男士背包女韩版中学生书包休闲男包旅行包电脑包
+defaultPrice 249.00 - 339.00
+place 湖北武汉
+shopName 七匹狼都业专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=45722332051&ns=1&abbucket=10

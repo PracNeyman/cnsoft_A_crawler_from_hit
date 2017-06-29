@@ -1,0 +1,5 @@
+goodName 2017新款尼龙双肩包女背包牛津布时尚简约韩版帆布休闲学院风书包
+defaultPrice 508.00 - 518.00
+place 北京
+shopName sybecca旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=525170417721&ns=1&abbucket=10

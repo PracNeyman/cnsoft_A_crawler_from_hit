@@ -1,0 +1,5 @@
+goodName 可爱幼儿园儿童书包男女1-2-3-4-5-6岁周岁双肩背包宝宝小孩包包
+defaultPrice 31.60 - 46.00
+place 上海
+shopName kvg旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=532595346605&ns=1&abbucket=10

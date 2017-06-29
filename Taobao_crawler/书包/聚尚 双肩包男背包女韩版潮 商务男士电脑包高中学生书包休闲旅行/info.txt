@@ -1,0 +1,5 @@
+goodName 聚尚 双肩包男背包女韩版潮 商务男士电脑包高中学生书包休闲旅行
+defaultPrice 99.00
+place 河北保定
+shopName jushion聚尚旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=538416015960&ns=1&abbucket=10

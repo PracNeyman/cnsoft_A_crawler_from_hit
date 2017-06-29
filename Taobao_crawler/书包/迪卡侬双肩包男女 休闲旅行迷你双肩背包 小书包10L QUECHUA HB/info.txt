@@ -1,0 +1,5 @@
+goodName 迪卡侬双肩包男女 休闲旅行迷你双肩背包 小书包10L QUECHUA HB
+defaultPrice 19.90
+place 江苏苏州
+shopName 迪卡侬旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=43188715447&ns=1&abbucket=10

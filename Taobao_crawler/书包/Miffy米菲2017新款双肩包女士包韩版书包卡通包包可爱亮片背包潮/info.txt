@@ -1,0 +1,5 @@
+goodName Miffy米菲2017新款双肩包女士包韩版书包卡通包包可爱亮片背包潮
+defaultPrice 288.00
+place 广东广州
+shopName 米菲伟之林专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=525558043397&ns=1&abbucket=10

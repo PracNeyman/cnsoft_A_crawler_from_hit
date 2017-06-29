@@ -1,0 +1,5 @@
+goodName 百搭双肩包女印花日韩版潮流学院高中学生书包初中生旅行背包帆布
+defaultPrice 398.00
+place 广东广州
+shopName 偶爱旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=537021679518&ns=1&abbucket=10

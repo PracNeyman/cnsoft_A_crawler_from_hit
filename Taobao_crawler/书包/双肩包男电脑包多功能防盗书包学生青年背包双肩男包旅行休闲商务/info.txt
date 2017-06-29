@@ -1,0 +1,5 @@
+goodName 双肩包男电脑包多功能防盗书包学生青年背包双肩男包旅行休闲商务
+defaultPrice 219.00 - 269.00
+place 广东广州
+shopName 马可莱登旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=540675354532&ns=1&abbucket=10

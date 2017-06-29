@@ -1,0 +1,5 @@
+goodName 日韩版大高初中学生书包女时尚潮流双肩包田园小清新校园帆布背包
+defaultPrice 318.00
+place 广东广州
+shopName mcysczb旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=539626794722&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 七匹狼双肩包 男士韩版休闲旅行 商务电脑包大中学生书包男女背包
+defaultPrice 259.00 - 339.00
+place 上海
+shopName 七匹狼载道专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=538369160524&ns=1&abbucket=10

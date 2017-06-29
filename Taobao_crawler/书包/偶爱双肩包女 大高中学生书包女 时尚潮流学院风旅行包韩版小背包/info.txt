@@ -1,0 +1,5 @@
+goodName 偶爱双肩包女 大高中学生书包女 时尚潮流学院风旅行包韩版小背包
+defaultPrice 168.00
+place 广东广州
+shopName 偶爱旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=542450784669&ns=1&abbucket=10

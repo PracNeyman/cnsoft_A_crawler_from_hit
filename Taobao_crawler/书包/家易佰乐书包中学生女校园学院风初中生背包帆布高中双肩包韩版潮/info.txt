@@ -1,0 +1,5 @@
+goodName 家易佰乐书包中学生女校园学院风初中生背包帆布高中双肩包韩版潮
+defaultPrice 280.00
+place 广东广州
+shopName jiaybl家易佰乐箱包旗舰
+goodUrl https://detail.tmall.com/item.htm?&id=42989288507&ns=1&abbucket=10

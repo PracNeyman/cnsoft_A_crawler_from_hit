@@ -1,0 +1,5 @@
+goodName 儿童书包小学生男生3-5-4-6年级女生6-12周岁超轻护脊防水男孩
+defaultPrice 192.00 - 216.00
+place 湖南邵阳
+shopName 碧峰峡旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=545869407572&ns=1&abbucket=10

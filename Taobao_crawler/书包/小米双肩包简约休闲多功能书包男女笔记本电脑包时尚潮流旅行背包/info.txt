@@ -1,0 +1,5 @@
+goodName 小米双肩包简约休闲多功能书包男女笔记本电脑包时尚潮流旅行背包
+defaultPrice 149.00 - 150.00
+place 北京
+shopName 小米官方旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=44932380380&ns=1&abbucket=10

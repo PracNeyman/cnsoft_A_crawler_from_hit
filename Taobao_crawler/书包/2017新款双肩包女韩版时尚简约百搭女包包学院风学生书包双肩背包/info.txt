@@ -1,0 +1,5 @@
+goodName 2017新款双肩包女韩版时尚简约百搭女包包学院风学生书包双肩背包
+defaultPrice 158.00
+place 北京
+shopName 碧洛迪丝箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=535839018409&ns=1&abbucket=10

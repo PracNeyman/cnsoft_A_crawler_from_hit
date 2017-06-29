@@ -1,0 +1,5 @@
+goodName 莱夫书包女韩版时尚双肩包小帆布百搭尼龙背包2017新款潮简约女包
+defaultPrice 269.00
+place 广东广州
+shopName 莱夫箱包旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=536727384009&ns=1&abbucket=10

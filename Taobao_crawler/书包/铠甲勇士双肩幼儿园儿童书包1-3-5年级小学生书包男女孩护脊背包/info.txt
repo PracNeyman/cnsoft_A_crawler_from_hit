@@ -1,0 +1,5 @@
+goodName 铠甲勇士双肩幼儿园儿童书包1-3-5年级小学生书包男女孩护脊背包
+defaultPrice 148.00 - 168.00
+place 广东广州
+shopName 踏梦者母婴专营店
+goodUrl https://detail.tmall.com/item.htm?&id=552139822439&ns=1&abbucket=10

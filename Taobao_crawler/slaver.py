@@ -1,4 +1,4 @@
-#! python3
+#! python2
 # -*- coding: utf-8 -*-
 import requests
 import re
@@ -17,8 +17,8 @@ sys.setdefaultencoding('utf-8')
 headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' }
 
 
-goods=sys.argv[1]
-#goods='apple'
+#goods=sys.argv[1]
+goods="书包"
 
 MaxErrorTimes=5
 IP="211.140.151.220"
@@ -41,7 +41,6 @@ def wordCloud(Path):
 def crawl_tianMao(IP):
 	#good_url="https://detail.tmall.com/item.htm?spm=a230r.1.14.6.4bRmel&id=537441459334&cm_id=140105335569ed55e27b&abbucket=10"
 	r=Redis()
-	print(r.keys('*'))
 	if r.exists('goods_urls')==False:
 		print("over!")
 		exit(0)
@@ -117,6 +116,7 @@ def crawl_tianMao(IP):
 	crawl_tianMao(IP)
 
 if __name__ == '__main__':
+	print("slaver爬取每一个商品".decode('utf-8'))
 	r=Redis()
 	r['NUM']=0
 	crawl_tianMao(IP)

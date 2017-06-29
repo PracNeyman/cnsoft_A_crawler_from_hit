@@ -1,0 +1,5 @@
+goodName 书包男高中学生时尚潮流日韩男士背包个性街头双肩包男韩版大学生
+defaultPrice 290.00
+place 广东广州
+shopName iozo旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=543439347937&ns=1&abbucket=10

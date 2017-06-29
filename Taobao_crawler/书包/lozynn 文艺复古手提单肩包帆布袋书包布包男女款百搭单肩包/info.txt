@@ -1,0 +1,5 @@
+goodName lozynn 文艺复古手提单肩包帆布袋书包布包男女款百搭单肩包
+defaultPrice 78.00
+place 江苏盐城
+shopName lozynn罗绮旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=525147451419&ns=1&abbucket=10

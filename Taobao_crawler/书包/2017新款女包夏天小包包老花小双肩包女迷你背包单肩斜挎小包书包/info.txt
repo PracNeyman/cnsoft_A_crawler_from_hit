@@ -1,0 +1,5 @@
+goodName 2017新款女包夏天小包包老花小双肩包女迷你背包单肩斜挎小包书包
+defaultPrice 69.90 - 79.90
+place 北京
+shopName 代代花枳旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=545873840927&ns=1&abbucket=10

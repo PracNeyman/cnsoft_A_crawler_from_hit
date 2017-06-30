@@ -1,4 +1,4 @@
-#分布式爬虫系统
+# 分布式爬虫系统
 
 > 哈尔滨工业大学：武德浩，万丁，李博
 
@@ -9,11 +9,13 @@
 > 而互联网上的数据内容丰富，组织形式也灵活多样。传统的爬虫系统，对所有的网页采用同样的办法处理，利用深度优先或广度优先的办法获取网页链接，下载网页，对网页中的所有的文本数据建立倒排索引。这种方式没有对网页数据的信息进行组织、归类。
 > 应大数据的需求，分布式爬虫系统是解决这一问题的方案。分布式爬虫，对同一个网站的同类数据，进行结构化。同时，能利用分布式的软件设计方法，实现爬虫的高效采集。
 
-本次我们主要实现了两个爬虫系统，分别用于电商网站和博客网站的爬取，具体信息如下。
+本次我们主要实现了两个爬虫系统，分别用于电商网站和博客网站的爬取，具体信息如下，单纯只是为了演示，我们并没有将我们的爬虫部署到云服务器上，因此也没有配置docker，我们在本地构建了相应的服务器用于与数据库连接，具体都在文档与演示视频中可以体现，由于我们小组分工的原因，武德浩完成的淘宝数据爬取在Win10环境下展示，李博负责爬取的CSDN数据在OS X环境下展示。
 
-##基于redis实现分布式爬虫的淘宝网站信息爬取及词云展示
+本次演示视频的链接：http://v.youku.com/v_show/id_XMjg1ODA4MzczNg==.html?spm=a2h3j.8428770.3416059.1
 
-###前言
+## 基于redis实现分布式爬虫的淘宝网站信息爬取及词云展示
+
+### 前言
 
 本次我们首先开始的是针对于淘宝（天猫）网站的关于商品Url，商品价格，商品评论，店铺Url，店铺信息，店铺地址，店铺信用排名等各种数据的爬取，然后通过我们后期处理，组织，对商品进行数据的管理，可视化，以及对评论进行词云生成，以方便使用者在庞大的数据下能够有效的提取出有用的信息。
 
@@ -21,17 +23,17 @@
 
 在这样的任务要求上，我们基于传统的爬虫进行了改进，经过广泛的学习与思考之后，我们采用了 redis 数据库实现了一个分布式结构化的爬虫，可以对于淘宝（天猫）网站进行多个线程的同时爬取，其效率和效果都远远的高于我们最开始的传统爬虫。
 
-###前提环境、架构
+### 前提环境、架构
 
-开发语言：Python 2.7
+开发语言：Python 3.6
 
-开发环境: Windows 10、4G内存，Core I5 处理器
+开发环境: Windows 10、8G内存，Core I5 处理器
 
 数据库：Redis
 
-###实现方式说明
+### 实现方式说明
 
-我们利用 Redis 实现了 master + slaver 的分布式爬虫思想。
+我们利用 redis 实现了 master + slaver 的分布式爬虫思想。
 
 主要策略如下图：
 ![pic 1](https://ooo.0o0.ooo/2017/06/28/595397f34e61e.jpg)
@@ -79,45 +81,45 @@ master.py文件从用户输入中得到一个待搜索的商品关键字，创�
 
 ```python
 def get_goods_url(goods):
-	print(("爬取的商品为"+goods).decode('utf-8'))
-	shops=[]
-	if not os.path.exists(goods.decode('utf-8')):
-		os.mkdir("./"+goods.decode('utf-8'))
-	r=Redis()
-	r['NUM']=int(0)
-	r.delete('goods_urls')
-	IP="163.125.223.124"		#默认就用这个IP，当不可用时从代理池中取出其他IP
-	searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all&sort=sale-desc"
-	search_text=requests.get(url=searchUrl,headers=headers).text
-	totalPage=int(re.findall(r'"totalPage":(.*?),',search_text)[0])
-	for currentPage in range(0,totalPage):
-		#print("totalPage"+str(totalPage))
-		searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&s="+str(currentPage*44)+"&cd=false&tab=all&sort=sale-desc"
-		try:
-			search_text=requests.get(url=searchUrl,headers=headers,proxies={"http": "http://"+IP}).text
-		except Exception as e:
-			print("Not OK")
-			IP=r.lpop('IPs')
-			continue
-		tmpShops=(re.findall(r'"nick":"(.*?)","shopcard"',search_text))
-		for shop in tmpShops:
-			shops.append(shop)
-		raw_urls=re.findall(r'//detail.tmall.com/item.htm?(.*?),"view_price":',search_text)
-		#flag=1
-		before_url=''
-		for raw_url in raw_urls:
-			id=re.findall(r'id\\u003d(.*?)\\u',raw_url)[0]
-			ns=re.findall(r'\\u0026ns\\u003d(.*?)\\u',raw_url)[0]
-			abbucket=re.findall(r'\\u0026abbucket\\u003d(.*?)"',raw_url)[0]
-			goods_url="https://detail.tmall.com/item.htm?&id="+id+"&ns="+ns+"&abbucket="+str(10)
-			if before_url!=goods_url:
-				print(goods_url)
-				before_url=goods_url
-				r.rpush('goods_urls',goods_url)
-	shopsFile=open("./"+goods.decode('utf-8')+"/shops.txt",'a')
-	for shop in shops:
-		shopsFile.write(shop+" "+str(shops.count(shop))+'\n')
-		shops.remove(shop)	
+    print(("爬取的商品为"+goods).decode('utf-8'))
+    shops=[]
+    if not os.path.exists(goods.decode('utf-8')):
+        os.mkdir("./"+goods.decode('utf-8'))
+    r=Redis()
+    r['NUM']=int(0)
+    r.delete('goods_urls')
+    IP="163.125.223.124"        #默认就用这个IP，当不可用时从代理池中取出其他IP
+    searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&cd=false&tab=all&sort=sale-desc"
+    search_text=requests.get(url=searchUrl,headers=headers).text
+    totalPage=int(re.findall(r'"totalPage":(.*?),',search_text)[0])
+    for currentPage in range(0,totalPage):
+        #print("totalPage"+str(totalPage))
+        searchUrl="https://s.taobao.com/search?s=1&ie=utf-8&q="+goods+"&s="+str(currentPage*44)+"&cd=false&tab=all&sort=sale-desc"
+        try:
+            search_text=requests.get(url=searchUrl,headers=headers,proxies={"http": "http://"+IP}).text
+        except Exception as e:
+            print("Not OK")
+            IP=r.lpop('IPs')
+            continue
+        tmpShops=(re.findall(r'"nick":"(.*?)","shopcard"',search_text))
+        for shop in tmpShops:
+            shops.append(shop)
+        raw_urls=re.findall(r'//detail.tmall.com/item.htm?(.*?),"view_price":',search_text)
+        #flag=1
+        before_url=''
+        for raw_url in raw_urls:
+            id=re.findall(r'id\\u003d(.*?)\\u',raw_url)[0]
+            ns=re.findall(r'\\u0026ns\\u003d(.*?)\\u',raw_url)[0]
+            abbucket=re.findall(r'\\u0026abbucket\\u003d(.*?)"',raw_url)[0]
+            goods_url="https://detail.tmall.com/item.htm?&id="+id+"&ns="+ns+"&abbucket="+str(10)
+            if before_url!=goods_url:
+                print(goods_url)
+                before_url=goods_url
+                r.rpush('goods_urls',goods_url)
+    shopsFile=open("./"+goods.decode('utf-8')+"/shops.txt",'a')
+    for shop in shops:
+        shopsFile.write(shop+" "+str(shops.count(shop))+'\n')
+        shops.remove(shop)  
 ```
 
 
@@ -130,95 +132,95 @@ def get_goods_url(goods):
 headers={ 'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36' }
 goods="书包"
 MaxErrorTimes=5
-IP="211.140.151.220"			#默认使用这个IP，当不可用时从代理池中取出其他IP使用
+IP="211.140.151.220"            #默认使用这个IP，当不可用时从代理池中取出其他IP使用
 
 def wordCloud(Path):
-	#读取要生成词云的文件
-	text_from_file_with_apath = open(Path+"/rate.txt").read()
+    #读取要生成词云的文件
+    text_from_file_with_apath = open(Path+"/rate.txt").read()
 
-	wordlist_after_jieba = jieba.cut(text_from_file_with_apath, cut_all = True)
-	wl_space_split = " ".join(wordlist_after_jieba)
-	my_wordcloud = WordCloud(background_color='white',font_path='C:\Windows\Fonts\simkai.ttf').generate(wl_space_split)
+    wordlist_after_jieba = jieba.cut(text_from_file_with_apath, cut_all = True)
+    wl_space_split = " ".join(wordlist_after_jieba)
+    my_wordcloud = WordCloud(background_color='white',font_path='C:\Windows\Fonts\simkai.ttf').generate(wl_space_split)
 
-	# 以下代码显示图片
-	plt.figure(figsize = (10,8),dpi = 600)
-	plt.imshow(my_wordcloud)
-	plt.axis("off")
-	plt.savefig(Path+"/wordCloud.png",dpi = 600)
+    # 以下代码显示图片
+    plt.figure(figsize = (10,8),dpi = 600)
+    plt.imshow(my_wordcloud)
+    plt.axis("off")
+    plt.savefig(Path+"/wordCloud.png",dpi = 600)
 
 
 def crawl_tianMao(IP):
-	r=Redis()
-	if r.exists('goods_urls')==False:
-		print("over!")
-		exit(0)
-	good_url=r.lpop('goods_urls')
-	print(good_url)
-	try:
-		text=requests.get(url=good_url,headers=headers,proxies={"http": "http://"+IP}).text
-	except Exception as e:
-		if r.exists('goods_urls')==False:
-			print("over!")
-			exit(0)
-		else:
-			IP=r.lpop('IPs')
-	shopName=re.findall(r'<input type="hidden" name="seller_nickname" value="(.*?)" />',text)[0]
-	goodName=re.findall(r'<input type="hidden" name="title" value="(.*?)" />',text)[0]
-	defaultPrice=re.findall(r'"defaultItemPrice":"(.*?)"',text)[0]
-	place=re.findall(r'<input type="hidden" name="region" value="(.*?)" />',text)[0]
-	r['NUM']=int(r['NUM'])+1
-	try:
-		os.mkdir("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
+    r=Redis()
+    if r.exists('goods_urls')==False:
+        print("over!")
+        exit(0)
+    good_url=r.lpop('goods_urls')
+    print(good_url)
+    try:
+        text=requests.get(url=good_url,headers=headers,proxies={"http": "http://"+IP}).text
+    except Exception as e:
+        if r.exists('goods_urls')==False:
+            print("over!")
+            exit(0)
+        else:
+            IP=r.lpop('IPs')
+    shopName=re.findall(r'<input type="hidden" name="seller_nickname" value="(.*?)" />',text)[0]
+    goodName=re.findall(r'<input type="hidden" name="title" value="(.*?)" />',text)[0]
+    defaultPrice=re.findall(r'"defaultItemPrice":"(.*?)"',text)[0]
+    place=re.findall(r'<input type="hidden" name="region" value="(.*?)" />',text)[0]
+    r['NUM']=int(r['NUM'])+1
+    try:
+        os.mkdir("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
 
-	except:
-		print("ok")
-		exit(0)
-	infoText=open("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')+"/"+"info.txt",'w')
-	infoText.write("goodName "+goodName+"\n")
-	infoText.write("defaultPrice "+defaultPrice+'\n')
-	infoText.write("place "+place+'\n')
-	infoText.write("shopName "+shopName+'\n')
-	infoText.write("goodUrl "+good_url+'\n')
-	infoText.close()
-	Ids=re.findall(r'w.g_config={(.*?)}',text)[0]
-	itemId=re.findall(r'itemId:"(.*?)"',Ids)[0]
-	sellerId=re.findall(r'sellerId:"(.*?)"',Ids)[0]
+    except:
+        print("ok")
+        exit(0)
+    infoText=open("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')+"/"+"info.txt",'w')
+    infoText.write("goodName "+goodName+"\n")
+    infoText.write("defaultPrice "+defaultPrice+'\n')
+    infoText.write("place "+place+'\n')
+    infoText.write("shopName "+shopName+'\n')
+    infoText.write("goodUrl "+good_url+'\n')
+    infoText.close()
+    Ids=re.findall(r'w.g_config={(.*?)}',text)[0]
+    itemId=re.findall(r'itemId:"(.*?)"',Ids)[0]
+    sellerId=re.findall(r'sellerId:"(.*?)"',Ids)[0]
 
-	errorTime=0
-	output=open("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')+"/rate.txt",'w')
-	
-	for currentPage in range(1,200):
-		try:
-			rateUrl="https://rate.tmall.com/list_detail_rate.htm?itemId="+itemId+"&sellerId="+sellerId+"&currentPage="+(str)(currentPage)
-			print(rateUrl)
-			try:
-				myweb=requests.get(url=rateUrl,headers=headers,proxies={"http": "http://"+IP})
-			except Exception as e:
-				IP=r.lpop('IPs')
-				continue
-			rates=re.findall(r'"rateContent":"(.*?)"',myweb.text)
-			if len(rates)==0:
-				print("NO Content")
-				errorTime+=1
-			for rate in rates:
-				print(rate)
-				output.write(rate)
-				output.write('\n')
-			#wordCloud("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
-			try:
-				if(currentPage==int(re.findall(r'"lastPage":(.*?),',myweb.text)[0])):
-					print("到达评论最后一页")
-					break
-			except Exception as e:
-				continue
-		except Exception as e:
-			print(e)
-			errorTime+=1
-			continue
-		if errorTime==MaxErrorTimes:
-			break
-	output.close()
-	crawl_tianMao(IP)
+    errorTime=0
+    output=open("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8')+"/rate.txt",'w')
+    
+    for currentPage in range(1,200):
+        try:
+            rateUrl="https://rate.tmall.com/list_detail_rate.htm?itemId="+itemId+"&sellerId="+sellerId+"&currentPage="+(str)(currentPage)
+            print(rateUrl)
+            try:
+                myweb=requests.get(url=rateUrl,headers=headers,proxies={"http": "http://"+IP})
+            except Exception as e:
+                IP=r.lpop('IPs')
+                continue
+            rates=re.findall(r'"rateContent":"(.*?)"',myweb.text)
+            if len(rates)==0:
+                print("NO Content")
+                errorTime+=1
+            for rate in rates:
+                print(rate)
+                output.write(rate)
+                output.write('\n')
+            #wordCloud("./"+goods.decode('utf-8')+"/"+goodName.decode('utf-8'))
+            try:
+                if(currentPage==int(re.findall(r'"lastPage":(.*?),',myweb.text)[0])):
+                    print("到达评论最后一页")
+                    break
+            except Exception as e:
+                continue
+        except Exception as e:
+            print(e)
+            errorTime+=1
+            continue
+        if errorTime==MaxErrorTimes:
+            break
+    output.close()
+    crawl_tianMao(IP)
 ```
 
 
@@ -275,18 +277,16 @@ CSV文件如下图
 
 下面是对于CSDN博客文章的爬取。
 
-
-
-##基于scrapy + mongodb实现的CSDN博客文章爬取
+## 基于scrapy + mongodb实现的CSDN博客文章爬取
 
 > 互联网是企业进行发布信息的渠道，是个人共享和获取信息的工具，同时也为政府提供了大量有价值的信息，用于监管企业和个人。政府有效的利用互联网的信息，能发现舆论倾向，建立征信体系，发现犯罪行为等。
 
-###前言
+### 前言
 
 对于这个题目，我们选取了国内著名的技术类型博客网站CSDN进行相应的爬取，我们通过scrapy框架进行爬虫的构建，实现网站结构的自动化分析（提取下一页url，提取当前文章的title，info，author，content等），生成对应的.md文件（如下图），方便用户简略查看，然后将主体的数据存入mongoDB作为储备。
 
 
-###前提环境、架构
+### 前提环境、架构
 
 开发语言：Python 3.6
 
@@ -296,7 +296,7 @@ CSV文件如下图
 
 ### 实现方式说明
 
-####Scrapy框架
+#### Scrapy框架
 我们注意到题目中提到爬虫的通用化，在我们目前了解的知识背景中，Scrapy正是这样的是一个为了爬取网站数据，提取结构性数据而编写的应用框架。 
 <div><center>![pic 6](http://opmza2br0.bkt.clouddn.com/17-6-29/88493134.jpg)</center></div>
 
@@ -324,7 +324,7 @@ csdn/
 
 当然这个框架还有许多比如利用middleware实现的功能更丰富的如代理等，将在下面介绍。
 
-###MongoDB
+### MongoDB
 
 在scrapy，我们可以通过在settings里面增加 MongoDB 的IP以及端口，来使得我们可以通过使用pymongo这个模块与MongoDB通信，把爬虫爬取的数据写到数据库中的collection中。
 
@@ -338,7 +338,7 @@ csdn/
 
 ![pic 4](http://opmza2br0.bkt.clouddn.com/17-6-29/40031375.jpg)
 
-###IP池以及代理的选取
+### IP池以及代理的选取
 
 通过Scrapy定义的中间件的方式，我们可以实现IP及代理的变换，首先我们在运行爬虫之前，先去IP网站上利用一个小型爬虫爬取出当前可用的IP，作为我们的IP池来选取。
 
@@ -386,7 +386,7 @@ def process_response(self, request, response, spider):
 如上，这样就实现了动态更新IP，远远地降低了被目标网站封禁的风险。
 
 
-###爬虫的运行及测试
+### 爬虫的运行及测试
 
 首先我们在命令行下进入到爬虫的文件夹，执行如下的命令。
 

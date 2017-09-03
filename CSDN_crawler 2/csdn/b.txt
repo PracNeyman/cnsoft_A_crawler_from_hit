@@ -1,0 +1,1917 @@
+platform总线按键驱动分析（精华版）
+图解VIM常用操作
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+JavaEE 使用 Redis 数据库进行内容缓存和高访问负载
+用Python实现简单的服务器
+SVM为什么走下“神坛”？
+4个方法快速打造你的阅读清单
+iptables高性能前端优化-无压力配置1w+条规则
+深入解析Ajax
+iOS自动布局框架之Masonry
+Java垃圾回收器与内存分配策略
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+读Zepto源码之Ajax模块
+安卓屏幕完美适配方案——独家秘笈
+一小时搞明白自定义注解（Annotation）
+贪心法
+Android通知Notification全面剖析
+(3)php爬虫---mysql大批数据导入数据库-4种方法比较
+机器学习-学习笔记 聚类
+【OpenStack源码分析之十一】分布式事务和相关算法
+Android：关于ContentProvider的知识都在这里了！
+K-means 聚类算法的理解与案例实战
+使聊天机器人的对话更有营养
+MapReduce: 一种简化的大规模集群数据处理法
+全面解析Notification
+创业公司做数据分析（二）运营数据系统
+过滤器、监听器、上下文、servlet线程安全问题
+程序员的口头禅：技术上无法实现
+shell脚本编程
+Android WebView执行GPU命令的过程分析
+Android 渗透测试学习手册 第三章 Android 应用的逆向和审计
+自定义控件三部曲之动画篇(九)——联合动画的代码实现
+AsyncTask实现机制
+DragVideo，一种在播放视频时，可以任意拖拽的方案
+Android开机速度优化简单回顾
+spring中自定义Event事件的使用和浅析
+RunLoop总结：RunLoop的应用场景（四）
+Nginx + Tomcat 反向代理 负载均衡 集群 部署指南
+Freeline 让AndroidStudio快的飞起来
+什么是算法
+<ROS> Gazebo Ros Control 及 Controller运用
+如何修改TextView链接点击实现(包含链接生成与点击原理分析)
+使用zxing批量生成二维码立牌
+Sphinx + Coreseek 实现中文分词搜索
+Android 7.0 ActivityManagerService(5) 广播(Broadcast)相关流程分析
+谈一谈CloudBlog的系统架构
+RunLoop总结：RunLoop的应用场景（五）
+Android之Service的细枝末节
+网络框架分析-全是套路
+我的15年程序路
+真的炸了：让人头痛的小程序之『图片懒加载』终极解决方案
+大龄程序员的前途令人担忧
+图像处理之角点检测与亚像素角点定位
+机器学习系列-K-NearestNeighbo
+使用文本挖掘实现站点个性化推荐
+线程池原理及创建并C++实现
+每天工作3小时就够了
+扫码登陆 之我见
+Android 开发:由模块化到组件化
+Android  自定义View——动态进度条
+C++从零实现深度神经网络之五——模型的保存和加载以及画出实时输出曲线
+Java泛型总结
+暮拾晨花，回望流年——我的2016
+AccessibilityService讲解
+“我的2016”主题征文活动
+802.11协议精读17：无线传输范围（理论计算）
+ThreadPoolExecutor源码分析
+Head First 设计模式之命令模式（CommandPattern）
+ Tomcat如何实现Comet
+AFNetworking到底做了什么？
+Android自定义一个属于自己的时间钟表
+你需要知道关于C语言指针的一切
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+4个方法快速打造你的阅读清单
+安卓屏幕完美适配方案——独家秘笈
+platform总线按键驱动分析（精华版）
+用Python实现简单的服务器
+SVM为什么走下“神坛”？
+iptables高性能前端优化-无压力配置1w+条规则
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+图解VIM常用操作
+JavaEE 使用 Redis 数据库进行内容缓存和高访问负载
+iOS自动布局框架之Masonry
+深入解析Ajax
+读Zepto源码之Ajax模块
+Java垃圾回收器与内存分配策略
+spring batch的使用和定时器Quart的使用
+现代前端技术解析：前端项目与技术实践
+粒子群算法实战分享－附原版动画PPT（技术分享也可以文艺范？）
+WebSocket安卓客户端实现详解(三)--服务端主动通知
+通过注解完美解决混淆问题
+Shell 循环中实现展示进度百分比的脚本方法
+安卓自定义相机,使用系统相机教程源码都有
+深入探讨Android异步精髓Handler
+Android自定义ViewGroup（二）——带悬停标题的ExpandableListView
+Android应用架构
+iOS 开发 Quartz 2D+ UIBezierPath绘图大全详解
+es6 javascript的Iterator 和 for...of 循环
+Android逆向工程
+BottomNavigationView
+Android WebView启动Chromium渲染引擎的过程分析
+Android图片加载库的封装实战之路
+迷茫！工作之余要学点什么呢？
+Canvas制作动态进度加载水球
+[机器学习] Coursera笔记 - Support Vector Machines
+Redis源码解析——双向链表
+Android开发-基本概念小整理(四)为了面试的小伙伴们所准备~~
+Docker学习教程笔记整合（完整）
+【Android】快速开发偷懒必备(二) 支持DataBinding啦~爽炸，一行实现花式列表
+Java 8 新特性概述
+Android个人中心的头像上传，图片编码及截取
+自定义View系列--Path绘制仿支付宝支付成功动画
+Android图表库MPAndroidChart(十四)——在ListView种使用相同的图表
+阿里百川HotFix1.3.3初体验
+FIB系统分析二(linux网络协议栈笔记)
+React Native Android 应用层实战沦陷记
+ThreadPoolExecutor源码分析
+SparkSQL的3种Join实现
+16年，悲痛又收获的一年
+Day14、随处可见的对话框
+深入剖析神经网络的运行机理及实现
+Android 7.0 ActivityManagerService(5) 广播(Broadcast)相关流程分析
+Linux 0.11 中字符设备的使用
+SpringMVC常用配置(二),最简洁的配置实现文件上传
+什么是算法
+谈一谈CloudBlog的系统架构
+jq框架封装学习笔记1-框架介绍与选择器框架
+五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面  简单&优雅：LayoutManager+ItemTouchHelper
+用ItemDecoration实现按字母排序列表
+Nginx + Tomcat 反向代理 负载均衡 集群 部署指南
+一篇文章让你彻底搞懂Material Design
+真的炸了：让人头痛的小程序之『图片懒加载』终极解决方案
+spring中自定义Event事件的使用和浅析
+使用zxing批量生成二维码立牌
+Sphinx + Coreseek 实现中文分词搜索
+再谈<全栈必备的技术栈设想>一文
+如何修改TextView链接点击实现(包含链接生成与点击原理分析)
+使用HTML5 Canvas创建动态粒子网格动画
+GNU Freestanding（Naked）C ARM交叉开发环境创建与测试
+基于随机变量的熵来进行数据建模和分析
+小程眼里的微服务
+2016大学里的流年回忆
+剖析Grunt任务配置
+以太坊开发--geth的使用入门
+Android通用脱壳工具DexHunter的原理分析和使用说明（二）
+令人躁动一时且令人不安的TCP BBR算法
+一小时搞明白注解处理器（Annotation Processor Tool）
+依赖注入利器 - Dagger ‡
+机器学习系列-K-NearestNeighbo
+Head First 设计模式之命令模式（CommandPattern）
+<ROS> Gazebo Ros Control 及 Controller运用
+Android之Service的细枝末节
+Android 开发:由模块化到组件化
+Android 渗透测试学习手册 第三章 Android 应用的逆向和审计
+自定义控件三部曲之动画篇(九)——联合动画的代码实现
+RunLoop总结：RunLoop的应用场景（四）
+Freeline 让AndroidStudio快的飞起来
+我的15年程序路
+使用文本挖掘实现站点个性化推荐
+每天工作3小时就够了
+RunLoop总结：RunLoop的应用场景（五）
+大龄程序员的前途令人担忧
+图像处理之角点检测与亚像素角点定位
+网络框架分析-全是套路
+Java泛型总结
+“我的2016”主题征文活动
+ROS:语音识别与合成，让机器人会说话
+AFNetworking到底做了什么？
+Android评论图片可移动顺序选择器
+AccessibilityService讲解
+ Tomcat如何实现Comet
+FMDB與SQLite 數據庫應用示範：打做一隻簡單的電影資料庫 App
+你需要知道关于C语言指针的一切
+打造炫酷通用的ViewPager指示器 - Adapter模式适配所有
+Android自定义一个属于自己的时间钟表
+DragVideo，一种在播放视频时，可以任意拖拽的方案
+AsyncTask机制详解
+Android Multimedia框架总结（二十三）MediaCodec补充及MediaMuxer引入（附案例）
+再聊线程池
+Windows下libevent C++封装类实现
+《图说VR入门》——360全景视频
+android不知不觉偷拍他人功能实现（手机关闭依然拍照）
+802.11协议精读12：初探协议性能
+mongodb副本集搭建过程中的问题和解决技巧
+暮拾晨花，回望流年——我的2016
+线程池原理及创建并C++实现
+802.11协议精读17：无线传输范围（理论计算）
+扫码登陆 之我见
+Android  自定义View——动态进度条
+C++从零实现深度神经网络之五——模型的保存和加载以及画出实时输出曲线
+AsyncTask实现机制
+Android开机速度优化简单回顾
+AngularJS开发环境搭建，出hello word
+ROS：kcf算法+行人检测 = 让机器人自动识别并追踪行人
+Ionic开发实战
+几种典型的服务器网络编程模型归纳(select poll epoll)
+一个绚丽的Downloading动效分析与实现
+Android消息推送：手把手教你集成小米推送
+Redis源码剖析--对象object
+Raft算法国际论文全翻译
+Android Fragment 的使用，一些你不可不知的注意事项
+Android图表 MPAndroidChart折线图
+30分钟掌握ES6核心内容
+开发微信公众号后台，原来这么简单？[微信公众号开发]
+大话Hadoop1.0、Hadoop2.0与Yarn平台
+Android测试的坑——屏幕翻转
+HDFS内副本和块的状态分析
+性能优化九之UI卡顿分析
+如何提升你的面试机会？
+微信小程序开发之五星评分
+Azure 部署 Asp.NET Core Web App
+Python爬虫初识
+SQL Server 扩展事件（Extented Events）从入门到进阶（3）——通过界面操作Extented Event
+关于Java并发编程的总结和思考
+C++ 多线程编程总结
+这交互炸了(二)：爱范儿是如何让详情页缩小为横向列表的
+Android 源码系列之<十四>从源码的角度深入理解LeakCanary的内存泄露检测机制(下)
+Redis源码解析——字符串map
+Android WebView执行GPU命令的过程分析
+程序员的口头禅：技术上无法实现
+Android 秒级编译 Freeline
+过滤器、监听器、上下文、servlet线程安全问题
+RabbitMQ下的生产消费者模式与订阅发布模式
+【Android】快速开发偷懒必备，一句话搞定所有ViewGroup的Adapter . 支持自定义ViewGroup
+C++从零实现深度神经网络之二——前向传播和反向传播
+深入理解JS继承和原型链
+802.11协议精读13：协议理论性能（Bianchi模型）
+Android stuido 中的keystore
+java代码中init method和destroy method的三种使用方式
+Spark 开发调优（一）
+ffmpeg学习五：avformat_open_input函数源码分析（以mp4文件为例）
+使用异步servlet提升性能
+Android 渗透测试学习手册 第八章 ARM 利用
+Circuit Breaker模式
+PPTP配置VPN服务器
+Android中微信支付的流程(从请求统一支付接口到真正调起微信支付)
+我为什么坚持这么多年写博客
+利用开源软件 Hugin 实现照片的景深合成
+关于创建Android Library所需要知道的一切
+全栈必备 面向数据的架构
+React Native 与iOS的通信
+Android中利用icodetools工具快速定位App破解中关键点方法
+【Android】史上最简单，一步集成侧滑(删除)菜单，高仿QQ、IOS
+Python 浅拷贝 深拷贝 及引用机制
+Instruments性能优化-Core Animation
+【Redis缓存机制】13.Java连接Redis_Jedis_事务
+Mysql-聚簇索排序慢案例分析
+java数据结构与算法之递归思维(让我们更通俗地理解递归)
+AccessibilityService从入门到出轨
+Robolectric使用教程
+spring的Profile使用对比和应用场景分析
+shell脚本编程
+【Android自定义View实战】之仿百度加载动画，一种优雅的Loading方式
+深入理解epoll
+Butterknife源码
+创业街分店开张啦---原型模式
+Oracle 锁
+Android动画之萌萌哒蜡烛吹蜡烛动画
+iOS编译过程的原理和应用
+web前端之锋利的jQuery四：jQuery中的事件
+HttpSession服务器端会话技术
+深入分析ClassLoader工作机制
+从Android绘制View小例子中深入理解自定义View
+通过Github与PM2部署Node应用
+Android NFC标签 开发深度解析 触碰的艺术
+在线看Android系统源码，那些相见恨晚的几种方案
+实现一个简单的android开关
+Android性能优化之内存泄漏
+Android学习之如何集成极光短信验证
+我对TCP CDG拥塞控制算法的改进和优化
+Python Flask 天气查询
+Redis实现分布式锁
+微信小程序开发之大转盘 仿天猫超市抽奖
+【android开发】实现语音数据实时采集/播放
+带你开发一款给Apk中自动注入代码工具icodetools(完善篇)
+简要分析ZooKeeper基本原理及安装部署
+创业公司做数据分析（二）运营数据系统
+架构设计：系统存储（16）——Redis事件订阅和持久化存储
+iOS10 适配 ATS（app支持https通过App Store审核） 韩俊强的博客
+Xcode 调试技巧 --常用命令和断点
+AudioKit 教程：入门
+Java利器之UML类图详解
+数据挖掘十大算法之Apriori详解
+【腾讯Bugly干货分享】美团大众点评 Hybrid 化建设
+在android系统上写C语言程序--开机启动该程序不进入安卓系统
+深层神经网络结构及可能存在的致命问题详解
+数据挖掘十大算法之CART详解
+OpenCV中图像算术操作与逻辑操作
+android 搭建https Server
+白鹭引擎开发H5游戏（项目结构）
+java数据结构与算法之（Queue）队列设计与实现
+Android碎片Fragment总结
+机器学习（十三）——机器学习中的矩阵方法（3）病态矩阵、协同过滤的ALS算法（1）
+剑指Offer——当当+搜狐+好未来笔试题+知识点总结
+jsp初识、servlet转发、转发与重定向的比较
+MyBatis Generator 详细讲解
+Ultra-Pull-To-Refresh 自定义下拉刷新视差动画
+web前端之JavaScript正则表达式
+MapReduce: 一种简化的大规模集群数据处理法
+架构设计：系统存储（15）——Redis基本概念和安装使用
+Spark系列修炼---入门笔记19
+SQL Server 扩展事件（Extented Events）从入门到进阶（1）——从SQL Trace到Extented Events
+java ThreadLocal
+Java 集合深入理解（16）：HashMap 为什么这么快
+Android实现多点触控，自由缩放图片
+High-speed Charting Control--MFC绘制图表（折线图、饼图、柱形图）控件
+[uboot] uboot启动kernel篇（二）——bootm跳转到kernel的流程
+Android开发-基本概念小整理(二)为了面试的小伙伴们所准备~~
+java数据结构与算法之栈（Stack）设计与实现
+android 自定义view+属性动画实现充电进度条
+详解prototype与__proto__区别
+Oracle Coherence 3.5 读书笔记之3 - 满足性能，可扩展和可用性目标
+线程池浅谈
+js 设计模式 oop 面向对象编程
+Hibernate（开放源代码的对象关系映射框架）
+Android 多线程-----AsyncTask详解
+openGL三维网格坐标，旋转，缩放，灯光设置，纹理读取，模型读取（MFC单文档）
+理解使用Gradle编译打包Android apk
+linux读书摘要--linux磁盘与文件系统管理
+我的MongoDB坎坷之路
+这交互炸了：饿了么是怎么让Image变成详情页的
+统计字数oninput？keyup？onchange？
+安卓微信自动抢红包插件优化和实现
+基于Opencv的几种立体匹配算法+ELAS
+ROS(indigo) turtlebot2 + android一些有趣应用
+安卓TextView完美展示html格式代码
+2016年11月前端面试题整理汇总
+区块链的跨链技术介绍完整版
+4个方法快速打造你的阅读清单
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+再谈java乱码：GBK和UTF-8互转尾部乱码问题分析
+用Python实现简单的服务器
+安卓屏幕完美适配方案——独家秘笈
+JavaEE 使用 Redis 数据库进行内容缓存和高访问负载
+iptables高性能前端优化-无压力配置1w+条规则
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+SVM为什么走下“神坛”？
+深入解析Ajax
+图解VIM常用操作
+Java垃圾回收器与内存分配策略
+读Zepto源码之Ajax模块
+使用Node.js解析PNG文件
+platform总线按键驱动分析（精华版）
+iOS 开发 Quartz 2D+ UIBezierPath绘图大全详解
+Ultra-Pull-To-Refresh 自定义下拉刷新视差动画
+凭兴趣求职80%会失败，为什么
+Android中使用多线程的各种姿势
+架构设计：系统存储（15）——Redis基本概念和安装使用
+java数据结构与算法之（Queue）队列设计与实现
+统计字数oninput？keyup？onchange？
+实现一个简单的android开关
+Android性能优化之内存泄漏
+Android实现多点触控，自由缩放图片
+Redis源码解析——双向链表
+机器学习（十三）——机器学习中的矩阵方法（3）病态矩阵、协同过滤的ALS算法（1）
+深层神经网络结构及可能存在的致命问题详解
+Android开发-基本概念小整理(四)为了面试的小伙伴们所准备~~
+Python爬虫初识
+一小时搞明白注解处理器（Annotation Processor Tool）
+Android Multimedia框架总结（二十三）MediaCodec补充及MediaMuxer引入（附案例）
+再聊线程池
+依赖注入利器 - Dagger ‡
+令人躁动一时且令人不安的TCP BBR算法
+《图说VR入门》——360全景视频
+基于随机变量的熵来进行数据建模和分析
+用ItemDecoration实现按字母排序列表
+Day14、随处可见的对话框
+深入剖析神经网络的运行机理及实现
+网络框架分析-全是套路
+RunLoop总结：RunLoop的应用场景（五）
+SpringMVC常用配置(二),最简洁的配置实现文件上传
+16年，悲痛又收获的一年
+jq框架封装学习笔记1-框架介绍与选择器框架
+Linux 0.11 中字符设备的使用
+Freeline 让AndroidStudio快的飞起来
+为信仰充值——GoogleDeveloperDay
+Kafka——性能逆天的存在
+Android自定义View--自己撸一个柱状图也没那么难
+一篇文章让你彻底搞懂Material Design
+【一步一个脚印】Tomcat+MySQL为自己的APP打造服务器（3-1）Android 和 Service 的交互之GET方式
+Spark Streaming应用启动过程分析
+Java泛型总结
+我的15年程序路
+Android之Service的细枝末节
+Grunt常用插件及示例说明
+AccessibilityService讲解
+上次发版我就改了一行代码！
+Hive 教程（官方Tutorial）
+AFNetworking到底做了什么？
+五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面  简单&优雅：LayoutManager+ItemTouchHelper
+看了你就会的OkHttp介绍
+你需要知道关于C语言指针的一切
+ Tomcat如何实现Comet
+微信小程序开发—你期待的分享功能来了，微信小程序序新增5大功能
+FMDB與SQLite 數據庫應用示範：打做一隻簡單的電影資料庫 App
+RunLoop总结：RunLoop基础知识
+这交互炸了(三):闪屏页是像云一样消失的
+使用文本挖掘实现站点个性化推荐
+写在GitHub 的第 19999 个 star 时——开源的路还很长
+ROS:语音识别与合成，让机器人会说话
+架构设计：系统存储（17）——Redis集群方案：高可用
+基于Spark的大数据精准营销中搜狗用户画像挖掘
+别了青春与流年，遇见下一个自己
+用 Flask 来写个轻博客 (27) — 使用 Flask-Cache 实现网页缓存加速
+AngularJS指令中的compile与link函数解析
+【腾讯Bugly干货分享】彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法
+Maven私服搭建
+Android工厂模式+View pager+MPAndroidChart实现的会旋转的饼状统计图
+Android中热修复框架Robust原理解析+并将框架代码从"闭源"变成"开源"(上篇)
+图像的点运算
+Android倒计时效果
+Gradle for Android 系列：初识 Gradle 文件
+Mapbox 地图SDK极速集成指导
+【一步步学OpenGL 23】 -《阴影贴图1》
+用产品思维设计API（一）——RESTful就是个骗局
+你在职场可能犯下的最大错误
+2016 ~ 忆我的十年之路，整装再发
+Jdk1.8中的HashMap实现原理
+Android开发——断点续传原理以及实现
+java数据结构与算法之树基本概念及二叉树（BinaryTree）的设计与实现
+Android权限管理原理（含6.0-4.3）
+ROS：kcf算法+行人检测 = 让机器人自动识别并追踪行人
+一篇博客让你了解RxJava
+Android消息推送：手把手教你集成小米推送
+AngularJS开发环境搭建，出hello word
+累并快乐着---我的2016年总结
+Redis源码剖析--对象object
+大龄程序员的前途令人担忧
+RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系
+Hbase葱岭探秘--过滤器Api
+Material-ish Progress 源码阅读
+iOS自动布局框架之Masonry
+2016大学里的流年回忆
+谈一谈今年的移动互联网寒冬
+剖析Grunt任务配置
+Android通用脱壳工具DexHunter的原理分析和使用说明（二）
+nginx那些事儿
+Android  自定义View——动态进度条
+扫码登陆 之我见
+Ionic开发实战
+线程池原理及创建并C++实现
+动态规划总结
+基于vue的下拉刷新&滚动刷新指令
+Android中LaunchMode详解
+区块链开发（七）从某保险积分案例谈区块链应用的风险与挑战
+Android内存泄漏检测与MAT使用
+Python爬虫爬取动态页面思路+实例（一）
+每天工作3小时就够了
+java 线程 --- Thread,Runnable,Callable 基础学习
+Service服务AIDL进程通信详细总结
+SQL Server 扩展事件（Extented Events）从入门到进阶（4）——扩展事件引擎——基本概念
+AOP面向切面编程简介
+【Machine learning（python篇)】-几种常用的数据结构
+Glide简单使用（二）
+Android 7.0 ActivityManagerService(5) 广播(Broadcast)相关流程分析
+【Learning Notes】变分自编码（Variational Auto-Encoder，VAE）
+关于iOS内存管理的规则思考
+Nginx + Tomcat 反向代理 负载均衡 集群 部署指南
+图像处理之角点检测与亚像素角点定位
+spring中自定义Event事件的使用和浅析
+TQ2440开发板学习纪实（3）--- 设置时钟频率，让CPU运行的更快
+一个执行计划异常变更的案例 - 前传
+802.11协议精读17：无线传输范围（理论计算）
+谈一谈CloudBlog的系统架构
+C++从零实现深度神经网络之五——模型的保存和加载以及画出实时输出曲线
+Android开机速度优化简单回顾
+一个绚丽的Downloading动效分析与实现
+“我的2016”主题征文活动
+如何修改TextView链接点击实现(包含链接生成与点击原理分析)
+Android Fragment 的使用，一些你不可不知的注意事项
+AsyncTask实现机制
+30分钟掌握ES6核心内容
+开发微信公众号后台，原来这么简单？[微信公众号开发]
+感谢所有的幸运与不幸 --- 致我的2016
+暮拾晨花，回望流年——我的2016
+大话Hadoop1.0、Hadoop2.0与Yarn平台
+HDFS内副本和块的状态分析
+Raft算法国际论文全翻译
+ThreadPoolExecutor源码分析
+强大的Spring缓存技术（上）
+使用HTML5 Canvas创建动态粒子网格动画
+Sphinx + Coreseek 实现中文分词搜索
+小程眼里的微服务
+SparkSQL的3种Join实现
+Canvas制作动态进度加载水球
+深入理解JS继承和原型链
+再谈<全栈必备的技术栈设想>一文
+几种典型的服务器网络编程模型归纳(select poll epoll)
+C++从零实现深度神经网络之二——前向传播和反向传播
+这交互炸了(二)：爱范儿是如何让详情页缩小为横向列表的
+Android 源码系列之<十四>从源码的角度深入理解LeakCanary的内存泄露检测机制(下)
+真的炸了：让人头痛的小程序之『图片懒加载』终极解决方案
+Android WebView执行GPU命令的过程分析
+机器学习系列-K-NearestNeighbo
+Android 开发:由模块化到组件化
+使用zxing批量生成二维码立牌
+Android 渗透测试学习手册 第三章 Android 应用的逆向和审计
+GNU Freestanding（Naked）C ARM交叉开发环境创建与测试
+<ROS> Gazebo Ros Control 及 Controller运用
+自定义控件三部曲之动画篇(九)——联合动画的代码实现
+android不知不觉偷拍他人功能实现（手机关闭依然拍照）
+mongodb副本集搭建过程中的问题和解决技巧
+自定义View系列--Path绘制仿支付宝支付成功动画
+Android图表库MPAndroidChart(十四)——在ListView种使用相同的图表
+Head First 设计模式之命令模式（CommandPattern）
+FIB系统分析二(linux网络协议栈笔记)
+React Native Android 应用层实战沦陷记
+打造炫酷通用的ViewPager指示器 - Adapter模式适配所有
+Android评论图片可移动顺序选择器
+RunLoop总结：RunLoop的应用场景（四）
+DragVideo，一种在播放视频时，可以任意拖拽的方案
+Android测试的坑——屏幕翻转
+Android个人中心的头像上传，图片编码及截取
+Android图表 MPAndroidChart折线图
+[机器学习] Coursera笔记 - Support Vector Machines
+阿里百川HotFix1.3.3初体验
+Java 8 新特性概述
+Docker学习教程笔记整合（完整）
+深入分析ClassLoader工作机制
+过滤器、监听器、上下文、servlet线程安全问题
+iOS编译过程的原理和应用
+我对TCP CDG拥塞控制算法的改进和优化
+【Android】快速开发偷懒必备(二) 支持DataBinding啦~爽炸，一行实现花式列表
+微信小程序开发之五星评分
+程序员的口头禅：技术上无法实现
+什么是算法
+从Android绘制View小例子中深入理解自定义View
+HttpSession服务器端会话技术
+java代码中init method和destroy method的三种使用方式
+Android NFC标签 开发深度解析 触碰的艺术
+java数据结构与算法之递归思维(让我们更通俗地理解递归)
+【Android】快速开发偷懒必备，一句话搞定所有ViewGroup的Adapter . 支持自定义ViewGroup
+Redis实现分布式锁
+【Redis缓存机制】13.Java连接Redis_Jedis_事务
+Python 浅拷贝 深拷贝 及引用机制
+RabbitMQ下的生产消费者模式与订阅发布模式
+Robolectric使用教程
+Android自定义一个属于自己的时间钟表
+angularJS搭建简单应用程序的基本架构分析
+Redis源码解析——字符串map
+程序员都讨厌开会？
+迷茫！工作之余要学点什么呢？
+802.11协议精读13：协议理论性能（Bianchi模型）
+关于Java并发编程的总结和思考
+Azure 部署 Asp.NET Core Web App
+Android stuido 中的keystore
+802.11协议精读12：初探协议性能
+SQL Server 扩展事件（Extented Events）从入门到进阶（3）——通过界面操作Extented Event
+Instruments性能优化-Core Animation
+Android 渗透测试学习手册 第八章 ARM 利用
+使用异步servlet提升性能
+关于创建Android Library所需要知道的一切
+ffmpeg学习五：avformat_open_input函数源码分析（以mp4文件为例）
+Android中微信支付的流程(从请求统一支付接口到真正调起微信支付)
+Spark 开发调优（一）
+PPTP配置VPN服务器
+通过Github与PM2部署Node应用
+Circuit Breaker模式
+在线看Android系统源码，那些相见恨晚的几种方案
+Python Flask 天气查询
+Android碎片Fragment总结
+shell脚本编程
+白鹭引擎开发H5游戏（项目结构）
+创业公司做数据分析（二）运营数据系统
+全面解析Notification
+ java中的mvc和三层结构究竟是什么关系
+AsyncTask机制详解
+以太坊开发--geth的使用入门
+Windows下libevent C++封装类实现
+Mysql-聚簇索排序慢案例分析
+性能优化九之UI卡顿分析
+Xcode 调试技巧 --常用命令和断点
+如何提升你的面试机会？
+Android 秒级编译 Freeline
+全栈必备 面向数据的架构
+缓存在高并发场景下的常见问题
+Android学习之如何集成极光短信验证
+BottomNavigationView
+OpenCV中图像算术操作与逻辑操作
+【android开发】实现语音数据实时采集/播放
+iOS10 适配 ATS（app支持https通过App Store审核） 韩俊强的博客
+详解prototype与__proto__区别
+带你开发一款给Apk中自动注入代码工具icodetools(完善篇)
+C++ 多线程编程总结
+微信小程序开发之大转盘 仿天猫超市抽奖
+openGL三维网格坐标，旋转，缩放，灯光设置，纹理读取，模型读取（MFC单文档）
+Android图片加载库的封装实战之路
+安卓TextView完美展示html格式代码
+理解使用Gradle编译打包Android apk
+Android中利用icodetools工具快速定位App破解中关键点方法
+RACSignal 冷信号和热信号底层实现分析
+java ThreadLocal
+线程池浅谈
+安卓微信自动抢红包插件优化和实现
+High-speed Charting Control--MFC绘制图表（折线图、饼图、柱形图）控件
+Android开发-基本概念小整理(二)为了面试的小伙伴们所准备~~
+linux读书摘要--linux磁盘与文件系统管理
+Android 多线程-----AsyncTask详解
+Oracle Coherence 3.5 读书笔记之3 - 满足性能，可扩展和可用性目标
+React Native 与iOS的通信
+Hibernate（开放源代码的对象关系映射框架）
+Android WebView启动Chromium渲染引擎的过程分析
+我为什么坚持这么多年写博客
+LTE-TDD HARQ（4）-上下行HARQ的特点
+android 自定义view+属性动画实现充电进度条
+AccessibilityService从入门到出轨
+AudioKit 教程：入门
+剑指Offer——当当+搜狐+好未来笔试题+知识点总结
+简要分析ZooKeeper基本原理及安装部署
+微信小程序之仿微信漂流瓶
+利用开源软件 Hugin 实现照片的景深合成
+MyBatis Generator 详细讲解
+[uboot] uboot启动kernel篇（二）——bootm跳转到kernel的流程
+数据挖掘十大算法之CART详解
+android 搭建https Server
+web前端之锋利的jQuery四：jQuery中的事件
+Butterknife源码
+Oracle 锁
+Android动画之萌萌哒蜡烛吹蜡烛动画
+【Android自定义View实战】之仿百度加载动画，一种优雅的Loading方式
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+platform总线按键驱动分析（精华版）
+4个方法快速打造你的阅读清单
+安卓屏幕完美适配方案——独家秘笈
+使用spring事件驱动机制，实现权限信息的自动收集存库
+使用Node.js解析PNG文件
+再谈java乱码：GBK和UTF-8互转尾部乱码问题分析
+SVM为什么走下“神坛”？
+用Python实现简单的服务器
+JavaEE 使用 Redis 数据库进行内容缓存和高访问负载
+iptables高性能前端优化-无压力配置1w+条规则
+图解VIM常用操作
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+深入解析Ajax
+Java垃圾回收器与内存分配策略
+iOS自动布局框架之Masonry
+二十种特征变换方法及Spark MLlib调用实例（Scala/Java/python）（二）
+Android自定义ViewGroup（二）——带悬停标题的ExpandableListView
+java数据结构与算法之栈（Stack）设计与实现
+maven---10使用Jenkins进行持续集成
+[uboot] uboot启动kernel篇（二）——bootm跳转到kernel的流程
+Linux通过 Docker 可以托管 .NET Core啦！
+JSP的标签技术
+LTE-TDD HARQ（4）-上下行HARQ的特点
+Spark 开发调优（一）
+MapReduce: 一种简化的大规模集群数据处理法
+RunLoop总结：RunLoop的应用场景（五）
+大龄程序员的前途令人担忧
+图像处理之角点检测与亚像素角点定位
+每天工作3小时就够了
+Freeline 让AndroidStudio快的飞起来
+我的15年程序路
+Android之Service的细枝末节
+使用文本挖掘实现站点个性化推荐
+设计模式——享元模式详解
+【Android开发VR实战】三.开发一个寻宝类VR游戏TreasureHunt
+2016年终总结，新的里程和新的开始
+Java前端编译：Java源代码编译成Class文件的过程
+提个问题：从技术到人生
+Spring与Akka的集成
+图像风格转换(Image style transfer)
+在Mac上搭建React Native开发环境
+Swift Playground精讲
+Android Multimedia框架总结（二十五）MediaProjection实现手机截屏（无须root）
+Intro to Makefile
+Elasticsearch+Hbase实现海量数据秒回查询
+找不到合适的工作怎么办
+SQL Server 虚拟化（2）——理想的SQL Server虚拟机架构
+[架构优化]webAPP优化解决办法
+我的2016--远方不一定有诗，但有更好的自己
+Flink运行时之生产端结果分区
+架构设计：系统存储（18）——Redis集群方案：高性能
+[Hadoop]MapReducer工作过程
+2016一路有你，2017一起同行
+Android简易实战教程--第五十话《动画扫描》
+《图说VR》——HTC Vive控制器按键事件解耦使用
+Android进程通信之Messenger&AIDL使用详解
+一个执行计划异常变更的案例 - 外传之聚簇因子(Clustering Factor)
+创业公司做数据分析（三）用户行为数据采集系统
+冲刺BAT感悟--技术为本，行业为先
+2016年，失望，开心，耐心，学习，梦想，领悟，惋惜，展望
+75篇关于Tomcat源码和机制的文章
+ 编写一个简易的Java NIO Reactor库
+从0开始搭建SVN服务器
+ 一元夺宝
+Highcharts＋NodeJS搭建数据可视化平台
+【2016 Summary】十二个月里各不同，有遗憾、有收获，在艰难中成长，在安逸中改变
+JVM初探- 内存分配、GC原理与垃圾收集器
+iOS-Swift 面向协议编程/组件化(模块化)编程思想
+下载、编译、运行android 7.1系统（ubuntu 16.0.4）
+Android逆向之旅---破解"穿靴子的猫"游戏的收费功能
+构建知识图谱，让自己更值钱
+jQuery插件开发二
+一路16有你，一起17前行。Keep不止，Android不息。
+RX系列四 | RxAndroid | 加载图片 | 提交表单
+《React Native》之程序调试篇
+【IOS沉思录】：iOS多媒体音频(下)-录音及其播放
+我的 2016 总结：认识自己
+《JavaScript 闯关记》之垃圾回收和内存管理
+如何才能熟练使用 Android Studio？
+RxJava入门系列四,Android中的响应式编程
+使用Spring AOP实现MySQL数据库读写分离案例分析
+Flink运行时之通信层API
+iOS 开发问与答(1-15)
+HTTP协议浅析(下)： 使用HTTP协议实现通信
+[python爬虫] BeautifulSoup和Selenium对比爬取豆瓣Top250电影信息
+Nginx源码分析 - Nginx启动以及IOCP模型
+Elasticsearch 5.1.1搜索高亮及Java API实现
+从曹操杀华陀而联想到的系统性能问题才是真正的致命的问题
+深入Java基础（一）——基本数据类型及其包装类
+Elasticsearch 5 Ik+pinyin分词配置详解
+在线 Python运行工具
+web前端之JavaScript高级程序设计六：事件
+Storm消息可靠性的保障机制
+源码分析-LinkedBlockingQueue
+PHP和MYSQL开发简易交互式站点
+百度echarts后台交互实例
+Freemark与Spring MVC的整合
+Android中热修复框架Robust原理解析+并将框架代码从"闭源"变成"开源"(下篇)
+【《Effective C#》提炼总结】提高Unity中C#代码质量的22条准则
+Android package属性、package name和Application ID三者的联系及区别
+持续集成+自动化部署[代码流水线管理及Jenkins和gitlab集成]
+OpenFlowJ-Loxigen简介
+移动支付--银联,支付宝,微信(android)
+进程间通信之消息队列通信
+优化iOS程序性能的25个方法
+一个执行计划异常变更的案例 - 外传之rolling invalidation
+Java中集合的讲解
+ java数据结构与算法之平衡二叉树(AVL树)的设计与实现
+Android 自定义SeekBar动态改变  硬件音量大小  实现和音量键的同步
+代码整洁之道内容概括
+Android 的漂浮动画，下雪动画
+JavaScript组件设计思想（二）
+妹纸小A的计数工作
+迁移学习︱艺术风格转化:Artistic style-transfer+ubuntu14.0+caffe（only CPU）
+我的2016——时间战场
+iOS 开发问与答(16-27)
+蒙特卡洛马尔科夫链（MCMC）
+网站访客 简易日志记录
+2016总结,真正新的里程碑和新起点
+开发眼中的一些前端交互优化
+Lucene底层原理和优化经验分享(1)-Lucene简介和索引原理
+如何使用CubeMx制作一个基于SD卡的文件系统工程(2)
+十三年磨一剑，万能数据库查询分析器7.023版本 发布
+ 修改360抢票的刷新频率+突破8车次限制，太简单了
+RC ORC Parquet 格式比较和性能测试
+Python写的CSDN信息推送小助手
+RxJava入门系列三,响应式编程
+利用卷积网络识别骰子点数
+Android_性能优化之ViewPager加载成百上千高清大图oom解决方案
+聊聊分布式事务&分布式系统事务一致性解决方案
+探索setTimeout
+Android高仿微信表情输入与键盘输入(详细实现分析)
+我的2016——我和嵌入式的那些事
+web前端之MVC的JavaScript Web富应用开发一：MVC和类
+事情很重要却总不想开始怎么办
+Android自定义View和Canvas绘图解析
+Material-ish Progress 源码阅读
+PHP 数据库连接池实现
+对“粘连”footer布局的思考和总结
+Android开发软件架构思考以及经验总结
+Hive 教程（官方Tutorial）
+spring-cloud 构建一个restful的web服务
+RunLoop的学习总结
+16年，悲痛又收获的一年
+为什么我们迫切需要持续集成（Continuous Integration）
+Android隐式启动Activity可能存在的坑
+入门篇:神奇的Annotation
+深入剖析神经网络的运行机理及实现
+基于Spark的大数据精准营销中搜狗用户画像挖掘
+【腾讯Bugly干货分享】彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法
+对Android 软键盘向下的监听
+AngularJS指令中的compile与link函数解析
+DataNode生命线消息
+对抗生成网络（Generative Adversarial Net)
+深度卷积对抗生成网络(DCGAN)
+《JavaScript 闯关记》之原型及原型链
+2016秋招笔试面试题一：Java及基础部分
+NoSQL数据库浅析(一):Redis和Memcached
+酸甜苦辣，2016
+五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面  简单&优雅：LayoutManager+ItemTouchHelper
+Android中热修复框架Robust原理解析+并将框架代码从"闭源"变成"开源"(上篇)
+Maven私服搭建
+Android倒计时效果
+Android工厂模式+View pager+MPAndroidChart实现的会旋转的饼状统计图
+RunLoop总结：RunLoop基础知识
+谈一谈今年的移动互联网寒冬
+你在职场可能犯下的最大错误
+这交互炸了(三):闪屏页是像云一样消失的
+图像的点运算
+Hadoop那些事儿（一）–Hadoop初探
+Android 7.0 ActivityManagerService(5) 广播(Broadcast)相关流程分析
+网络框架分析-全是套路
+什么是算法
+微服务之分布式跟踪系统（springboot+zipkin）
+CCF权限查询
+自定义转场动画--Swift3.0版本
+RPC实践（四）Dubbo实践
+Android截屏事件监听
+用ItemDecoration实现按字母排序列表
+纯干货：微软漏洞中国第一人黄正——如何用正确姿势挖掘浏览器漏洞（附完整 PPT）
+基于随机变量的熵来进行数据建模和分析
+剖析Grunt任务配置
+动态规划总结
+SQL Server 扩展事件（Extented Events）从入门到进阶（4）——扩展事件引擎——基本概念
+别了青春与流年，遇见下一个自己
+nginx那些事儿
+802.11协议精读17：无线传输范围（理论计算）
+spring中自定义Event事件的使用和浅析
+真的炸了：让人头痛的小程序之『图片懒加载』终极解决方案
+RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系
+Sphinx + Coreseek 实现中文分词搜索
+机器学习系列-K-NearestNeighbo
+Android进阶——多线程系列之Thread、Runnable、Callable、Future、FutureTask
+Android 开发:由模块化到组件化
+Android 桌面小部件(AppWidgetProvider)的应用
+Android DrawerLayout实现抽屉效果
+令人躁动一时且令人不安的TCP BBR算法
+Android Multimedia框架总结（二十三）MediaCodec补充及MediaMuxer引入（附案例）
+再聊线程池
+AOP面向切面编程简介
+【Machine learning（python篇)】-几种常用的数据结构
+Android内存泄漏检测与MAT使用
+Python爬虫爬取动态页面思路+实例（一）
+关于iOS内存管理的规则思考
+【Learning Notes】变分自编码（Variational Auto-Encoder，VAE）
+Android中LaunchMode详解
+java 线程 --- Thread,Runnable,Callable 基础学习
+Circuit Breaker模式
+Python Flask 天气查询
+AsyncTask实现机制
+Android开机速度优化简单回顾
+Head First 设计模式之命令模式（CommandPattern）
+通过Github与PM2部署Node应用
+Service服务AIDL进程通信详细总结
+Android 渗透测试学习手册 第三章 Android 应用的逆向和审计
+一个绚丽的Downloading动效分析与实现
+自定义控件三部曲之动画篇(九)——联合动画的代码实现
+mongodb副本集搭建过程中的问题和解决技巧
+RunLoop总结：RunLoop的应用场景（四）
+android不知不觉偷拍他人功能实现（手机关闭依然拍照）
+DragVideo，一种在播放视频时，可以任意拖拽的方案
+《图说VR入门》——360全景视频
+<ROS> Gazebo Ros Control 及 Controller运用
+Python爬虫初识
+感谢所有的幸运与不幸 --- 致我的2016
+微信小程序开发之大转盘 仿天猫超市抽奖
+在线看Android系统源码，那些相见恨晚的几种方案
+强大的Spring缓存技术（上）
+Android学习之如何集成极光短信验证
+High-speed Charting Control--MFC绘制图表（折线图、饼图、柱形图）控件
+java ThreadLocal
+android 自定义view+属性动画实现充电进度条
+几种典型的服务器网络编程模型归纳(select poll epoll)
+深入理解JS继承和原型链
+linux读书摘要--linux磁盘与文件系统管理
+Android开发-基本概念小整理(二)为了面试的小伙伴们所准备~~
+Canvas制作动态进度加载水球
+Docker学习教程笔记整合（完整）
+Redis源码解析——双向链表
+Ultra-Pull-To-Refresh 自定义下拉刷新视差动画
+滤镜艺术---新海诚滤镜特效的实现解密
+生产者消费者的实现与思考
+深入分析ClassLoader工作机制
+HttpSession服务器端会话技术
+从Android绘制View小例子中深入理解自定义View
+Redis实现分布式锁
+我对TCP CDG拥塞控制算法的改进和优化
+实现一个简单的android开关
+Android性能优化之内存泄漏
+架构设计：系统存储（15）——Redis基本概念和安装使用
+Java 集合深入理解（16）：HashMap 为什么这么快
+字符串匹配算法KMP详细解释——深入理解
+数据库原理相关知识
+Android 换肤原理分析和总结
+java数据结构与算法之（Queue）队列设计与实现
+Ubuntu 16.04下的美化配置过程
+卷积神经网络(CNN)代码实现(MNIST)解析
+Android网络编程（十一）源码解析Retrofit
+深入探讨Android异步精髓Handler
+Android -- Vold机制简要分析
+Android实现多点触控，自由缩放图片
+白鹭引擎开发H5游戏（项目结构）
+Android碎片Fragment总结
+性能优化之电量优化2-使用Battery Historian生成电量消耗报告
+机器学习（十三）——机器学习中的矩阵方法（3）病态矩阵、协同过滤的ALS算法（1）
+Servlet类详解
+深入理解OkHttp源码（三）——网络操作
+Android 反编译初探 应用是如何被注入广告的
+验证码 kaptcha之springboot用法
+Android 事件分发机制
+Android中使用多线程的各种姿势
+Android中Xposed框架篇---基于Xposed的一款脱壳神器ZjDroid工具原理解析
+迷茫！工作之余要学点什么呢？
+BottomNavigationView
+Android WebView启动Chromium渲染引擎的过程分析
+Volley超时重试机制详解
+代理模式
+(译)快速指南：用UIViewPropertyAnimator做动画
+ReactNative 4Android源码分析二: 《JNI智能指针之实现篇》
+程序员都讨厌开会？
+微信小程序之仿微信漂流瓶
+iOS 开发 Quartz 2D+ UIBezierPath绘图大全详解
+缓存在高并发场景下的常见问题
+android 搭建https Server
+在Linux中如何利用backtrace信息解决问题
+es6 javascript的Iterator 和 for...of 循环
+Android逆向工程
+Android适配难题全面总结
+数据挖掘十大算法之CART详解
+安卓中解析json数据
+OpenCV中图像算术操作与逻辑操作
+Centos下关于ssh、scp与rsync设置与应用
+Java集合系列之总体框架
+死磕 Fragment 的生命周期
+以太坊开发--geth的使用入门
+2016年11月前端面试题整理汇总
+区块链的跨链技术介绍完整版
+Android 7.0 ActivityManagerService(2) 启动Activity的过程：一
+Android图片加载库的封装实战之路
+Android插件化开发之DexClassLoader动态加载dex、jar小Demo
+Dockerfile 最佳实践
+Android逆向之旅---解析编译之后的AndroidManifest文件格式
+Android逆向之旅---解析编译之后的Dex文件格式
+回溯法与分支限界
+《自己动手写Docker》书摘之一： Linux Namespace
+贪心法
+MyBatis Generator 详细讲解
+Android WebView加载Chromium动态库的过程分析
+一小时搞明白自定义注解（Annotation）
+Android开发---MediaPlayer简单音乐播放器
+Android通知Notification全面剖析
+剑指Offer——当当+搜狐+好未来笔试题+知识点总结
+K-Means 算法的 Hadoop 实现
+Hession反序列化导致CPU占用飙高
+两大数据库缓存系统实现对比
+粒子群群算法详解
+SQL Server AlwaysON从入门到进阶（1）——何为AlwaysON？
+使用Akka的远程调用
+深入学习RabbitMQ(一)：mandatory标志的作用
+Spark On YARN内存和CPU分配
+和我一起学Hadoop（五）：MapReduce的单词统计，wordcount
+怎么发现愿景和目标 | 进击
+千丝万缕的FGC与Buffer Pool
+ grafana elasticsearch date类型问题
+有思想的大脑，没灵性的AI
+五种加载JavaScript脚本的方式
+漫谈程序员(十七)如今雾霾要比当年非典严重上百倍，只是用了温水煮青蛙
+移动端海洋实时仿真技术研究与实现
+JavaScript面向对象精要（一）
+elm FatFs文件系统移植总结
+Java学习笔记--线程
+深入理解Spark 2.1 Core （六）：资源调度与任务执行的实现与源码分析
+java的引用传递
+用产品思维设计API（二）——数据解耦，才是前后分离的本质
+Android应用优化方案四
+OpenCV — 人脸识别
+贝塞尔曲线的使用
+将MySQL去重操作优化到极致之三弹连发（一）：巧用索引与变量
+热修复框架Tinker的从0到集成之路
+Android性能优化系列之内存优化
+Android仿京东、天猫商品详情页
+微信小程序开发教程-手势解锁
+IPC(中)
+CMake使用教程
+蓝牙之数据传输问题
+SCNView切换相机视角
+将MySQL去重操作优化到极致之三弹连发（二）：多线程并行执行
+Android自定义View（CustomCalendar－定制日历控件）
+GreenDao3.0使用详解
+linux使用screen恢复终端连接
+Hybrid App性能优化之路
+Volley源码探究
+时间都去哪了-移动Web首屏优化实践
+在Spring Boot中输出REST资源
+【注释张豪华版 Path酷炫动画】极速get花式Path （支付宝支付成功动画）
+区块链开发（八）从歪曲的比特币谈区块链应用及误区
+ Java利用 DES / 3DES / AES 这三种算法分别实现 对称加密
+Caffe︱构建lmdb数据集与各类文件路径名设置细解
+框架 day82 涛涛商城项目-分布式环境下-单点登录SSO的构建(校验/注册/登录)
+图像处理之积分图应用四（基于局部均值的图像二值化算法）
+骰子点数识别-图像分割
+2016，Java成神初年
+记一次企业级爬虫系统升级改造（五）：基于JieBaNet+Lucene.Net实现全文搜索
+JobService和JobScheduler机制在Android5.0以上保活
+为苹果ATS和微信小程序搭建 Nginx + HTTPS 服务
+React Native iOS原生模块开发实战|教程|心得|如何创建React Native iOS原生模块
+DIY 空气质量检测表
+Android BadgeView红点更新信息提示
+【SpringBoot】SpringBoot基础-HelloWord实例
+2016——再见，再也不见
+50、自定义View练习（四）高仿小米时钟-使用Camera和Matrix实现3D效果
+Ubunton下搭建ftp服务器 实现虚拟用户、本地用户、匿名用户的登陆及权限
+Python爬虫包 BeautifulSoup 学习（八） parent等应用
+React Native Android原生模块开发实战|教程|心得|如何创建React Native Android原生模块
+Android Binder 框架层详解
+AVFoundation Programming Guide - Playback
+_dl_runtime_resolve源码分析
+加载一个react native 页面
+这本算法书写了七年
+ROS 新手测试简单的Service和Client
+【iOS沉思录】iOS添加自定义字体详解
+Node.js+express+MySQL仿美团注册登录绑定第三方登录
+Dubbo中Bean的加载-1-ServiceBean
+运维那些事
+利用算法识别车厘子与樱桃
+分布式管理控制系统Git与项目托管平台Github相关概念、操作方法与常用命令
+流处理基本介绍
+C++ 解析Json——jsoncpp
+搭建IntelliJ IDEA+maven+jetty+SpringMVC 开发环境（二）
+CMS发哥谈小程序：没那么强大神秘与颠覆能力却是值得反思注意
+ Java SE学习笔记-IO
+.net Core 自我学习随笔（三）——我们整个数据库如何？
+如何为你的CSDN博客加入百度统计
+kafka多线程消费及处理和手动提交处理方案设计
+给初学者的RxJava2.0教程(一)
+Android RecycleView使用详解
+Android开发之反编译、apk重新打包、apk混淆、apk对齐与不对齐、jar混淆、proguard
+java并发编程之CountDownLatch与CyclicBarrier
+如何做电视直播-个人经验分享
+为 iOS 建立 Travis CI
+巧用第三方快速开发Android App 热门第三方SDK及框架
+我的2016
+AudioRecord判断是否有音频输入
+人工智能的冷思考
+将MySQL去重操作优化到极致之三弹连发（三）：用rocksdb替代innodb
+Lucene 6.0 提取新闻热词Top-N
+Java集合框架中隐藏的设计套路
+ListView嵌套ViewPager+Fragment引起的Bug
+Android程序员学PHP开发(9)-赋值比较逻辑运算-PhpStorm
+Android 性能优化之String篇
+创业公司做数据分析（五）微信分享追踪系统
+Cocos2d-x 3.x 图形学渲染系列十六
+Opencv2.4.9源码分析——Cascade Classification（三）
+Android中所涉及的常用设计模式
+创业公司做数据分析（四）ELK日志系统
+彻底实现Linux TCP的Pacing发送逻辑-高精度hrtimer版
+艺术控件RecyclerView的分隔线&bug解决
+JVM初探- 使用堆外内存减少Full GC
+3D射线拾取算法揭秘
+调用 android 系统拍照结合 android-crop 裁剪图片
+翻翻git之---丰富多样的路由跳转开源库 ARouter
+shiro与SSM项目整合
+看AspectJ在Android中的强势插入
+使用Akka构建集群（二）
+slab源码分析--销毁函数
+Android Studio精彩案例(七)《ToolBar使用详解<一>》
+一种视频预加载的方案
+Android开发艺术探索第五章——理解RemotrViews
+iOS开发_初识视频直播
+App 后台架构设计方案 设计思想与最佳实践
+作为前端你不得不知-浏览器的工作原理：网络浏览器幕后揭秘
+让自己更值钱的要诀
+学习游戏服务器编程提高篇
+React Native组件生命周期
+Linux必知必会——xargs命令
+用微信 远程遥控 服务器
+使用Akka构建集群（一）
+JavaScript面向对象精要（二）
+算法与游戏之AABB碰撞盒算法
+网络游戏开发之安全对抗
+机器学习：利用卷积神经网络实现图像风格迁移 (一)
+Picasso封装优化
+仿饿了么加入购物车旋转控件 - 自带闪转腾挪动画 的按钮
+【Java 语言】Java 多线程 一 ( 线程启动 | 线程中断 )
+Android L限制Ripple水波纹范围大小
+微信小程序全套使用指南
+Android TableLayout的优雅姿势《一》
+【寒江雪】开启深度缓存
+Lucene底层原理和优化经验分享(2)-Lucene优化经验总结
+Apache Kylin高级部分之使用Hive视图
+微信公众号基础02_获取accessToken和用户信息
+OpenCV入门教程（2）-Mat类之像素的读写
+逗比青年的2016
+蚁群算法解决TSP问题
+年轻人谈独处和自律
+【JDBC连接池】Tomcat连接池官方文档翻译v8.5.9
+两行代码搞定Android视图扩散切换效果
+Android6.0 亮屏灭屏流程（DisplayPowerControler、WMS）（二）亮度设置
+微信小程序入门五: wxml文件引用、模版、生命周期
+Java小程序之山寨版超级玛丽
+2016这一年，回顾我们一起走过的"编码美丽"之路！
+Deeplearning4j 实战（2）：Deeplearning4j 手写体数字识别Spark实现
+Hadoop那些事儿（二）---MapReduce开发环境搭建
+从 0 开始学习 GitHub 电子书免费送
+【腾讯Bugly干货分享】你为什么需要 Kotlin
+C#中基于GDI+(Graphics)图像处理系列之前言
+使用MVP+RxAndroid+DroiBaaS打造云后台App—校园日记
+我的2016——程序员年到三十，工作第四年
+对象模型   -------  Constructor 构造函数
+Android开发学习之路--性能优化之常用工具
+Spring Data REST（一）：两行代码搞定RESTFul
+Android 仿音悦台页面交互效果
+【React Native】源码分析之Native UI的封装和管理
+hexo之踩坑填坑
+对象池——Smiple Pool For Unity
+React-Native实战二（清理app缓存＋Redux ）
+学习笔记 07 --- JUC集合
+python之pandas模块的基本使用（1）
+图像算法之十二：非局部均值滤波及其Matlab实现
+从ViewPager嵌套RecyclerView再嵌套RecyclerView看安卓事件分发机制
+Angualr 组件间通信
+聊聊对Android视图滚动状态的监听
+地图中的鼠标移动响应
+Spring之AOP基本概念及通过注解方式配置AOP
+人工智能时代的降临
+[Unity XLua]热更新XLua入门(二)-俄罗斯方块实例篇
+Command and Query Responsibility分离模式
+跟着小程来学微服务--微服务思想
+实战caffe多标签分类——汽车品牌与车辆外观（C++接口）[详细实现+数据集]
+AsyncDisplayKit2.0教程(上)
+深刻理解HDFS工作机制
+Memcached全攻略
+插件化开发---静态、动态代理
+如何动态调试Python的第三方库
+理解java web项目中的路径问题
+Android使用KeyStore对数据进行加密
+如何在NodeJS项目中优雅的使用ES6
+初识MyBatis(如何写配置文件和简单使用)
+【Android】透明状态栏在App中的实现与接口设计
+spring mvc-@SessionAttributes 忘记清除 导致无法退出登录问题
+移动手机APP开发、一个完整的APP是如何从零开始做出来的？
+Android uid和pid安全机制
+（四十七）socket编程——socket引入、网络字节序、IP地址转换函数、sockaddr数据结构介绍
+解决 Cinder 僵尸卷问题
+谷哥的小弟学前端(07)——CSS基础知识（5）
+一个完整的壁纸应用——[仿爱壁纸]，从设计到实现的过程
+如何保证android程序进程不到万不得已的情况下，不会被结束
+Java由一个私有静态变量的处理问题谈java内存模型
+Kafka下的生产消费者模式与订阅发布模式
+重新认识java（四） — 组合、聚合与继承的爱恨情仇
+重温Spring之旅5——AOP代理对象、JDK动态代理、使用cglib生产代理
+前端自动化构建工具Webpack开发模式入门指南
+Spring之注解 @Autowired 注释与@Resource注释的区别
+react-native源码中给android程序员福利！！
+如何让孩子爱上设计模式 —— 7.适配器模式(Adapter Pattern)
+iOS 开发问与答(28-38)
+标题栏的滑动隐藏和显示是怎么实现的？
+React Native 之布局总结
+CDN引起的 字体跨域问题，解决方案和问题
+使用Akka持久化——持久化与快照
+2016年总结：教师路的开启，爱情味的初尝 (上)
+win10 uwp 读取保存WriteableBitmap 、BitmapImage
+如何让孩子爱上设计模式 ——8.装饰者模式(Decorator Pattern)
+万分之一错误率问题的分析及定位
+[人工智能]基于Spark机器学习之决策树实现
+正则引擎在数据包匹配中的工程分析
+如何使用 JMeter 调用你的 Restful Web Service？进行简单的压力测试和自动化测试
+android基础--canvas绘图
+关于Spring IOC (依赖注入)你需要知道的一切
+platform总线按键驱动分析（精华版）
+图解VIM常用操作
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+iOS自动布局框架之Masonry
+深入解析Ajax
+SVM为什么走下“神坛”？
+4个方法快速打造你的阅读清单
+Java垃圾回收器与内存分配策略
+iptables高性能前端优化-无压力配置1w+条规则
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+读Zepto源码之Ajax模块
+安卓屏幕完美适配方案——独家秘笈
+使用spring事件驱动机制，实现权限信息的自动收集存库
+再谈java乱码：GBK和UTF-8互转尾部乱码问题分析
+用Python实现简单的服务器
+使用Node.js解析PNG文件
+Android自定义ViewGroup（二）——带悬停标题的ExpandableListView
+二十种特征变换方法及Spark MLlib调用实例（Scala/Java/python）（二）
+回溯法与分支限界
+Android开发---MediaPlayer简单音乐播放器
+程序员都讨厌开会？
+迷茫！工作之余要学点什么呢？
+js 设计模式 oop 面向对象编程
+jsp初识、servlet转发、转发与重定向的比较
+web前端之JavaScript正则表达式
+架构设计：系统存储（15）——Redis基本概念和安装使用
+SQL Server 扩展事件（Extented Events）从入门到进阶（2）——在GUI中创建基础扩展事件
+简要分析ZooKeeper基本原理及安装部署
+Oracle 锁
+AudioKit 教程：入门
+Service知识点整理
+Mysql-聚簇索排序慢案例分析
+shell脚本编程
+全面解析Notification
+利用开源软件 Hugin 实现照片的景深合成
+React Native 与iOS的通信
+Android 秒级编译 Freeline
+这交互炸了(二)：爱范儿是如何让详情页缩小为横向列表的
+Android 源码系列之<十四>从源码的角度深入理解LeakCanary的内存泄露检测机制(下)
+java数据结构与算法之递归思维(让我们更通俗地理解递归)
+性能优化九之UI卡顿分析
+Android中利用icodetools工具快速定位App破解中关键点方法
+全栈必备 面向数据的架构
+Android WebView执行GPU命令的过程分析
+Android自定义一个属于自己的时间钟表
+SpringMVC常用配置(二),最简洁的配置实现文件上传
+16年，悲痛又收获的一年
+Linux 0.11 中字符设备的使用
+802.11协议精读12：初探协议性能
+Windows下libevent C++封装类实现
+Android之Service的细枝末节
+AsyncTask机制详解
+Freeline 让AndroidStudio快的飞起来
+我的15年程序路
+使用文本挖掘实现站点个性化推荐
+网络框架分析-全是套路
+RunLoop总结：RunLoop的应用场景（五）
+图像的点运算
+为信仰充值——GoogleDeveloperDay
+大龄程序员的前途令人担忧
+图像处理之角点检测与亚像素角点定位
+每天工作3小时就够了
+扫码登陆 之我见
+线程池原理及创建并C++实现
+这交互炸了(三):闪屏页是像云一样消失的
+Android  自定义View——动态进度条
+RunLoop总结：RunLoop基础知识
+你在职场可能犯下的最大错误
+写在GitHub 的第 19999 个 star 时——开源的路还很长
+Hbase葱岭探秘--过滤器Api
+累并快乐着---我的2016年总结
+别了青春与流年，遇见下一个自己
+架构设计：系统存储（17）——Redis集群方案：高可用
+nginx那些事儿
+Material-ish Progress 源码阅读
+Java泛型总结
+如何提升你的面试机会？
+Day14、随处可见的对话框
+“我的2016”主题征文活动
+基于Spark的大数据精准营销中搜狗用户画像挖掘
+Hive 教程（官方Tutorial）
+AccessibilityService讲解
+C++ 多线程编程总结
+jq框架封装学习笔记1-框架介绍与选择器框架
+五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面  简单&优雅：LayoutManager+ItemTouchHelper
+一篇文章让你彻底搞懂Material Design
+剖析Grunt任务配置
+深入剖析神经网络的运行机理及实现
+用ItemDecoration实现按字母排序列表
+基于随机变量的熵来进行数据建模和分析
+802.11协议精读17：无线传输范围（理论计算）
+暮拾晨花，回望流年——我的2016
+Android开机速度优化简单回顾
+ThreadPoolExecutor源码分析
+C++从零实现深度神经网络之五——模型的保存和加载以及画出实时输出曲线
+SparkSQL的3种Join实现
+再谈<全栈必备的技术栈设想>一文
+AsyncTask实现机制
+TQ2440开发板学习纪实（3）--- 设置时钟频率，让CPU运行的更快
+小程眼里的微服务
+使用HTML5 Canvas创建动态粒子网格动画
+Android中LaunchMode详解
+Android内存泄漏检测与MAT使用
+Python爬虫爬取动态页面思路+实例（一）
+关于iOS内存管理的规则思考
+GNU Freestanding（Naked）C ARM交叉开发环境创建与测试
+RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系
+区块链开发（七）从某保险积分案例谈区块链应用的风险与挑战
+用 Flask 来写个轻博客 (27) — 使用 Flask-Cache 实现网页缓存加速
+java 线程 --- Thread,Runnable,Callable 基础学习
+AngularJS指令中的compile与link函数解析
+Android倒计时效果
+Android开发——断点续传原理以及实现
+Maven私服搭建
+【腾讯Bugly干货分享】彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法
+Android中热修复框架Robust原理解析+并将框架代码从"闭源"变成"开源"(上篇)
+Canvas制作动态进度加载水球
+Redis源码解析——双向链表
+Android工厂模式+View pager+MPAndroidChart实现的会旋转的饼状统计图
+Android开发-基本概念小整理(四)为了面试的小伙伴们所准备~~
+Docker学习教程笔记整合（完整）
+Java 8 新特性概述
+[机器学习] Coursera笔记 - Support Vector Machines
+深入分析ClassLoader工作机制
+angularJS搭建简单应用程序的基本架构分析
+谈一谈CloudBlog的系统架构
+什么是算法
+Nginx + Tomcat 反向代理 负载均衡 集群 部署指南
+Android 7.0 ActivityManagerService(5) 广播(Broadcast)相关流程分析
+如何修改TextView链接点击实现(包含链接生成与点击原理分析)
+你需要知道关于C语言指针的一切
+spring中自定义Event事件的使用和浅析
+过滤器、监听器、上下文、servlet线程安全问题
+使用zxing批量生成二维码立牌
+AFNetworking到底做了什么？
+程序员的口头禅：技术上无法实现
+RabbitMQ下的生产消费者模式与订阅发布模式
+【Android】快速开发偷懒必备，一句话搞定所有ViewGroup的Adapter . 支持自定义ViewGroup
+FMDB與SQLite 數據庫應用示範：打做一隻簡單的電影資料庫 App
+java代码中init method和destroy method的三种使用方式
+一小时搞明白注解处理器（Annotation Processor Tool）
+2016大学里的流年回忆
+依赖注入利器 - Dagger ‡
+令人躁动一时且令人不安的TCP BBR算法
+Android Multimedia框架总结（二十三）MediaCodec补充及MediaMuxer引入（附案例）
+Android通用脱壳工具DexHunter的原理分析和使用说明（二）
+再聊线程池
+几种典型的服务器网络编程模型归纳(select poll epoll)
+一个绚丽的Downloading动效分析与实现
+自定义View系列--Path绘制仿支付宝支付成功动画
+《图说VR入门》——360全景视频
+关于Java并发编程的总结和思考
+React Native Android 应用层实战沦陷记
+Android图表库MPAndroidChart(十四)——在ListView种使用相同的图表
+阿里百川HotFix1.3.3初体验
+Azure 部署 Asp.NET Core Web App
+FIB系统分析二(linux网络协议栈笔记)
+打造炫酷通用的ViewPager指示器 - Adapter模式适配所有
+Service服务AIDL进程通信详细总结
+AOP面向切面编程简介
+Android评论图片可移动顺序选择器
+动态规划总结
+一个执行计划异常变更的案例 - 前传
+谈一谈今年的移动互联网寒冬
+SQL Server 扩展事件（Extented Events）从入门到进阶（4）——扩展事件引擎——基本概念
+iOS编译过程的原理和应用
+【Machine learning（python篇)】-几种常用的数据结构
+真的炸了：让人头痛的小程序之『图片懒加载』终极解决方案
+从Android绘制View小例子中深入理解自定义View
+Sphinx + Coreseek 实现中文分词搜索
+【Learning Notes】变分自编码（Variational Auto-Encoder，VAE）
+Python爬虫初识
+ROS:语音识别与合成，让机器人会说话
+深入理解JS继承和原型链
+ Tomcat如何实现Comet
+ROS：kcf算法+行人检测 = 让机器人自动识别并追踪行人
+AngularJS开发环境搭建，出hello word
+【Android】快速开发偷懒必备(二) 支持DataBinding啦~爽炸，一行实现花式列表
+Android图表 MPAndroidChart折线图
+Android测试的坑——屏幕翻转
+Android 渗透测试学习手册 第八章 ARM 利用
+HttpSession服务器端会话技术
+强大的Spring缓存技术（上）
+感谢所有的幸运与不幸 --- 致我的2016
+Android个人中心的头像上传，图片编码及截取
+Spark 开发调优（一）
+Circuit Breaker模式
+Python Flask 天气查询
+机器学习系列-K-NearestNeighbo
+Head First 设计模式之命令模式（CommandPattern）
+Android 开发:由模块化到组件化
+Android 渗透测试学习手册 第三章 Android 应用的逆向和审计
+DragVideo，一种在播放视频时，可以任意拖拽的方案
+android不知不觉偷拍他人功能实现（手机关闭依然拍照）
+RunLoop总结：RunLoop的应用场景（四）
+<ROS> Gazebo Ros Control 及 Controller运用
+自定义控件三部曲之动画篇(九)——联合动画的代码实现
+Redis源码剖析--对象object
+Ionic开发实战
+mongodb副本集搭建过程中的问题和解决技巧
+Android Fragment 的使用，一些你不可不知的注意事项
+Android消息推送：手把手教你集成小米推送
+30分钟掌握ES6核心内容
+通过Github与PM2部署Node应用
+大话Hadoop1.0、Hadoop2.0与Yarn平台
+我为什么坚持这么多年写博客
+Raft算法国际论文全翻译
+开发微信公众号后台，原来这么简单？[微信公众号开发]
+spring的Profile使用对比和应用场景分析
+【Android】史上最简单，一步集成侧滑(删除)菜单，高仿QQ、IOS
+Python 浅拷贝 深拷贝 及引用机制
+Instruments性能优化-Core Animation
+HDFS内副本和块的状态分析
+Robolectric使用教程
+AccessibilityService从入门到出轨
+Android stuido 中的keystore
+使用异步servlet提升性能
+ffmpeg学习五：avformat_open_input函数源码分析（以mp4文件为例）
+微信小程序开发之五星评分
+【Redis缓存机制】13.Java连接Redis_Jedis_事务
+PPTP配置VPN服务器
+我对TCP CDG拥塞控制算法的改进和优化
+实现一个简单的android开关
+Redis实现分布式锁
+Android NFC标签 开发深度解析 触碰的艺术
+SQL Server 扩展事件（Extented Events）从入门到进阶（3）——通过界面操作Extented Event
+在线看Android系统源码，那些相见恨晚的几种方案
+微信小程序开发之大转盘 仿天猫超市抽奖
+Android学习之如何集成极光短信验证
+java ThreadLocal
+线程池浅谈
+Xcode 调试技巧 --常用命令和断点
+创业公司做数据分析（二）运营数据系统
+Redis源码解析——字符串map
+ java中的mvc和三层结构究竟是什么关系
+【android开发】实现语音数据实时采集/播放
+C++从零实现深度神经网络之二——前向传播和反向传播
+iOS10 适配 ATS（app支持https通过App Store审核） 韩俊强的博客
+Android中微信支付的流程(从请求统一支付接口到真正调起微信支付)
+带你开发一款给Apk中自动注入代码工具icodetools(完善篇)
+关于创建Android Library所需要知道的一切
+802.11协议精读13：协议理论性能（Bianchi模型）
+Android性能优化之内存泄漏
+Android碎片Fragment总结
+High-speed Charting Control--MFC绘制图表（折线图、饼图、柱形图）控件
+LTE-TDD HARQ（4）-上下行HARQ的特点
+Android开发-基本概念小整理(二)为了面试的小伙伴们所准备~~
+java数据结构与算法之栈（Stack）设计与实现
+MapReduce: 一种简化的大规模集群数据处理法
+Java 集合深入理解（16）：HashMap 为什么这么快
+详解prototype与__proto__区别
+白鹭引擎开发H5游戏（项目结构）
+安卓TextView完美展示html格式代码
+深层神经网络结构及可能存在的致命问题详解
+Android 多线程-----AsyncTask详解
+理解使用Gradle编译打包Android apk
+RACSignal 冷信号和热信号底层实现分析
+深入理解epoll
+android 自定义view+属性动画实现充电进度条
+web前端之锋利的jQuery四：jQuery中的事件
+机器学习（十三）——机器学习中的矩阵方法（3）病态矩阵、协同过滤的ALS算法（1）
+Oracle Coherence 3.5 读书笔记之3 - 满足性能，可扩展和可用性目标
+Hibernate（开放源代码的对象关系映射框架）
+linux读书摘要--linux磁盘与文件系统管理
+关于中值滤波算法，以及C语言实现
+安卓onTextChanged参数解释及实现EditText字数监听 Editable使用
+安卓微信自动抢红包插件优化和实现
+架构设计：系统存储（16）——Redis事件订阅和持久化存储
+maven---10使用Jenkins进行持续集成
+Android网络编程（十一）源码解析Retrofit
+Butterknife源码
+创业街分店开张啦---原型模式
+Android动画之萌萌哒蜡烛吹蜡烛动画
+[算法]面试时的Java数据结构与算法
+【Android自定义View实战】之仿百度加载动画，一种优雅的Loading方式
+openGL三维网格坐标，旋转，缩放，灯光设置，纹理读取，模型读取（MFC单文档）
+数据挖掘十大算法之Apriori详解
+【腾讯Bugly干货分享】美团大众点评 Hybrid 化建设
+Linux通过 Docker 可以托管 .NET Core啦！
+JSP的标签技术
+数据库原理相关知识
+在android系统上写C语言程序--开机启动该程序不进入安卓系统
+Ubuntu 16.04下的美化配置过程
+滤镜艺术---新海诚滤镜特效的实现解密
+Java利器之UML类图详解
+深入探讨Android异步精髓Handler
+Android -- Vold机制简要分析
+Android 换肤原理分析和总结
+java数据结构与算法之（Queue）队列设计与实现
+Android实现多点触控，自由缩放图片
+深入理解OkHttp源码（三）——网络操作
+卷积神经网络(CNN)代码实现(MNIST)解析
+代理模式
+Ultra-Pull-To-Refresh 自定义下拉刷新视差动画
+使用Android SwipeRefreshLayout了解Android的嵌套滑动机制
+统计字数oninput？keyup？onchange？
+基于Opencv的几种立体匹配算法+ELAS
+ROS(indigo) turtlebot2 + android一些有趣应用
+Spark系列修炼---入门笔记19
+(译)快速指南：用UIViewPropertyAnimator做动画
+我的MongoDB坎坷之路
+这交互炸了：饿了么是怎么让Image变成详情页的
+SQL Server 扩展事件（Extented Events）从入门到进阶（1）——从SQL Trace到Extented Events
+凭兴趣求职80%会失败，为什么
+Servlet类详解
+Android中使用多线程的各种姿势
+基于matlab的心电信号预处理
+生产者消费者的实现与思考
+字符串匹配算法KMP详细解释——深入理解
+Android WebView启动Chromium渲染引擎的过程分析
+在Linux中如何利用backtrace信息解决问题
+性能优化之电量优化2-使用Battery Historian生成电量消耗报告
+Android 反编译初探 应用是如何被注入广告的
+BottomNavigationView
+高性能MySQL（四）—Schema与数据类型优化（1）
+Android图片加载库的封装实战之路
+Android中Xposed框架篇---基于Xposed的一款脱壳神器ZjDroid工具原理解析
+ReactNative 4Android源码分析二: 《JNI智能指针之实现篇》
+OpenCV中图像算术操作与逻辑操作
+微信小程序之仿微信漂流瓶
+Volley超时重试机制详解
+剑指Offer——当当+搜狐+好未来笔试题+知识点总结
+android 搭建https Server
+iOS 开发 Quartz 2D+ UIBezierPath绘图大全详解
+es6 javascript的Iterator 和 for...of 循环
+Android逆向工程
+缓存在高并发场景下的常见问题
+Android适配难题全面总结
+Centos下关于ssh、scp与rsync设置与应用
+Java集合系列之总体框架
+2016年11月前端面试题整理汇总
+以太坊开发--geth的使用入门
+验证码 kaptcha之springboot用法
+死磕 Fragment 的生命周期
+Android 7.0 ActivityManagerService(2) 启动Activity的过程：一
+区块链的跨链技术介绍完整版
+MyBatis Generator 详细讲解
+安卓中解析json数据
+一小时搞明白自定义注解（Annotation）
+《自己动手写Docker》书摘之一： Linux Namespace
+Android逆向之旅---解析编译之后的Dex文件格式
+贪心法
+Android通知Notification全面剖析
+粒子群群算法详解
+K-Means 算法的 Hadoop 实现
+Hession反序列化导致CPU占用飙高
+Android逆向之旅---解析编译之后的AndroidManifest文件格式
+两大数据库缓存系统实现对比
+数据挖掘十大算法之CART详解
+Android插件化开发之DexClassLoader动态加载dex、jar小Demo
+Android WebView加载Chromium动态库的过程分析
+Android 事件分发机制
+Dockerfile 最佳实践
+Android自定义View--自己撸一个柱状图也没那么难
+Kafka——性能逆天的存在
+在线 Python运行工具
+百度echarts后台交互实例
+Freemark与Spring MVC的整合
+GreenDao3.0使用详解
+区块链开发（八）从歪曲的比特币谈区块链应用及误区
+《图说VR》——HTC Vive控制器按键事件解耦使用
+架构设计：系统存储（18）——Redis集群方案：高性能
+漫谈程序员(十七)如今雾霾要比当年非典严重上百倍，只是用了温水煮青蛙
+微信公众号基础02_获取accessToken和用户信息
+CMake使用教程
+【寒江雪】开启深度缓存
+Lucene底层原理和优化经验分享(2)-Lucene优化经验总结
+Java小程序之山寨版超级玛丽
+逗比青年的2016
+【一步一个脚印】Tomcat+MySQL为自己的APP打造服务器（3-1）Android 和 Service 的交互之GET方式
+Apache Kylin高级部分之使用Hive视图
+2016秋招笔试面试题二：Android及网络协议部分
+Android进程通信之Messenger&AIDL使用详解
+网站访客 简易日志记录
+我的2016--远方不一定有诗，但有更好的自己
+一个执行计划异常变更的案例 - 外传之聚簇因子(Clustering Factor)
+ 修改360抢票的刷新频率+突破8车次限制，太简单了
+Android-->RecyclerView模仿探探左右滑动布局
+Android 性能优化：使用 Lint 优化代码、去除多余资源
+RX系列一 | ReactiveX根源 | 观察者模式分析
+Highcharts＋NodeJS搭建数据可视化平台
+为猿七年有余，痒否？痛否？
+游戏与常用的五大算法---下篇
+微信小程序，学习笔记（一）框架，视图层
+使用Akka的远程调用
+Android实现录屏直播（一）ScreenRecorder的简单分析
+Android开发软件架构思考以及经验总结
+Hadoop开发过程中所遇到的那些坑
+<Android开源库>PagerSlidingTabStrip从头到脚
+SQL Server 虚拟化（2）——理想的SQL Server虚拟机架构
+[Hadoop]大量小文件问题及解决方案
+Oozie Spark on YARN requirement failed
+是时候来了解android7了：通知直接回复
+为什么我们迫切需要持续集成（Continuous Integration）
+夕拾朝花——我的2016
+《learning laravel》翻译第三章-----搭建我们第一个网站
+SQL Server 虚拟化（1）——虚拟化简介
+Android截屏事件监听
+面朝大海——我的2016
+纯干货：微软漏洞中国第一人黄正——如何用正确姿势挖掘浏览器漏洞（附完整 PPT）
+SSM框架+Javamail发送邮件
+Android中的Apk的加固(加壳)原理解析和实现
+酸甜苦辣，2016
+Android 桌面小部件(AppWidgetProvider)的应用
+SQL Server AlwaysON从入门到进阶（1）——何为AlwaysON？
+Android DrawerLayout实现抽屉效果
+iOS 上的 WebSocket 框架 Starscream
+【XML】使用dom4j来解析XML文件数据
+关于hashcash
+leetcode之Find All Numbers Disappeared in an Array
+Android仿小米商城底部导航栏之二（BottomNavigationBar、ViewPager和Fragment的联动使用）
+android属性动画
+Apache Shiro入门
+Android简易实战教程--第五十话《动画扫描》
+如何解决linux SSH log 中不带年份的问题
+从0开始搭建SVN服务器
+深度卷积对抗生成网络(DCGAN)
+Caffe-python interface 学习|网络训练、部署、测试
+【2016 Summary】十二个月里各不同，有遗憾、有收获，在艰难中成长，在安逸中改变
+Android 7.0 ActivityManagerService(8) 进程管理相关流程分析(2)
+2016年总结-JAVA程序员
+Flink运行时之基于Netty的网络通信上
+下载、编译、运行android 7.1系统（ubuntu 16.0.4）
+Android逆向之旅---破解"穿靴子的猫"游戏的收费功能
+构建知识图谱，让自己更值钱
+我的 2016 总结：认识自己
+iOS-Swift 面向协议编程/组件化(模块化)编程思想
+来自Facebook的KTLS(Kernel SSL/TLS)原理和实例
+Lucene底层原理和优化经验分享(1)-Lucene简介和索引原理
+jQuery插件开发二
+Android系统服务之WindowManager整理
+如何使用CubeMx制作一个基于SD卡的文件系统工程(2)
+一路16有你，一起17前行。Keep不止，Android不息。
+React-Native工程项目打包编译发布过程详解
+创业公司做数据分析（三）用户行为数据采集系统
+2016年，失望，开心，耐心，学习，梦想，领悟，惋惜，展望
+开发眼中的一些前端交互优化
+75篇关于Tomcat源码和机制的文章
+JVM初探- 内存分配、GC原理与垃圾收集器
+ 一元夺宝
+CSS3 实现3D特效
+Spring与Akka的集成
+游戏与算法的必经之路! 
+2016，感恩，感谢，顿悟
+ 编写一个简易的Java NIO Reactor库
+冲刺BAT感悟--技术为本，行业为先
+设计模式——享元模式详解
+2016总结,真正新的里程碑和新起点
+RX系列四 | RxAndroid | 加载图片 | 提交表单
+Storm消息可靠性的保障机制
+Nginx源码分析 - Nginx启动以及IOCP模型
+Elasticsearch 5 Ik+pinyin分词配置详解
+深入Java基础（一）——基本数据类型及其包装类
+蒙特卡洛马尔科夫链（MCMC）
+web前端之JavaScript高级程序设计六：事件
+聊聊分布式事务&分布式系统事务一致性解决方案
+利用卷积网络识别骰子点数
+17年1月9日，小程序来了。深度解析2017微信公开课
+神奇的Annotation
+Java泛型详解
+Rx系列二 | Observer | Observable
+web前端之MVC的JavaScript Web富应用开发一：MVC和类
+在路上，走更远 ，我的2016
+iOS自学笔记之XIB的使用
+【Android开发VR实战】二.播放360°全景视频
+在Mac上搭建React Native开发环境
+探索setTimeout
+深入理解Spark 2.1 Core （六）：资源调度与任务执行的实现与源码分析
+从曹操杀华陀而联想到的系统性能问题才是真正的致命的问题
+蚁群算法解决TSP问题
+OpenCV入门教程（2）-Mat类之像素的读写
+Android_性能优化之ViewPager加载成百上千高清大图oom解决方案
+移动支付--银联,支付宝,微信(android)
+【JDBC连接池】Tomcat连接池官方文档翻译v8.5.9
+年轻人谈独处和自律
+微信小程序开发教程-手势解锁
+C#中基于GDI+(Graphics)图像处理系列之前言
+有思想的大脑，没灵性的AI
+对象池——Smiple Pool For Unity
+Elasticsearch 5.1.1搜索高亮及Java API实现
+【React Native】源码分析之Native UI的封装和管理
+Android 仿音悦台页面交互效果
+OpenFlowJ-Loxigen简介
+优化iOS程序性能的25个方法
+持续集成+自动化部署[代码流水线管理及Jenkins和gitlab集成]
+Android中活动条ActionBar的详细使用
+Android 的漂浮动画，下雪动画
+PHP 数据库连接池实现
+spring-cloud 构建一个restful的web服务
+MYSQL经常挂，怀疑内存不够，加SWAP优化
+说一说关于破解支付宝AR红包的事
+对Android 软键盘向下的监听
+android写一个图片选择
+在Spring Boot框架下使用WebSocket实现消息推送
+进程间通信之消息队列通信
+DataNode生命线消息
+Hadoop那些事儿（一）–Hadoop初探
+Android Multimedia框架总结（二十四）MediaMuxer实现手机屏幕录制成gif图
+中值滤波与图像锐化
+Android自定义View（CustomCalendar－定制日历控件）
+ Java利用 DES / 3DES / AES 这三种算法分别实现 对称加密
+Spring Data REST（一）：两行代码搞定RESTFul
+异步加载multidex
+Caffe︱构建lmdb数据集与各类文件路径名设置细解
+Hybrid App性能优化之路
+JavaEE 使用 Redis 数据库进行内容缓存和高访问负载
+用Python实现简单的服务器
+图解VIM常用操作
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+深入解析Ajax
+4个方法快速打造你的阅读清单
+SVM为什么走下“神坛”？
+iptables高性能前端优化-无压力配置1w+条规则
+iOS自动布局框架之Masonry
+Java垃圾回收器与内存分配策略
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+读Zepto源码之Ajax模块
+58 同城 iOS 客户端 IM 系统演变历程
+安卓屏幕完美适配方案——独家秘笈
+platform总线按键驱动分析（精华版）
+行为驱动开发（BDD）你准备好了吗？
+代理模式
+卷积神经网络(CNN)代码实现(MNIST)解析
+深入探讨Android异步精髓Handler
+使用异步servlet提升性能
+MapReduce: 一种简化的大规模集群数据处理法
+安卓TextView完美展示html格式代码
+关于Java并发编程的总结和思考
+Android 渗透测试学习手册 第八章 ARM 利用
+Azure 部署 Asp.NET Core Web App
+ffmpeg学习五：avformat_open_input函数源码分析（以mp4文件为例）
+Hbase葱岭探秘--过滤器Api
+累并快乐着---我的2016年总结
+【Learning Notes】变分自编码（Variational Auto-Encoder，VAE）
+图像的点运算
+PHP和MYSQL开发简易交互式站点
+源码分析-LinkedBlockingQueue
+web前端之JavaScript高级程序设计六：事件
+Android自定义View--自己撸一个柱状图也没那么难
+从曹操杀华陀而联想到的系统性能问题才是真正的致命的问题
+在Mac上搭建React Native开发环境
+Java泛型详解
+Elasticsearch 5 Ik+pinyin分词配置详解
+Nginx源码分析 - Nginx启动以及IOCP模型
+深入Java基础（一）——基本数据类型及其包装类
+【iOS沉思录】iOS添加自定义字体详解
+在Spring Boot中输出REST资源
+如何为你的CSDN博客加入百度统计
+Caffe︱构建lmdb数据集与各类文件路径名设置细解
+框架 day82 涛涛商城项目-分布式环境下-单点登录SSO的构建(校验/注册/登录)
+Android自定义View（CustomCalendar－定制日历控件）
+CMake使用教程
+GreenDao3.0使用详解
+ Java利用 DES / 3DES / AES 这三种算法分别实现 对称加密
+SQL Server 虚拟化（2）——理想的SQL Server虚拟机架构
+Android进程通信之Messenger&AIDL使用详解
+我的2016--远方不一定有诗，但有更好的自己
+创业公司做数据分析（三）用户行为数据采集系统
+冲刺BAT感悟--技术为本，行业为先
+2016，Java成神初年
+蒙特卡洛马尔科夫链（MCMC）
+Storm消息可靠性的保障机制
+RX系列一 | ReactiveX根源 | 观察者模式分析
+Elasticsearch 5.1.1搜索高亮及Java API实现
+ Java SE学习笔记-IO
+一个执行计划异常变更的案例 - 外传之聚簇因子(Clustering Factor)
+设计模式——享元模式详解
+聊聊分布式事务&分布式系统事务一致性解决方案
+神奇的Annotation
+探索setTimeout
+【《Effective C#》提炼总结】提高Unity中C#代码质量的22条准则
+【Android开发VR实战】二.播放360°全景视频
+关河无尽处，风雪有行人 - 我的2016年总结
+Android高仿微信表情输入与键盘输入(详细实现分析)
+Spark Streaming应用启动过程分析
+NoSQL数据库浅析(一):Redis和Memcached
+对“粘连”footer布局的思考和总结
+RunLoop总结：RunLoop基础知识
+看了你就会的OkHttp介绍
+关于iOS内存管理的规则思考
+nginx那些事儿
+TQ2440开发板学习纪实（3）--- 设置时钟频率，让CPU运行的更快
+安卓屏幕完美适配方案——独家秘笈
+4个方法快速打造你的阅读清单
+图解VIM常用操作
+再谈java乱码：GBK和UTF-8互转尾部乱码问题分析
+用Python实现简单的服务器
+iptables高性能前端优化-无压力配置1w+条规则
+JavaEE 使用 Redis 数据库进行内容缓存和高访问负载
+platform总线按键驱动分析（精华版）
+SVM为什么走下“神坛”？
+读Zepto源码之Ajax模块
+Android中利用AXMLEditor工具不进行反编译就篡改apk文件
+Android触摸事件传递机制实践——可拖动、大小切换的SizeSwitchView
+iOS自动布局框架之Masonry
+深入解析Ajax
+Java垃圾回收器与内存分配策略
+58 同城 iOS 客户端 IM 系统演变历程
+K-Means 算法的 Hadoop 实现
+迷茫！工作之余要学点什么呢？
+Android逆向之旅---解析编译之后的Dex文件格式
+iOS 开发 Quartz 2D+ UIBezierPath绘图大全详解
+Android -- Vold机制简要分析
+关于中值滤波算法，以及C语言实现
+Android开发---MediaPlayer简单音乐播放器
+MapReduce: 一种简化的大规模集群数据处理法
+深入探讨Android异步精髓Handler
+深入理解OkHttp源码（三）——网络操作
+SQL Server 扩展事件（Extented Events）从入门到进阶（2）——在GUI中创建基础扩展事件
+详解prototype与__proto__区别
+安卓微信自动抢红包插件优化和实现
+Redis源码解析——字符串map
+带你开发一款给Apk中自动注入代码工具icodetools(完善篇)
+openGL三维网格坐标，旋转，缩放，灯光设置，纹理读取，模型读取（MFC单文档）
+谈一谈CloudBlog的系统架构
+强大的Spring缓存技术（上）
+打造炫酷通用的ViewPager指示器 - Adapter模式适配所有
+Android 7.0 ActivityManagerService(5) 广播(Broadcast)相关流程分析
+Android个人中心的头像上传，图片编码及截取
+【Android】快速开发偷懒必备(二) 支持DataBinding啦~爽炸，一行实现花式列表
+Android 多线程-----AsyncTask详解
+图像的点运算
+RunLoop总结：RunLoop基础知识
+这交互炸了(三):闪屏页是像云一样消失的
+你在职场可能犯下的最大错误
+写在GitHub 的第 19999 个 star 时——开源的路还很长
+别了青春与流年，遇见下一个自己
+Freeline 让AndroidStudio快的飞起来
+我的15年程序路
+Android之Service的细枝末节
+大龄程序员的前途令人担忧
+使用文本挖掘实现站点个性化推荐
+网络框架分析-全是套路
+RunLoop总结：RunLoop的应用场景（五）
+Material-ish Progress 源码阅读
+为信仰充值——GoogleDeveloperDay
+Hive 教程（官方Tutorial）
+AccessibilityService讲解
+你需要知道关于C语言指针的一切
+基于Spark的大数据精准营销中搜狗用户画像挖掘
+Java泛型总结
+ThreadPoolExecutor源码分析
+“我的2016”主题征文活动
+16年，悲痛又收获的一年
+AFNetworking到底做了什么？
+SpringMVC常用配置(二),最简洁的配置实现文件上传
+架构设计：系统存储（17）——Redis集群方案：高可用
+Linux 0.11 中字符设备的使用
+图像处理之角点检测与亚像素角点定位
+再谈<全栈必备的技术栈设想>一文
+SparkSQL的3种Join实现
+GNU Freestanding（Naked）C ARM交叉开发环境创建与测试
+扫码登陆 之我见
+每天工作3小时就够了
+使用HTML5 Canvas创建动态粒子网格动画
+Android  自定义View——动态进度条
+暮拾晨花，回望流年——我的2016
+线程池原理及创建并C++实现
+FMDB與SQLite 數據庫應用示範：打做一隻簡單的電影資料庫 App
+C++从零实现深度神经网络之五——模型的保存和加载以及画出实时输出曲线
+802.11协议精读17：无线传输范围（理论计算）
+Android工厂模式+View pager+MPAndroidChart实现的会旋转的饼状统计图
+【腾讯Bugly干货分享】彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法
+Android倒计时效果
+Android中热修复框架Robust原理解析+并将框架代码从"闭源"变成"开源"(上篇)
+Android开发——断点续传原理以及实现
+用 Flask 来写个轻博客 (27) — 使用 Flask-Cache 实现网页缓存加速
+Maven私服搭建
+AngularJS指令中的compile与link函数解析
+AngularJS开发环境搭建，出hello word
+ROS：kcf算法+行人检测 = 让机器人自动识别并追踪行人
+ Tomcat如何实现Comet
+ROS:语音识别与合成，让机器人会说话
+一篇文章让你彻底搞懂Material Design
+Day14、随处可见的对话框
+深入剖析神经网络的运行机理及实现
+基于随机变量的熵来进行数据建模和分析
+用ItemDecoration实现按字母排序列表
+2016大学里的流年回忆
+五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面  简单&优雅：LayoutManager+ItemTouchHelper
+Hbase葱岭探秘--过滤器Api
+Android通用脱壳工具DexHunter的原理分析和使用说明（二）
+一小时搞明白注解处理器（Annotation Processor Tool）
+剖析Grunt任务配置
+累并快乐着---我的2016年总结
+区块链开发（七）从某保险积分案例谈区块链应用的风险与挑战
+nginx那些事儿
+Android内存泄漏检测与MAT使用
+jq框架封装学习笔记1-框架介绍与选择器框架
+RunLoop总结：RunLoop 与GCD 、Autorelease Pool之间的关系
+Python爬虫爬取动态页面思路+实例（一）
+关于iOS内存管理的规则思考
+TQ2440开发板学习纪实（3）--- 设置时钟频率，让CPU运行的更快
+小程眼里的微服务
+阿里百川HotFix1.3.3初体验
+java 线程 --- Thread,Runnable,Callable 基础学习
+自定义View系列--Path绘制仿支付宝支付成功动画
+Android图表库MPAndroidChart(十四)——在ListView种使用相同的图表
+Service服务AIDL进程通信详细总结
+Android中LaunchMode详解
+几种典型的服务器网络编程模型归纳(select poll epoll)
+AsyncTask实现机制
+React Native Android 应用层实战沦陷记
+FIB系统分析二(linux网络协议栈笔记)
+一个绚丽的Downloading动效分析与实现
+Android评论图片可移动顺序选择器
+Android开机速度优化简单回顾
+一个执行计划异常变更的案例 - 前传
+AOP面向切面编程简介
+动态规划总结
+谈一谈今年的移动互联网寒冬
+【Machine learning（python篇)】-几种常用的数据结构
+Redis源码剖析--对象object
+SQL Server 扩展事件（Extented Events）从入门到进阶（4）——扩展事件引擎——基本概念
+Android消息推送：手把手教你集成小米推送
+【Learning Notes】变分自编码（Variational Auto-Encoder，VAE）
+开发微信公众号后台，原来这么简单？[微信公众号开发]
+大话Hadoop1.0、Hadoop2.0与Yarn平台
+Android Fragment 的使用，一些你不可不知的注意事项
+Ionic开发实战
+依赖注入利器 - Dagger ‡
+30分钟掌握ES6核心内容
+HDFS内副本和块的状态分析
+再聊线程池
+Android Multimedia框架总结（二十三）MediaCodec补充及MediaMuxer引入（附案例）
+Raft算法国际论文全翻译
+Android测试的坑——屏幕翻转
+令人躁动一时且令人不安的TCP BBR算法
+C++从零实现深度神经网络之二——前向传播和反向传播
+感谢所有的幸运与不幸 --- 致我的2016
+《图说VR入门》——360全景视频
+Python爬虫初识
+深入理解JS继承和原型链
+Nginx + Tomcat 反向代理 负载均衡 集群 部署指南
+什么是算法
+真的炸了：让人头痛的小程序之『图片懒加载』终极解决方案
+Sphinx + Coreseek 实现中文分词搜索
+如何修改TextView链接点击实现(包含链接生成与点击原理分析)
+spring中自定义Event事件的使用和浅析
+关于Java并发编程的总结和思考
+使用zxing批量生成二维码立牌
+这交互炸了(二)：爱范儿是如何让详情页缩小为横向列表的
+Android stuido 中的keystore
+Spark 开发调优（一）
+Circuit Breaker模式
+ffmpeg学习五：avformat_open_input函数源码分析（以mp4文件为例）
+SQL Server 扩展事件（Extented Events）从入门到进阶（3）——通过界面操作Extented Event
+微信小程序开发之五星评分
+802.11协议精读12：初探协议性能
+Android自定义一个属于自己的时间钟表
+AsyncTask机制详解
+Android中利用icodetools工具快速定位App破解中关键点方法
+Android 秒级编译 Freeline
+Windows下libevent C++封装类实现
+Canvas制作动态进度加载水球
+C++ 多线程编程总结
+全栈必备 面向数据的架构
+Redis源码解析——双向链表
+机器学习系列-K-NearestNeighbo
+自定义控件三部曲之动画篇(九)——联合动画的代码实现
+Android 开发:由模块化到组件化
+<ROS> Gazebo Ros Control 及 Controller运用
+利用开源软件 Hugin 实现照片的景深合成
+Android 渗透测试学习手册 第三章 Android 应用的逆向和审计
+DragVideo，一种在播放视频时，可以任意拖拽的方案
+android不知不觉偷拍他人功能实现（手机关闭依然拍照）
+mongodb副本集搭建过程中的问题和解决技巧

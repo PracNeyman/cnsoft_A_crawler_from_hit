@@ -1,0 +1,5 @@
+goodName 罗西尼正品手表时尚腕表石英表精钢防水商务日历男表514631
+defaultPrice 1160.00
+place 广东珠海
+shopName 罗西尼手表官方旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=41379390961&ns=1&abbucket=0

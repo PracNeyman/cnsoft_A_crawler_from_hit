@@ -1,5 +1,0 @@
-goodName 麦哲双肩包男士韩版书包背包时尚潮流学生旅行包休闲男包皮电脑包
-defaultPrice 308.00
-place 浙江杭州
-shopName mcgor旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=45156892993&ns=1&abbucket=10

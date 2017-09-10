@@ -1,5 +1,0 @@
-goodName 书包女双肩包韩版原宿ulzzang校园风高中大学生中学生背包旅行包
-defaultPrice 245.00
-place 广东广州
-shopName 橙路旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=520803847543&ns=1&abbucket=10

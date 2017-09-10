@@ -1,5 +1,0 @@
-goodName 超级飞侠书包儿童小学生立体1双肩幼儿园3-6岁男女童乐迪小爱
-defaultPrice 178.00
-place 上海
-shopName 宝典玩具专营店
-goodUrl https://detail.tmall.com/item.htm?&id=537073304687&ns=1&abbucket=10

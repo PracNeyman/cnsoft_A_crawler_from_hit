@@ -1,5 +1,0 @@
-goodName 木村原宿2017新款双肩包女韩版潮背包男中学生校园书包电脑旅行包
-defaultPrice 88.00
-place 广东广州
-shopName 木村原宿旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=533592103760&ns=1&abbucket=10

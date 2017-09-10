@@ -1,5 +1,0 @@
-goodName 双肩包女韩版个性百搭书包pu软皮时尚简约背包妈咪包包2017新款潮
-defaultPrice 139.00
-place 天津
-shopName 派茜旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=552737313098&ns=1&abbucket=10

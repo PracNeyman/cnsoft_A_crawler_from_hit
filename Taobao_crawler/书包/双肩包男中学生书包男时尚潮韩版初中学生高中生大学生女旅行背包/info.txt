@@ -1,5 +1,0 @@
-goodName 双肩包男中学生书包男时尚潮韩版初中学生高中生大学生女旅行背包
-defaultPrice 160.00
-place 广东广州
-shopName wolfhorse箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=540060292222&ns=1&abbucket=10

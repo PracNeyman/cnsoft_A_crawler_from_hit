@@ -1,5 +1,0 @@
-goodName 普莱顿男士帆布背包男 双肩包潮流时尚书包大学生休闲旅行包韩版
-defaultPrice 298.00
-place 广东广州
-shopName 普莱顿旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548746681676&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 艾奔 双肩包男 男士背包韩版潮女高中学生书包休闲商务电脑包旅行
-defaultPrice 469.00 - 519.00
-place 福建泉州
-shopName aspensport旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=17607053550&ns=1&abbucket=10

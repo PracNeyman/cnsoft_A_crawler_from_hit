@@ -1,5 +1,0 @@
-goodName 男包韩版潮包学生书包女包PU皮男士双肩包男背包电脑包休闲旅行包
-defaultPrice 189.00
-place 天津
-shopName 艾乖旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=533980473052&ns=1&abbucket=10

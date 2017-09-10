@@ -1,5 +1,0 @@
-goodName 儿童书包1-3-4-6年级双肩12周岁书包小学生女孩韩版可爱公主背包
-defaultPrice 158.00 - 198.00
-place 湖南邵阳
-shopName 酷儿宝贝旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=543311066172&ns=1&abbucket=10

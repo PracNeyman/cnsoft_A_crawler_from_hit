@@ -1,5 +1,0 @@
-goodName 书包男时尚潮流韩版高中学生校园双肩包大容量休闲旅行包男士背包
-defaultPrice 79.00
-place 广东广州
-shopName 偶爱旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=550818260973&ns=1&abbucket=10

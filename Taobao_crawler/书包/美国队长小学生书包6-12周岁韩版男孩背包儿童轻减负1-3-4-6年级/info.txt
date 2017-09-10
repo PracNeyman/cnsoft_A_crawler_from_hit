@@ -1,5 +1,0 @@
-goodName 美国队长小学生书包6-12周岁韩版男孩背包儿童轻减负1-3-4-6年级
-defaultPrice 168.00 - 188.00
-place 湖南邵阳
-shopName 酷儿宝贝旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=534845548418&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 双肩包女士背包2017新款韩版个性百搭书包时尚街头潮流旅行包包夏
-defaultPrice 128.00
-place 浙江杭州
-shopName 弥语旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=547936315406&ns=1&abbucket=10

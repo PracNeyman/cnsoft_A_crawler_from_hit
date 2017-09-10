@@ -1,5 +1,0 @@
-goodName 2017新款潮书包牛津布双肩包女韩版帆布背包时尚女包学院风旅行包
-defaultPrice 98.00
-place 广东广州
-shopName 米格莱思旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=540976227787&ns=1&abbucket=10

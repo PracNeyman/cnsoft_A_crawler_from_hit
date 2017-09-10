@@ -1,5 +1,0 @@
-goodName 韩版书包女双肩包大容量潮学院休闲男初中生背包简约中学生旅行包
-defaultPrice 328.00
-place 广东广州
-shopName wolfhorse箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=44639916701&ns=1&abbucket=10

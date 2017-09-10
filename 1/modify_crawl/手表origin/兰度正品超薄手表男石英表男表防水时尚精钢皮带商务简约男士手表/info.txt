@@ -1,0 +1,5 @@
+goodName 兰度正品超薄手表男石英表男表防水时尚精钢皮带商务简约男士手表
+defaultPrice 1880.00
+place 广东广州
+shopName 兰度旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=537532253363&ns=1&abbucket=0

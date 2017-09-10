@@ -1,0 +1,5 @@
+goodName 冠琴手表男士全自动机械表男表夜光精钢带防水时尚商务手表
+defaultPrice 1980.00
+place 广东佛山
+shopName 冠琴舒东达专卖
+goodUrl https://detail.tmall.com/item.htm?&id=41643270154&ns=1&abbucket=0

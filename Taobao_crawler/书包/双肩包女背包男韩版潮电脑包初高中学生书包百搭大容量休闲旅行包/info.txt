@@ -1,5 +1,0 @@
-goodName 双肩包女背包男韩版潮电脑包初高中学生书包百搭大容量休闲旅行包
-defaultPrice 199.00
-place 福建泉州
-shopName malwee箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=543205130849&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 韩版儿童书包小学生男1-3-4-6年级6-12周岁男童女童男生双肩包女
-defaultPrice 138.00
-place 广东广州
-shopName ausqi旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=40176444770&ns=1&abbucket=10

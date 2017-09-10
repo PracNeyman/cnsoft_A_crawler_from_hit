@@ -1,5 +1,0 @@
-goodName 时尚双肩包女韩版2017春夏新款潮书包休闲女士背包简约旅行小包包
-defaultPrice 168.00 - 178.00
-place 广东广州
-shopName 奈雯旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=543005469214&ns=1&abbucket=10

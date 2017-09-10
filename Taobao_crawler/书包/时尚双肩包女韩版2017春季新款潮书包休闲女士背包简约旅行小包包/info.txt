@@ -1,5 +1,0 @@
-goodName 时尚双肩包女韩版2017春季新款潮书包休闲女士背包简约旅行小包包
-defaultPrice 138.00
-place 浙江杭州
-shopName 木佰旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=547875481431&ns=1&abbucket=10

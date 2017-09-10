@@ -1,5 +1,0 @@
-goodName 迪卡侬双肩背包 运动包女男书包 旅游迷你休闲包潮 17L NEWFEEL
-defaultPrice 29.90
-place 江苏苏州
-shopName 迪卡侬旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=6904480815&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 花间公主丽娜的梦女士背包2017新款双肩包休闲文艺尼龙书包女百搭
-defaultPrice 368.00
-place 上海
-shopName 花间公主旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=545815994740&ns=1&abbucket=10

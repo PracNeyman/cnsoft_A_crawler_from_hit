@@ -1,5 +1,0 @@
-goodName 双肩包女日本新款旅行背包男学生书包大容量多功能手提妈咪包百搭
-defaultPrice 118.00 - 148.00
-place 浙江湖州
-shopName 百峰箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=537749770191&ns=1&abbucket=10

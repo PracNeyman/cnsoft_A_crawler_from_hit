@@ -1,0 +1,5 @@
+goodName 珐帝穆勒正品男士手表男皮带防水石英表商务时尚潮流夜光学生男表
+defaultPrice 1980.00
+place 浙江金华
+shopName 珐帝穆勒旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=525228256605&ns=1&abbucket=0

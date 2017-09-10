@@ -1,5 +1,0 @@
-goodName 裂狼时尚潮流皮男双肩包休闲男包旅行大容量男士背包时尚学生书包
-defaultPrice 328.00
-place 广东广州
-shopName 裂狼旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=534236889339&ns=1&abbucket=10

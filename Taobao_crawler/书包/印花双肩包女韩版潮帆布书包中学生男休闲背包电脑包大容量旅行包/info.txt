@@ -1,5 +1,0 @@
-goodName 印花双肩包女韩版潮帆布书包中学生男休闲背包电脑包大容量旅行包
-defaultPrice 238.00 - 259.00
-place 广东广州
-shopName forevercultivate旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=44927141935&ns=1&abbucket=10

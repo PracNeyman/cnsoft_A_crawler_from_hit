@@ -1,0 +1,5 @@
+goodName 古腾学生手表男初中电子石英表青少年防水男表高中男孩儿童手表潮
+defaultPrice 139.00
+place 浙江金华
+shopName 古腾旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=544659522818&ns=1&abbucket=0

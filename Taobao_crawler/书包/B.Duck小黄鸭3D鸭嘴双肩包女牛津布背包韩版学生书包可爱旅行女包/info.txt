@@ -1,5 +1,0 @@
-goodName B.Duck小黄鸭3D鸭嘴双肩包女牛津布背包韩版学生书包可爱旅行女包
-defaultPrice 498.00
-place 广东惠州
-shopName semk旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=540405963853&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 手表男学生防水运动电子表青少年跑步潮男表数字式男孩多功能男表
+defaultPrice 98.00
+place 浙江金华
+shopName 古腾旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=533898128408&ns=1&abbucket=0

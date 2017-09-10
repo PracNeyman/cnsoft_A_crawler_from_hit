@@ -1,5 +1,0 @@
-goodName 女士双肩包女韩版时尚个性百搭迷你小包包2017新款潮书包背包女包
-defaultPrice 139.00
-place 浙江杭州
-shopName 爱潮鸟旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=537895518425&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 迪士尼幼儿园书包男童女童米奇卡通小孩1-3-5岁儿童宝宝双肩背包
-defaultPrice 88.00
-place 上海
-shopName 多妙屋母婴旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=17817870515&ns=1&abbucket=10

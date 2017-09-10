@@ -1,5 +1,0 @@
-goodName 第九城双肩包男韩版时尚潮流男包大学生休闲书包男士高中旅行背包
-defaultPrice 399.00
-place 广东广州
-shopName 第九城旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=544077242899&ns=1&abbucket=10

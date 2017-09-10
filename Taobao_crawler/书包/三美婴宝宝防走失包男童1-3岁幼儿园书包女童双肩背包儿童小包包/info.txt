@@ -1,5 +1,0 @@
-goodName 三美婴宝宝防走失包男童1-3岁幼儿园书包女童双肩背包儿童小包包
-defaultPrice 98.75
-place 山东青岛
-shopName 三美婴旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=533997299653&ns=1&abbucket=10

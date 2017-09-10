@@ -1,5 +1,0 @@
-goodName 幼儿园书包1-3-6周岁男童大班机器人儿童双肩包女宝宝防走失背包
-defaultPrice 198.00
-place 广东广州
-shopName 冠军小熊旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=38991904893&ns=1&abbucket=10

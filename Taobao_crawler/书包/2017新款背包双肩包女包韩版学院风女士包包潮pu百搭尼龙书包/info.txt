@@ -1,5 +1,0 @@
-goodName 2017新款背包双肩包女包韩版学院风女士包包潮pu百搭尼龙书包
-defaultPrice 39.90
-place 天津
-shopName 柏斯菲旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=549939647259&ns=1&abbucket=10

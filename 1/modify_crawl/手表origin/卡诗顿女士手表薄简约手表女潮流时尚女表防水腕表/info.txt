@@ -1,0 +1,5 @@
+goodName 卡诗顿女士手表薄简约手表女潮流时尚女表防水腕表
+defaultPrice 268.00
+place 福建南平
+shopName 卡诗顿捷雅专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=556273703798&ns=1&abbucket=0

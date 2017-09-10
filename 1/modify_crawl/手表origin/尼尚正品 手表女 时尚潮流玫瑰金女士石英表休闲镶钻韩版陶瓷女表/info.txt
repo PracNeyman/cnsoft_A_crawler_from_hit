@@ -1,0 +1,5 @@
+goodName 尼尚正品 手表女 时尚潮流玫瑰金女士石英表休闲镶钻韩版陶瓷女表
+defaultPrice 1689.00
+place 湖北武汉
+shopName nesun尼尚手表旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=550560822179&ns=1&abbucket=0

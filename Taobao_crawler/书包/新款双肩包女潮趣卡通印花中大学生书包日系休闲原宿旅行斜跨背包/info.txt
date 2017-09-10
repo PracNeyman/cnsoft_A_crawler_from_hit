@@ -1,5 +1,0 @@
-goodName 新款双肩包女潮趣卡通印花中大学生书包日系休闲原宿旅行斜跨背包
-defaultPrice 39.90
-place 河北保定
-shopName 甜蜜都市旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548906706337&ns=1&abbucket=10

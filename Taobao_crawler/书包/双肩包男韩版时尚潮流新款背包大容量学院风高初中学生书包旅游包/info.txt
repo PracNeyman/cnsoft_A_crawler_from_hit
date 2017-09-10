@@ -1,5 +1,0 @@
-goodName 双肩包男韩版时尚潮流新款背包大容量学院风高初中学生书包旅游包
-defaultPrice 168.00
-place 广东广州
-shopName 亚妮梦奴旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=540788276470&ns=1&abbucket=10

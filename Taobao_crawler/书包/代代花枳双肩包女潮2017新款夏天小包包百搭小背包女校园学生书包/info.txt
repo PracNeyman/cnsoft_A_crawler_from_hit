@@ -1,5 +1,0 @@
-goodName 代代花枳双肩包女潮2017新款夏天小包包百搭小背包女校园学生书包
-defaultPrice 59.90
-place 北京
-shopName 代代花枳旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=537106723127&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 迪塔正品男士手表男表真皮带防水商务腕表学生时尚潮流运动石英表
+defaultPrice 1200.00
+place 广东广州
+shopName 迪塔手表旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=524164798826&ns=1&abbucket=0\u0026on_comment\u003d1

@@ -1,5 +1,0 @@
-goodName 迪士尼书包小学生女生1-3-4年级苏菲亚女童6-12周岁儿童双肩背包
-defaultPrice 198.00 - 208.00
-place 广东东莞
-shopName 中航智母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=535689834144&ns=1&abbucket=10

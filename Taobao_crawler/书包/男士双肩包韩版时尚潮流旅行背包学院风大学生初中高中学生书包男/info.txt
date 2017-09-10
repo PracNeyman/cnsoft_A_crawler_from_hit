@@ -1,5 +1,0 @@
-goodName 男士双肩包韩版时尚潮流旅行背包学院风大学生初中高中学生书包男
-defaultPrice 298.00
-place 广东广州
-shopName iozo旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=543614451950&ns=1&abbucket=10

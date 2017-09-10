@@ -1,5 +1,0 @@
-goodName 书包小学生1-2-3-6年级男女生减负双肩儿童书包超轻防水护脊背包
-defaultPrice 162.00 - 168.00
-place 湖南邵阳
-shopName 智多狐旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=544046621313&ns=1&abbucket=10

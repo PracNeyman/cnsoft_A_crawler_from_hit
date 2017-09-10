@@ -1,5 +1,0 @@
-goodName 时尚双肩包韩版2017新款百搭休闲背包潮编织铆钉PU校园书包女学生
-defaultPrice 96.00
-place 上海
-shopName 木村耀司旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=530603333872&ns=1&abbucket=10

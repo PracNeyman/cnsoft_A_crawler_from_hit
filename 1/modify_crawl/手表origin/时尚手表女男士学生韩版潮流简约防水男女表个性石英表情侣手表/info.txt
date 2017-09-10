@@ -1,0 +1,5 @@
+goodName 时尚手表女男士学生韩版潮流简约防水男女表个性石英表情侣手表
+defaultPrice 350.00
+place 浙江金华
+shopName 卡美仕旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=520343191129&ns=1&abbucket=0

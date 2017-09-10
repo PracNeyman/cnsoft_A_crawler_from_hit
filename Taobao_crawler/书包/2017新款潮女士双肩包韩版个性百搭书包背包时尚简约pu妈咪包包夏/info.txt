@@ -1,5 +1,0 @@
-goodName 2017新款潮女士双肩包韩版个性百搭书包背包时尚简约pu妈咪包包夏
-defaultPrice 138.00
-place 浙江杭州
-shopName 木佰旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=546515778506&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 背包男休闲男士大学生书包女韩版时尚潮流青年电脑包商务男双肩包
-defaultPrice 358.00
-place 福建漳州
-shopName tbone旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=520570362934&ns=1&abbucket=10

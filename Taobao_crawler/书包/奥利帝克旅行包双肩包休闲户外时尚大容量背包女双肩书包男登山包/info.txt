@@ -1,5 +1,0 @@
-goodName 奥利帝克旅行包双肩包休闲户外时尚大容量背包女双肩书包男登山包
-defaultPrice 328.00 - 348.00
-place 广东广州
-shopName olidik奥利帝克旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=20164083662&ns=1&abbucket=10

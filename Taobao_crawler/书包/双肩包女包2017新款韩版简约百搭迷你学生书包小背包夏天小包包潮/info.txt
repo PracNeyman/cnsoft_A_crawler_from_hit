@@ -1,5 +1,0 @@
-goodName 双肩包女包2017新款韩版简约百搭迷你学生书包小背包夏天小包包潮
-defaultPrice 258.00 - 398.00
-place 广东广州
-shopName toutou旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=520683527974&ns=1&abbucket=10

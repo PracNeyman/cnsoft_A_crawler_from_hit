@@ -1,5 +1,0 @@
-goodName 迪士尼美国队长小学生书包男1-3-6年级减负护脊双肩背包儿童书包
-defaultPrice 168.00
-place 湖北武汉
-shopName 迅步母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=531800050520&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 2017新款女双肩包韩版夏季个性背包校园学生书包百搭女士小包包潮
-defaultPrice 149.00
-place 广东广州
-shopName 芳妃箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=549458476520&ns=1&abbucket=10

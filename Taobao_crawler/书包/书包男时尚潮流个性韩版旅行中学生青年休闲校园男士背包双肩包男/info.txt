@@ -1,5 +1,0 @@
-goodName 书包男时尚潮流个性韩版旅行中学生青年休闲校园男士背包双肩包男
-defaultPrice 109.00
-place 广东广州
-shopName 沃曼威斯丰傲专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=547783127867&ns=1&abbucket=10

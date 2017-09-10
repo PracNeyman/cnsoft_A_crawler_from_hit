@@ -1,0 +1,5 @@
+goodName 新款韩版小清新手表女时尚简约可爱中学生儿童石英表个性ulzzang
+defaultPrice 118.00
+place 广东广州
+shopName 筱雅奔凯专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=551001566039&ns=1&abbucket=0

@@ -1,5 +1,0 @@
-goodName 双肩包男士韩版背包时尚潮流电脑包大容量高中学生书包户外旅行包
-defaultPrice 98.00 - 108.00
-place 上海
-shopName 木村耀司旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548525329649&ns=1&abbucket=10

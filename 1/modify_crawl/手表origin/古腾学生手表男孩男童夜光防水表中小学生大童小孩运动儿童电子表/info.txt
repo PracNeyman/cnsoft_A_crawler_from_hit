@@ -1,0 +1,5 @@
+goodName 古腾学生手表男孩男童夜光防水表中小学生大童小孩运动儿童电子表
+defaultPrice 99.00
+place 浙江金华
+shopName 古腾旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=530980665118&ns=1&abbucket=0\u0026on_comment\u003d1

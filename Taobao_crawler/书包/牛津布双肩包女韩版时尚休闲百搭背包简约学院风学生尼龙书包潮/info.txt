@@ -1,5 +1,0 @@
-goodName 牛津布双肩包女韩版时尚休闲百搭背包简约学院风学生尼龙书包潮
-defaultPrice 109.00
-place 广东广州
-shopName 大脸兔旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=541695434334&ns=1&abbucket=10

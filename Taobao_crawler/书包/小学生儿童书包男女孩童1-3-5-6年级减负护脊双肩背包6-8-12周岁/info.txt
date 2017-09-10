@@ -1,5 +1,0 @@
-goodName 小学生儿童书包男女孩童1-3-5-6年级减负护脊双肩背包6-8-12周岁
-defaultPrice 168.00 - 188.00
-place 上海
-shopName 曼嵘玩具专营店
-goodUrl https://detail.tmall.com/item.htm?&id=43730494010&ns=1&abbucket=10

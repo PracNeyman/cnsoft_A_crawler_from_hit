@@ -1,0 +1,5 @@
+goodName 瑞之缘正品手表男士精钢带防水腕表真皮镂空全自动机械表男表手表
+defaultPrice 2880.00
+place 广东广州
+shopName 瑞之缘旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=526504639963&ns=1&abbucket=0\u0026on_comment\u003d1

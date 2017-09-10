@@ -1,5 +1,0 @@
-goodName 包包2017新款韩版双肩包女包包PU皮背包女士休闲书包高初中学生包
-defaultPrice 188.00
-place 浙江杭州
-shopName 瑞韩香箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=532942522321&ns=1&abbucket=10

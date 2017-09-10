@@ -1,5 +1,0 @@
-goodName 欧美双肩包男背包时尚潮流学生韩版书包女皮质PU个性百搭旅行英伦
-defaultPrice 238.00
-place 广东广州
-shopName liveboxendirect箱包旗舰
-goodUrl https://detail.tmall.com/item.htm?&id=544063404819&ns=1&abbucket=10

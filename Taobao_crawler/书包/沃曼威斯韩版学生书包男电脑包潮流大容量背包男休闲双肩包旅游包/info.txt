@@ -1,5 +1,0 @@
-goodName 沃曼威斯韩版学生书包男电脑包潮流大容量背包男休闲双肩包旅游包
-defaultPrice 399.00
-place 广东广州
-shopName 沃曼威斯旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=35639800101&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 男士双肩包背包男电脑包高中大学生书包男女韩版潮休闲时尚旅行包
-defaultPrice 368.00
-place 广东广州
-shopName 宝鲨旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=541245033793&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 瑞士双肩包男士旅行包瑞士军刀休闲电脑背包女高中初中学生书包潮
-defaultPrice 218.00
-place 广东广州
-shopName 瑞戈日进专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=549176122464&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 轻便双肩包登山包户外背包可折叠男女书包旅游旅行包皮肤包超轻
-defaultPrice 288.00
-place 广东广州
-shopName olidik奥利帝克旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=544754479796&ns=1&abbucket=10

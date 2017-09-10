@@ -1,0 +1,3 @@
+CrawTime: 20
+Delay: 1
+Thread: 10

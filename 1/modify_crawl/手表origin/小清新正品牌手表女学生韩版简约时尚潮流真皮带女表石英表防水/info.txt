@@ -1,0 +1,5 @@
+goodName 小清新正品牌手表女学生韩版简约时尚潮流真皮带女表石英表防水
+defaultPrice 700.00
+place 广东广州
+shopName 雅可维手表专营店
+goodUrl https://detail.tmall.com/item.htm?&id=546550555944&ns=1&abbucket=0

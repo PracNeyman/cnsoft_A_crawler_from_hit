@@ -1,5 +1,0 @@
-goodName 女士包包女2017新款韩版牛津布双肩包女背包女双肩书包旅行包女包
-defaultPrice 298.00
-place 广东广州
-shopName 卡诺蒂兰旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=531897964291&ns=1&abbucket=10

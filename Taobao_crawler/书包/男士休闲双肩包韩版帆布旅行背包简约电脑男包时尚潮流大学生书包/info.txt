@@ -1,5 +1,0 @@
-goodName 男士休闲双肩包韩版帆布旅行背包简约电脑男包时尚潮流大学生书包
-defaultPrice 138.00
-place 上海
-shopName 木村耀司旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=547236272763&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 卡诗顿正品新款超薄手表潮流时尚女表简约女士钢带防水学生石英表
+defaultPrice 288.00
+place 福建福州
+shopName 卡诗顿晟睿专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=543457657256&ns=1&abbucket=0

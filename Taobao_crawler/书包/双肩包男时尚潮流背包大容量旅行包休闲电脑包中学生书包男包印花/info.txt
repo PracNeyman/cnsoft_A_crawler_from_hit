@@ -1,5 +1,0 @@
-goodName 双肩包男时尚潮流背包大容量旅行包休闲电脑包中学生书包男包印花
-defaultPrice 108.00
-place 广东广州
-shopName 沃曼威斯旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=546457965427&ns=1&abbucket=10

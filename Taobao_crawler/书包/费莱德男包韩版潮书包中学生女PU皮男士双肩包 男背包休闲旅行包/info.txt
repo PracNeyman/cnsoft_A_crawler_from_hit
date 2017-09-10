@@ -1,5 +1,0 @@
-goodName 费莱德男包韩版潮书包中学生女PU皮男士双肩包 男背包休闲旅行包
-defaultPrice 368.00
-place 广东广州
-shopName 费莱德旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=521071491549&ns=1&abbucket=10

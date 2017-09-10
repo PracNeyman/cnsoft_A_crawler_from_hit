@@ -1,5 +1,0 @@
-goodName 时尚背包女水洗皮休闲双肩包女韩版妈咪书包包潮百搭软皮2017新款
-defaultPrice 89.00
-place 天津
-shopName blingring旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=552008123825&ns=1&abbucket=10

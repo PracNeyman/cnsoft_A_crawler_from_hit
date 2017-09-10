@@ -1,5 +1,0 @@
-goodName 瑞士军刀双肩包男士背包休闲商务电脑包女韩版高中学生书包旅行包
-defaultPrice 498.00 - 508.00
-place 上海
-shopName 施维茨十字裳酷专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=41943964600&ns=1&abbucket=10

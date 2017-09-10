@@ -1,5 +1,0 @@
-goodName 奥王背包双肩包男电脑旅行包大初中高中学生书包女时尚潮流大容量
-defaultPrice 299.00 - 359.00
-place 广东广州
-shopName 奥王旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=538814514975&ns=1&abbucket=10

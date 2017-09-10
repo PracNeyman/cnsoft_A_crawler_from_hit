@@ -1,5 +1,0 @@
-goodName 七匹熊小学生书包1-3-4-6年级男女生 护脊减负韩版儿童书包
-defaultPrice 188.00
-place 福建泉州
-shopName 七匹熊旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=19732162089&ns=1&abbucket=10

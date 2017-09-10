@@ -1,5 +1,0 @@
-goodName 儿童书包小学生女孩1-3-4-6年级女童双肩背包6-12周岁护脊减负轻
-defaultPrice 156.00 - 168.00
-place 广东广州
-shopName 大欧太阳宝贝旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=551609642512&ns=1&abbucket=10

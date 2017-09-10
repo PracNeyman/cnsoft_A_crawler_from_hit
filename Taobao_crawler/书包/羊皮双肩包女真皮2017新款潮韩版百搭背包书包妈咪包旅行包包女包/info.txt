@@ -1,5 +1,0 @@
-goodName 羊皮双肩包女真皮2017新款潮韩版百搭背包书包妈咪包旅行包包女包
-defaultPrice 338.00
-place 河北保定
-shopName 青蛙岛箱包旗舰
-goodUrl https://detail.tmall.com/item.htm?&id=547447433216&ns=1&abbucket=10

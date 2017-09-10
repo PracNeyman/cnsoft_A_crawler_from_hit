@@ -1,5 +1,0 @@
-goodName 汉客时尚双肩包女休闲背包男电脑包大学生书包旅游包大容量旅行包
-defaultPrice 368.00 - 380.00
-place 广东广州
-shopName 汉客旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=12880325807&ns=1&abbucket=10

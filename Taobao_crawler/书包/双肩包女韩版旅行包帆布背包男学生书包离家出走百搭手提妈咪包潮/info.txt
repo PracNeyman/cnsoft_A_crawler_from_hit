@@ -1,5 +1,0 @@
-goodName 双肩包女韩版旅行包帆布背包男学生书包离家出走百搭手提妈咪包潮
-defaultPrice 99.00
-place 广东广州
-shopName laselener旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=552140031515&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 阿帕琦手表男士机械表男表全自动镂空学生防水夜光潮流运动腕表
+defaultPrice 399.00 - 470.00
+place 上海
+shopName 阿帕琦旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=549701869539&ns=1&abbucket=0

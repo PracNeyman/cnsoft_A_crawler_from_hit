@@ -1,5 +1,0 @@
-goodName tigerfamily儿童书包 小学生一年级书包女男6-10岁减负护脊双肩包
-defaultPrice 398.00 - 428.00
-place 广东阳江
-shopName tigerfamily旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=45129832334&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 咔米嗒幼儿园小书包儿童宝宝1-3岁男女童小孩卡通可爱迷你背包
-defaultPrice 60.00
-place 福建福州
-shopName 咔米嗒旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=45559515366&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 2017新款方扣尼龙双肩包女包牛津布大容量旅行背包韩版书包锁扣
-defaultPrice 39.90
-place 北京
-shopName 柏斯菲旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=536522001000&ns=1&abbucket=10

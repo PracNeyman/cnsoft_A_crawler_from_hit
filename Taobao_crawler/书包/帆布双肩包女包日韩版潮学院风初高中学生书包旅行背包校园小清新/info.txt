@@ -1,5 +1,0 @@
-goodName 帆布双肩包女包日韩版潮学院风初高中学生书包旅行背包校园小清新
-defaultPrice 268.00
-place 安徽合肥
-shopName 合肥雨凡箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=42570987198&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 台湾unme书包小学生书包男女1-3-6年级减负背包儿童书包8-10-12岁
-defaultPrice 260.00 - 460.00
-place 上海
-shopName unme旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=22244624468&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 迪士尼幼儿园书包1-3-5岁苏菲亚女童双肩包小宝宝儿童防走失背包6
-defaultPrice 128.00 - 138.00
-place 广东广州
-shopName 野牛母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=540794000337&ns=1&abbucket=10

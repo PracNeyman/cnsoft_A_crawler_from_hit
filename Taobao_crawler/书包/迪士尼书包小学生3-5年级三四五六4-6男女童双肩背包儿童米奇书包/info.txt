@@ -1,5 +1,0 @@
-goodName 迪士尼书包小学生3-5年级三四五六4-6男女童双肩背包儿童米奇书包
-defaultPrice 208.00
-place 上海
-shopName 圣喆母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=524646519433&ns=1&abbucket=10

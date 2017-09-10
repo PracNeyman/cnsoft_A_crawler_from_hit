@@ -1,5 +1,0 @@
-goodName 2017新款妈咪双肩包女韩版百搭书包个性潮时尚女士包包学生小背包
-defaultPrice 188.00
-place 广东广州
-shopName heareem旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548784032823&ns=1&abbucket=10

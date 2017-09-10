@@ -1,5 +1,0 @@
-goodName 双肩包女韩版个性迷你小背包2017新款潮时尚百搭软皮妈咪包包书包
-defaultPrice 188.00
-place 浙江台州
-shopName 粹鸟旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=543069405116&ns=1&abbucket=10

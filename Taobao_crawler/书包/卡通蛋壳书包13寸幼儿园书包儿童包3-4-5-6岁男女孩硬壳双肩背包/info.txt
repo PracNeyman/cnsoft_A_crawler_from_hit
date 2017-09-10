@@ -1,5 +1,0 @@
-goodName 卡通蛋壳书包13寸幼儿园书包儿童包3-4-5-6岁男女孩硬壳双肩背包
-defaultPrice 99.80
-place 安徽合肥
-shopName 乐萱萱母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=538550811304&ns=1&abbucket=10

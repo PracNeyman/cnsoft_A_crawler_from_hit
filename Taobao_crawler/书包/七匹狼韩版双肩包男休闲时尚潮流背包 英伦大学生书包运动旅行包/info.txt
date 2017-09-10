@@ -1,5 +1,0 @@
-goodName 七匹狼韩版双肩包男休闲时尚潮流背包 英伦大学生书包运动旅行包
-defaultPrice 259.00
-place 福建福州
-shopName septwolves诚信达专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=536031466680&ns=1&abbucket=10

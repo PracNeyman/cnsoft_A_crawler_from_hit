@@ -1,5 +1,0 @@
-goodName 巴朗双肩包男背包时尚潮流男士商务电脑包韩版高中生书包休闲旅行
-defaultPrice 182.00
-place 广东广州
-shopName 巴朗旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=547214782261&ns=1&abbucket=10

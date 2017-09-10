@@ -1,5 +1,0 @@
-goodName 迪士尼书包小学生女童1-3-6年级女孩公主休闲旅行双肩包儿童背包
-defaultPrice 138.00 - 158.00
-place 上海
-shopName 多妙屋母婴旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=525119167377&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 牛津大学儿童书包幼儿园3-5-6周岁小班男童双肩背包女孩宝宝包包4
-defaultPrice 138.00
-place 福建福州
-shopName universityofoxford旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=524668491673&ns=1&abbucket=10

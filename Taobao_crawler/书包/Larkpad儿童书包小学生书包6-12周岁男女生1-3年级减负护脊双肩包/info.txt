@@ -1,5 +1,0 @@
-goodName Larkpad儿童书包小学生书包6-12周岁男女生1-3年级减负护脊双肩包
-defaultPrice 278.00 - 298.00
-place 广东深圳
-shopName larkpad玩具旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=41143682580&ns=1&abbucket=10

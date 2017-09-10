@@ -1,5 +1,0 @@
-goodName 木村耀司防水双肩包男容量旅行登山背包女大学生户外15.6电脑书包
-defaultPrice 128.00
-place 上海
-shopName 木村耀司旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=523793040773&ns=1&abbucket=10

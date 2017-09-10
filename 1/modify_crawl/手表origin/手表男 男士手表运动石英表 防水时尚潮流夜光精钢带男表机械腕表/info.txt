@@ -1,0 +1,5 @@
+goodName 手表男 男士手表运动石英表 防水时尚潮流夜光精钢带男表机械腕表
+defaultPrice 388.00
+place 广东广州
+shopName 瑞之缘旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=549413632386&ns=1&abbucket=0\u0026on_comment\u003d1

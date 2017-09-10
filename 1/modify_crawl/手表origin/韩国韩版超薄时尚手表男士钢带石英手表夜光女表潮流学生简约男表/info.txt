@@ -1,0 +1,5 @@
+goodName 韩国韩版超薄时尚手表男士钢带石英手表夜光女表潮流学生简约男表
+defaultPrice 198.00
+place 广东广州
+shopName 筱雅多飞专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=535301463377&ns=1&abbucket=0\u0026on_comment\u003d1

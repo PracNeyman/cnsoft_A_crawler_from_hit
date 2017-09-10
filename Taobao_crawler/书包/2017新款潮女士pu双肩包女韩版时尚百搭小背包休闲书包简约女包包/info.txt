@@ -1,5 +1,0 @@
-goodName 2017新款潮女士pu双肩包女韩版时尚百搭小背包休闲书包简约女包包
-defaultPrice 188.00
-place 河北保定
-shopName jushion聚尚旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=547025097536&ns=1&abbucket=10

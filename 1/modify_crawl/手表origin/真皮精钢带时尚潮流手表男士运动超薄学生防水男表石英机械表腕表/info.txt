@@ -1,0 +1,5 @@
+goodName 真皮精钢带时尚潮流手表男士运动超薄学生防水男表石英机械表腕表
+defaultPrice 1280.00
+place 广东广州
+shopName 瑞之缘旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=45720384749&ns=1&abbucket=0

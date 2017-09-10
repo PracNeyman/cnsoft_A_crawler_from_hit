@@ -1,5 +1,0 @@
-goodName 休闲男士双肩包时尚个性街头潮流背包英伦百搭青年日韩书包皮韩版
-defaultPrice 399.00 - 429.00
-place 河北石家庄
-shopName 赫威保罗旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=537823552472&ns=1&abbucket=10

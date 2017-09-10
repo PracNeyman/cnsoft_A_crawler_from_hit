@@ -1,5 +1,0 @@
-goodName 2017新款女士背包双肩包 女包学生书包韩版潮流时尚旅行PU背包女
-defaultPrice 128.00 - 132.00
-place 广东广州
-shopName 米格莱思旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=44540603196&ns=1&abbucket=10

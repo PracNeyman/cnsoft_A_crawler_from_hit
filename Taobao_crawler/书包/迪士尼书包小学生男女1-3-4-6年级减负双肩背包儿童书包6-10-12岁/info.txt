@@ -1,5 +1,0 @@
-goodName 迪士尼书包小学生男女1-3-4-6年级减负双肩背包儿童书包6-10-12岁
-defaultPrice 148.00 - 208.00
-place 广东东莞
-shopName 星际佳宸母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=544509770382&ns=1&abbucket=10

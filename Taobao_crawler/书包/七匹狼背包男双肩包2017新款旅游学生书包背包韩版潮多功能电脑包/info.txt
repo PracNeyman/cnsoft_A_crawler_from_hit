@@ -1,5 +1,0 @@
-goodName 七匹狼背包男双肩包2017新款旅游学生书包背包韩版潮多功能电脑包
-defaultPrice 339.00
-place 上海
-shopName 七匹狼青牛专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=543534660406&ns=1&abbucket=10

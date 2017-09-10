@@ -1,5 +1,0 @@
-goodName 名鹿大容量双肩包男士背包女休闲旅游旅行包电脑高中学生日韩书包
-defaultPrice 178.00 - 310.00
-place 广东深圳
-shopName 名鹿旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=22481260084&ns=1&abbucket=10

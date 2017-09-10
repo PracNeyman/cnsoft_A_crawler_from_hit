@@ -1,0 +1,5 @@
+goodName 冠琴手表男士防水全自动机械表精钢带夜光薄款双日历商务时尚男表
+defaultPrice 1680.00
+place 广东佛山
+shopName 冠琴雷诚专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=551221203720&ns=1&abbucket=0

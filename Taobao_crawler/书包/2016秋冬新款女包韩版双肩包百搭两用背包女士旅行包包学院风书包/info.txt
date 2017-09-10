@@ -1,5 +1,0 @@
-goodName 2016秋冬新款女包韩版双肩包百搭两用背包女士旅行包包学院风书包
-defaultPrice 168.00
-place 浙江金华
-shopName 帝繄派旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=534290711273&ns=1&abbucket=10

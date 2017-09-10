@@ -1,0 +1,5 @@
+goodName 卡诗顿正品防水钨钢女士手表 玫瑰金女表水钻表 复古表 手表女
+defaultPrice 280.00
+place 福建福州
+shopName 卡诗顿凯利专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=20556691159&ns=1&abbucket=0

@@ -1,5 +1,0 @@
-goodName 2017新款彩条双肩包女韩版百搭旅行小背包时尚书包迷你包牛津布包
-defaultPrice 98.00
-place 广东广州
-shopName 米格莱思旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=546309684022&ns=1&abbucket=10

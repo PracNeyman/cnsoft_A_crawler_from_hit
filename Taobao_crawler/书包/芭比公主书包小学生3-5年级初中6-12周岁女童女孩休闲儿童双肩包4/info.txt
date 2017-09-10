@@ -1,5 +1,0 @@
-goodName 芭比公主书包小学生3-5年级初中6-12周岁女童女孩休闲儿童双肩包4
-defaultPrice 168.00 - 238.00
-place 广东东莞
-shopName 蕙心母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=550463397851&ns=1&abbucket=10

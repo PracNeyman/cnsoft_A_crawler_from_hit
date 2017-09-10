@@ -1,5 +1,0 @@
-goodName 欧扉双肩包女韩版女士包包2017新款潮时尚百搭个性PU皮书包小背包
-defaultPrice 128.00
-place 广东深圳
-shopName orfee欧扉箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=521861367361&ns=1&abbucket=10

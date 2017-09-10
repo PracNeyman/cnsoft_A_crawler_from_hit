@@ -1,5 +1,0 @@
-goodName 书包女学生韩版校园初中生简约帆布高中学生背包小清新港风双肩包
-defaultPrice 69.00 - 89.00
-place 上海
-shopName 木村耀司创申专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=550397980533&ns=1&abbucket=10

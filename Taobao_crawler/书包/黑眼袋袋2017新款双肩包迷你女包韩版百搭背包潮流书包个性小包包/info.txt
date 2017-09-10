@@ -1,5 +1,0 @@
-goodName 黑眼袋袋2017新款双肩包迷你女包韩版百搭背包潮流书包个性小包包
-defaultPrice 278.00 - 318.00
-place 河北石家庄
-shopName 黑眼袋袋箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=534016846073&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 木村耀司旅行背包大容量韩版休闲电脑包简约书包学生潮男士双肩包
-defaultPrice 89.00
-place 上海
-shopName 木村耀司旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=542651106234&ns=1&abbucket=10

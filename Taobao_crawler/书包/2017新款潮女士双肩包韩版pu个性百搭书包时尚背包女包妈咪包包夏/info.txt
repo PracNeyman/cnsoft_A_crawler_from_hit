@@ -1,5 +1,0 @@
-goodName 2017新款潮女士双肩包韩版pu个性百搭书包时尚背包女包妈咪包包夏
-defaultPrice 188.00
-place 河北保定
-shopName jushion聚尚旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=547287444974&ns=1&abbucket=10

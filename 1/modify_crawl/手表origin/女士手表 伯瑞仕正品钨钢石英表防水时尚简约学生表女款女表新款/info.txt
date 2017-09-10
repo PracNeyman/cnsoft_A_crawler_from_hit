@@ -1,0 +1,5 @@
+goodName 女士手表 伯瑞仕正品钨钢石英表防水时尚简约学生表女款女表新款
+defaultPrice 998.00
+place 广东广州
+shopName 伯瑞仕古利奇专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=535969300050&ns=1&abbucket=0\u0026on_comment\u003d1

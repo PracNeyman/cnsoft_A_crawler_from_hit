@@ -1,5 +1,0 @@
-goodName 女士双肩包女韩版pu背包时尚女包学院风包包2016新款潮书包蝴蝶结
-defaultPrice 39.90
-place 天津
-shopName 柏斯菲旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=544276327057&ns=1&abbucket=10

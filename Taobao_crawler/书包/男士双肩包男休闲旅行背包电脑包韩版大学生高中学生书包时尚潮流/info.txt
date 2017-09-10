@@ -1,5 +1,0 @@
-goodName 男士双肩包男休闲旅行背包电脑包韩版大学生高中学生书包时尚潮流
-defaultPrice 278.00
-place 广东广州
-shopName fenruien梵瑞恩霏宇专卖
-goodUrl https://detail.tmall.com/item.htm?&id=524606777798&ns=1&abbucket=10

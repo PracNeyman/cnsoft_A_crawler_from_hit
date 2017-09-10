@@ -1,5 +1,0 @@
-goodName 墨一韩版男士背包休闲双肩包旅行包复古帆布包男包学生书包电脑包
-defaultPrice 228.00
-place 广东广州
-shopName 墨一旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=526936190570&ns=1&abbucket=10

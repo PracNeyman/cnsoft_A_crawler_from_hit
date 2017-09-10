@@ -1,5 +1,0 @@
-goodName 休闲男士双肩包男士背包韩版学生书包皮时尚潮流运动旅行电脑包潮
-defaultPrice 189.00
-place 天津
-shopName 艾乖旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=524425153077&ns=1&abbucket=10

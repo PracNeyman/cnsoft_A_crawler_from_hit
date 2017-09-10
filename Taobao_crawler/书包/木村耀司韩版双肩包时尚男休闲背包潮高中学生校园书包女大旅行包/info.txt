@@ -1,5 +1,0 @@
-goodName 木村耀司韩版双肩包时尚男休闲背包潮高中学生校园书包女大旅行包
-defaultPrice 498.00
-place 上海
-shopName 木村耀司旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=39639224496&ns=1&abbucket=10

@@ -1,0 +1,5 @@
+goodName 运动休闲智能触屏电子手表男跑步多功能户外防水学生计步器手环女
+defaultPrice 399.00
+place 浙江温州
+shopName 欧易手表旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=533217363922&ns=1&abbucket=0

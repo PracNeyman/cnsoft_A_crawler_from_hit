@@ -1,0 +1,5 @@
+goodName 罗宾 手表男 男士手表运动石英表防水时尚潮流夜光精钢带男表腕表
+defaultPrice 298.00
+place 广东广州
+shopName luobin荣仁专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=533213515708&ns=1&abbucket=0\u0026on_comment\u003d1

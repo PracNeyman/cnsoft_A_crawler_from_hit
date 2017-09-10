@@ -1,5 +1,0 @@
-goodName 七匹狼双肩包男 新款商务男士旅行背包女休闲大容量电脑学生书包
-defaultPrice 339.00
-place 上海
-shopName 七匹狼开地专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=524700645913&ns=1&abbucket=10

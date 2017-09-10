@@ -1,5 +1,0 @@
-goodName LOCCOT骆特双肩包男时尚潮流韩版大学生书包休闲简约旅行背包男
-defaultPrice 255.00
-place 广东广州
-shopName loccot旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548364192232&ns=1&abbucket=10

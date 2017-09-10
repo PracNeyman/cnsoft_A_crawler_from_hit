@@ -1,0 +1,5 @@
+goodName 威诺时正品 优雅时尚超薄女士手表女腕表复古精钢带防水石英表女
+defaultPrice 1180.00
+place 浙江金华
+shopName vinoce尊格专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=40847212305&ns=1&abbucket=0

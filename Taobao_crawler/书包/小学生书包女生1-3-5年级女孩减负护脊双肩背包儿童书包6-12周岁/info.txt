@@ -1,5 +1,0 @@
-goodName 小学生书包女生1-3-5年级女孩减负护脊双肩背包儿童书包6-12周岁
-defaultPrice 228.00 - 388.00
-place 湖南邵阳
-shopName 酷儿宝贝卡豆专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=530870876119&ns=1&abbucket=10

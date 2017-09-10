@@ -1,5 +1,0 @@
-goodName 费莱德双肩包男士新款背包休闲时尚学生书包电脑包旅行包韩版潮流
-defaultPrice 188.00
-place 广东广州
-shopName 费莱德旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548140868007&ns=1&abbucket=10

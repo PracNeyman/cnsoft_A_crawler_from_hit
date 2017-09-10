@@ -1,0 +1,5 @@
+goodName 天王表正品男表防水自动机械表 钢带男士手表潮流休闲腕表5845
+defaultPrice 1099.00
+place 广东深圳
+shopName 天王旗舰店
+goodUrl https://detail.tmall.com/item.htm?&id=522566798981&ns=1&abbucket=0

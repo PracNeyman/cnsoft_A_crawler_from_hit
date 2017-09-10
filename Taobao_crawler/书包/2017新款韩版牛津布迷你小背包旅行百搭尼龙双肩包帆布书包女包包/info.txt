@@ -1,5 +1,0 @@
-goodName 2017新款韩版牛津布迷你小背包旅行百搭尼龙双肩包帆布书包女包包
-defaultPrice 79.90
-place 河北保定
-shopName 安朵拉旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=551859600124&ns=1&abbucket=10

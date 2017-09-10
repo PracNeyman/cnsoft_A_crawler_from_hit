@@ -1,5 +1,0 @@
-goodName 泰格奴防盗商务双肩包男背包女电脑包高中大学生书包休闲韩版旅行
-defaultPrice 352.00 - 399.00
-place 广东广州
-shopName 泰格奴箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=20631167404&ns=1&abbucket=10

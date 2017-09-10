@@ -1,5 +1,0 @@
-goodName 森马书包男 时尚拼接撞色学院风双肩包女韩版潮简约百搭学生背包
-defaultPrice 265.00
-place 浙江杭州
-shopName 森马箱包旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=534708985974&ns=1&abbucket=10

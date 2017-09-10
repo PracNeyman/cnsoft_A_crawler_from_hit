@@ -1,5 +1,0 @@
-goodName 迪士尼书包小学生男女1-3-4-6年级米奇减负背包儿童书包8-10-12岁
-defaultPrice 188.00
-place 湖北武汉
-shopName 迅步母婴专营店
-goodUrl https://detail.tmall.com/item.htm?&id=42773176536&ns=1&abbucket=10

@@ -1,5 +1,0 @@
-goodName 七匹狼双肩包男学生书包双肩背包电脑包商务旅行包大容量防水包
-defaultPrice 249.00 - 289.00
-place 湖北武汉
-shopName 七匹狼励诚专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=536576442098&ns=1&abbucket=10

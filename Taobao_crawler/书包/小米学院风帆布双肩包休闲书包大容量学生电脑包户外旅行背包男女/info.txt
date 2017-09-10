@@ -1,5 +1,0 @@
-goodName 小米学院风帆布双肩包休闲书包大容量学生电脑包户外旅行背包男女
-defaultPrice 59.10
-place 上海
-shopName 小米极米专卖店
-goodUrl https://detail.tmall.com/item.htm?&id=547709691308&ns=1&abbucket=10

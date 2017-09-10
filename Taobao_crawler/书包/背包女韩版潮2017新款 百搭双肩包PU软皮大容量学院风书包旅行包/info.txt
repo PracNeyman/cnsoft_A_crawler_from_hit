@@ -1,5 +1,0 @@
-goodName 背包女韩版潮2017新款 百搭双肩包PU软皮大容量学院风书包旅行包
-defaultPrice 229.00
-place 浙江台州
-shopName 纳丝语旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=548219635659&ns=1&abbucket=10

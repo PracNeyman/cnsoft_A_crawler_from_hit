@@ -1,0 +1,5 @@
+goodName 罗宾正品腕表 优雅韩版简约女士手表女时尚潮流精钢防水石英女表
+defaultPrice 990.00 - 1060.00
+place 福建福州
+shopName luobin美凯义专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=550893097336&ns=1&abbucket=0

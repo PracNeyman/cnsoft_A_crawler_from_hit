@@ -1,5 +1,0 @@
-goodName 赫登尔背包双肩包男时尚潮流旅行包迷彩大学生休闲书包韩版电脑包
-defaultPrice 309.00
-place 广东广州
-shopName 赫登尔旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=539346623174&ns=1&abbucket=10

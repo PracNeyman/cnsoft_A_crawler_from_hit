@@ -1,5 +1,0 @@
-goodName 书包男韩版时尚潮流初中学生休闲旅行包大容量背包高中校园双肩包
-defaultPrice 109.00
-place 上海
-shopName cyzm1983旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=537165364697&ns=1&abbucket=10

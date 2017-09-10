@@ -1,5 +1,0 @@
-goodName 牛津布双肩包女韩版百搭学院风尼龙书包妈咪简约时尚潮旅行女背包
-defaultPrice 109.00 - 119.00
-place 广东广州
-shopName 大脸兔旗舰店
-goodUrl https://detail.tmall.com/item.htm?&id=540103565129&ns=1&abbucket=10

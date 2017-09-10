@@ -1,0 +1,5 @@
+goodName 正品艾浪手表男士精钢全自动机械表男表时尚潮流防水薄款商务腕表
+defaultPrice 2680.00
+place 广东广州
+shopName 艾浪鼎睿专卖店
+goodUrl https://detail.tmall.com/item.htm?&id=552739508916&ns=1&abbucket=0
